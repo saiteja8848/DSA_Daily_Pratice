@@ -8,11 +8,15 @@ LeetCode and LintCode Solutions (Covers Top 150 + Neetcode all - Helps to gain k
 <Summary>Arrays</Summary>
 
 ## Arrays
-
+<br>
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
-1 | [Pow(X,N)](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |[JAVA]()| |
+1 | [majority-element](https://leetcode.com/problems/majority-element/) |[JAVA]()| |
+2 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()| |
+3 | [missing-number](https://leetcode.com/problems/missing-number/) |[JAVA]()| |
+4 | [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()| |
+5 | [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/) |[JAVA]()| |
 
 </details>
 
@@ -31,6 +35,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Matrix</Summary>
 
 ## Matrix
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -59,6 +66,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Math</Summary>
 
 ## Math
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -70,9 +80,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 6 | [fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()| |
 7 | [factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()| |
 8 | [count-primes](https://leetcode.com/problems/count-primes/) |[JAVA]()| |
-
+9 | [max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line) |[JAVA]()| |
 </details>
-
 
 
 
@@ -91,6 +100,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Strings</Summary>
 
 ## Strings
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -103,8 +115,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 7 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()| |
 8 | [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/) |[JAVA]()| |
 9 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()| |
+10 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix) |[JAVA]()| |
 </details>
-
 
 
 
@@ -120,6 +132,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Bit Manipulation</Summary>
 
 ## Bit Manipulation
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -127,7 +142,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 2 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/) |[JAVA]()| |
 3 | [ind-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/) |[JAVA]()| |
 4 | [reverse-bits](https://leetcode.com/problems/reverse-bits/) |[JAVA]()| |
-
+5 | [Plus One](https://leetcode.com/problems/plus-one) |[JAVA]()| |
+6 | [Single Nunber](https://leetcode.com/problems/single-number/) |[JAVA]()| |
 </details>
 
 
@@ -153,6 +169,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Prefix</Summary>
 
 ## Prefix
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -175,6 +194,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Greedy</Summary>
 
 ## Greedy
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -197,6 +219,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Two Pointer</Summary>
 
 ## Two Pointer
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -234,6 +259,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Sliding Window</Summary>
 
 ## Sliding Window
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -265,6 +293,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Binary Search</Summary>
 
 ## Binary Search
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -301,6 +332,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Linked Lists</Summary>
 
 ## Linked Lists
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -342,6 +376,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Design</Summary>
 
 ## Design
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -380,6 +417,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Stacks</Summary>
 
 ## Stacks
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -412,6 +452,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>Heaps</Summary>
 
 ## Heaps
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -442,7 +485,10 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <details>
 <Summary>Recursion</Summary>
 
-## Recursion + DP
+## Recursion 
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -462,9 +508,12 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 
 
 <details>
-<Summary>Backtracking + dp</Summary>
+<Summary>Backtracking</Summary>
 
-## BackTracking + DP
+## BackTracking 
+
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -476,14 +525,41 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 6 | [Word Search II](https://leetcode.com/problems/word-search-ii/) |[JAVA]()| |
 7 | [Word Break](https://leetcode.com/problems/word-break/) |[JAVA]()| |
 8 | [Word Break II](https://leetcode.com/problems/word-break-ii/) |[JAVA]()| |
-
+9 | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA]()| |
 
 
 </details>
 
 
 
+<br>
 
+
+
+
+<details>
+<Summary>Dynamic Programming</Summary>
+
+## Dynamic Programming
+
+<br>
+
+### SET - 1
+S.No. | Question Name | Java Solution | Time & Space Complexity |
+------|---------------|---------------|-------------------------|
+1 | [best-time-to-buy-and-sell-stock  ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[JAVA]()| |
+2 | [best-time-to-buy-and-sell-stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[JAVA]()| |
+3 | [maximum-subarray - Kadanes Algorithm ](https://leetcode.com/problems/maximum-subarray/) |[JAVA]()| |
+4 | [maximum-product-subarray ](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA]()| |
+5 | [unique-paths ](https://leetcode.com/problems/unique-paths/) |[JAVA]()| |
+6 | [ house-robber ](https://leetcode.com/problems/house-robber/) |[JAVA]()| |
+7 | [unique-paths ](https://leetcode.com/problems/unique-paths/) |[JAVA]()| |
+8 | [coin-change ](https://leetcode.com/problems/coin-change/) |[JAVA]()| |
+9 | [longest-palindromic-substring ](https://leetcode.com/problems/longest-palindromic-substring/) |[JAVA]()| |
+10 | [perfect-squares ](https://leetcode.com/problems/perfect-squares/) |[JAVA]()| |
+11 | [decode-ways ](https://leetcode.com/problems/decode-ways/) |[JAVA]()| |
+12 | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) |[JAVA]()| |
+</details>
 
 
 
@@ -501,6 +577,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 
 ## Trees
 
+<br>
+
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -510,6 +588,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 4 | [Tree Traversal - DFS(Pre/Post/InOrder)-Iterative ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 
 
+<br>
 
 ## SET- 1(Tree Traversals)
 S.No. | Question Name | Java Solution | Time & Space Complexity |
@@ -522,6 +601,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 10| [Tree Traversals - Vertical Order (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 
 
+<br>
+
 ## SET - 2 (Tree Properties)
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -530,6 +611,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 13| [Tree Properties - Diameter of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 14| [Tree Properties - Ancestors/Decendants of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 15| [Tree Properties - Cousins of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
+
+
+<br>
 
 ### SET - 3 (Validation)
 S.No. | Question Name | Java Solution | Time & Space Complexity |
@@ -542,6 +626,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 20 | [Unique Binary Search tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 21 | [Balanced Binary Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 
+<br>
 
 ### SET - 4 (Coversions and Constructions)
 S.No. | Question Name | Java Solution | Time & Space Complexity |
@@ -552,6 +637,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 25 | [ Construct Binary Tree from Preorder and Inorder Traversal ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 26 | [ Flatten Binary Tree to Linked List ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
 
+<br>
 
 ### SET - 5 (Other Questions)
 S.No. | Question Name | Java Solution | Time & Space Complexity |
@@ -582,6 +668,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 
 ## Tries
 
+<br>
+
 ### SET-1 
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
@@ -602,6 +690,9 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 <Summary>SegmentTrees</Summary>
 
 ## SegmentTrees
+
+<br>
+
 ### SET-1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
