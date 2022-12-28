@@ -142,29 +142,30 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 ### Graph concepts and Algorithms
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
-A | [Graph Representations - Adjacency Matrix](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-B | [Graph Representations - Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-1 | [Graph Traversal - DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-2 | [Graph Traversal - BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-3 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-4 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-5 | [Bipartite Graph - graph coloring(BFS/DFS)](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-6 | [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-7 | [Union Find Algorithm](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-7.1 |[Union Find Algorithm](https://practice.geeksforgeeks.org/problems/union-find/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-8 | [Minimuim Spanning Tree - Kruskals](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-9 | [Minimuim Spanning Tree - Prims](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-10| [Single Source Shortest Path - Dijkstras](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
-11| [All pairs shortest Path - Floyds](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| |
+A | [Graph Representations - Adjacency Matrix](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
+B | [Graph Representations - Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA]()| |
+1 | [Graph Traversal - DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA]()| |
+2 | [Graph Traversal - BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA]()| |
+3 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA]()| |
+4 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA]()| |
+5 | [Bipartite Graph - graph coloring(BFS/DFS)](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA]()| |
+6 | [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA]()| Time - **O(V+E)** <br>Space - **O(V)** |
+7 | [Union Find Algorithm](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA]()| |
+7.1 |[Union Find Algorithm](https://practice.geeksforgeeks.org/problems/union-find/1) |[JAVA]()| |
+8 | [Minimuim Spanning Tree - Kruskals](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA]()| |
+9 | [Minimuim Spanning Tree - Prims](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA]()| |
+10| [Single Source Shortest Path - Dijkstras](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) |[JAVA]()| |
+11| [All pairs shortest Path - Floyds](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[JAVA]()| |
 
 
 ### SET - 1
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
-1 | [Number of Islands(DFS/BFS)](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
-2 | [Surrounded-Regions(DFS/BFS)](https://leetcode.com/problems/surrounded-regions/)|[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
-3 | [Longest Increasing Path In a Matrix (DFS + DP)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
-4 | [Course Schedule(DFS/BFS)](https://leetcode.com/problems/course-schedule/)|[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
+1 | [Number of Islands(DFS/BFS)](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.java)| Time - **O(V+E)** <br>Space - **O(v)** 
+2 | [Surrounded-Regions(DFS/BFS)](https://leetcode.com/problems/surrounded-regions/)|[JAVA](./src/main/java/Graphs/SurroundedRegions.java)| Time - **O(V+E)** <br>Space - **O(v)** 
+3 | [Longest Increasing Path In a Matrix (DFS + DP)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[JAVA](./src/main/java/Graphs/LongestIncreasingPathInAMatrix.java)| Time -  <br>Space - 
+4 | [Course Schedule(DFS/BFS)](https://leetcode.com/problems/course-schedule/)|[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)| Time -  <br>Space - 
 5 | [Course Schedule - II(DFS/BFS)](https://leetcode.com/problems/course-schedule-ii/)|[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
-6 | [Alien Dictionary (DFS/BFS)](https://www.lintcode.com/problem/892/description?fromId=201&_from=collection)|[JAVA](./src/main/java/Arrays/PascalsTrianle_I.java)| Time -  <br>Space - 
-7 | [Find the Celebrity](https://www.lintcode.com/problem/645/description)|[Java]()|Time - <br>Space-
+6 | [Alien Dictionary (Topsort - DFS/BFS)](https://www.lintcode.com/problem/892/description?fromId=201&_from=collection)|[JAVA](./src/main/java/Graphs/AlienDictionary.java)| Time -  <br>Space - 
+7 | [Find the Celebrity](https://www.lintcode.com/problem/645/description)|[Java](./src/main/java/Graphs/FindTheCelebrity.java)|Time - **O(n)** <br>Space-**O(1)**
+8 | [World Ladder](https://leetcode.com/problems/word-ladder/)|[Java](./src/main/java/Graphs/WordLadder_BFS.java)|Time - **O(n)** <br>Space-**O(1)**
