@@ -19,6 +19,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 3 | [missing-number](https://leetcode.com/problems/missing-number/) |[JAVA]()| |
 4 | [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()| |
 5 | [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/) |[JAVA]()| |
+6 | [First Missing Positive - Cyclic Sort](https://leetcode.com/problems/first-missing-positive) |[JAVA](./src/main/java/Arrays/FirstMissingPositive.java)|TC-**O(n)** <br> SC-**O(1)** |
 
 </details>
 
@@ -228,7 +229,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
 1 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA]()| |
-2 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA]()| |
+2 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|TC-**o(N)** |
 3 | [largest-rectangle-in-histogram/](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA]()| |
 4 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA]()| |
 5 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA]()| |
@@ -268,7 +269,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
 1 | [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA]()| |
-2 | [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA]()| |
+2 | [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow/MinimumWindowSubstring.java)| |
 3 | [longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) |[JAVA]()| |
 4 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[JAVA]()| |
 5 | [longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) |[JAVA]()| |
@@ -307,7 +308,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 4 | [Search in a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA]()| |
 5 | [Kth Smallest element in sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA]()| |
 6 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) |[JAVA]()| |
-7 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA]()| |
+7 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|TC:**OLog(m+n)** <br> SC:**O(1)**|
 8 | [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA]()| |
 
 </details>
@@ -463,7 +464,7 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 1 | [find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA]()| |
 2 | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA]()| |
 3 | [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) |[JAVA]()| |
-4 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[JAVA]()| |
+4 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[JAVA](./src/main/java/Heaps/MergeKSortedLists.java)| TC-**O(nlogK)** |
 5 | [the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/) |[JAVA]()| |
 
 </details>
@@ -496,8 +497,8 @@ S.No. | Question Name | Java Solution | Time & Space Complexity |
 ------|---------------|---------------|-------------------------|
 1 | [Pow(X,N)](https://leetcode.com/problems/powx-n/) |[JAVA]()| |
 2 | [Pow Of 3](https://leetcode.com/problems/power-of-three/) |[JAVA]()| |
-3 | [Regular Expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA]()| |
-4 | [Wild Matching](https://leetcode.com/problems/wildcard-matching/) |[JAVA]()| |
+3 | [Regular Expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/DynamicProgramming/RegularExpression.java)|TC - **O(m)** <br> SC - **O(1)**|
+4 | [Wild Matching](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/DynamicProgramming/WildCardPatternMatching.java)|TC - **O(m)** <br> SC - **O(1)**|
 
 </details>
 
