@@ -3,23 +3,23 @@ package CyclicSort;
 import java.util.ArrayList;
 import java.util.List;
 
-
-
 /**
  * 
  * @author saiteja
- * PraticeLink : https://leetcode.com/problems/find-all-duplicates-in-an-array/
+ * PraticeLink :https://leetcode.com/problems/set-mismatch/
  * Time Complexity : O(n)
  * Space Complexity : O(1)
- * Duplicate Number II
+ * 
+ * SAME AS MISSING NUMBER --> fist missing number == first repeated number ==> cyclic sort
  *
  * 
  * 
  *
  */
-public class FillAllDuplicatesInArray {
+public class SetMismatch {
 	
-	public List<Integer> findDuplicates(int[] nums) {
+	// first repeating element === first missing number
+	public int[] findErrorNums(int[] nums) {
 
 		int i = 0;
 		while (i < nums.length) {
@@ -31,20 +31,16 @@ public class FillAllDuplicatesInArray {
 			} else
 				i++;
 		}
-		List<Integer> repeated = new ArrayList<>();
-		// Checking for the missing item in the soted array "nums"
+		// first missig number - index+1, in that place we have repeating no arr[index]
 		for (int z = 0; z < nums.length; z++) {
 			if (nums[z] != z + 1) {
-				repeated.add(nums[z]);
+				return new int[] { nums[z], z + 1 };
 			}
 		}
 
-		return repeated;
+		return new int[] { -1, -1 };
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
-
 }
