@@ -3,25 +3,10 @@ package CyclicSort;
 import java.util.ArrayList;
 import java.util.List;
 
-
-/**
- * 
- * @author saiteja
- * PraticeLink : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
- * Time Complexity : O(n)
- * Space Complexity : O(1)
- * Duplicate Number II
- *
- * 
- * 
- *
- */
-
-
-public class FindAllMissingNumbersInArray {
+public class FillAllDuplicatesInArray {
 	
-	public List<Integer> findDisappearedNumbers(int[] nums) {
-		List<Integer> nonOccuredNumbers = new ArrayList<>();
+	public List<Integer> findDuplicates(int[] nums) {
+
 		int i = 0;
 		while (i < nums.length) {
 			int correct = nums[i] - 1;
@@ -32,15 +17,20 @@ public class FindAllMissingNumbersInArray {
 			} else
 				i++;
 		}
+		List<Integer> repeated = new ArrayList<>();
 		// Checking for the missing item in the soted array "nums"
 		for (int z = 0; z < nums.length; z++) {
 			if (nums[z] != z + 1) {
-				nonOccuredNumbers.add(z + 1);
+				repeated.add(nums[z]);
 			}
 		}
-		return nonOccuredNumbers;
+
+		return repeated;
 	}
-	
+
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
 	}
+
 }
