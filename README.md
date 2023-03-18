@@ -1,773 +1,174 @@
-LeetCode and LintCode Solutions (Covers Top 150 + Neetcode all - Helps to gain knowledge on topics + crack interviews)
-======================================================================================================================
+DataStructures && Algorthims
+============================
 
-## DataStructures & Algorithms
-
-
-<details>
-<Summary>Arrays</Summary>
-
-## Arrays
-
+## Algorithms
+==========
 <br>
+<details>
+<Summary>Two Pointer(26 Problems)</Summary>
 
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [majority-element](https://leetcode.com/problems/majority-element/) |[JAVA]()| |
-2 | [contains-duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()| |
-3 | [missing-number](https://leetcode.com/problems/missing-number/) |[JAVA]()| |
-4 | [longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()| |
-5 | [Shuffle an array](https://leetcode.com/problems/shuffle-an-array/) |[JAVA]()| |
-6 | [First Missing Positive - Cyclic Sort](https://leetcode.com/problems/first-missing-positive) |[JAVA](./src/main/java/Arrays/FirstMissingPositive.java)|TC-**O(n)** <br> SC-**O(1)** |
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA]()|
+2 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA]()|
+3 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
+4 | [Two Sum](https://leetcode.com/problems/two-sum/) |[JAVA]()|
+5 | [Two Sum II - Input Array sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[JAVA]()|
+6 | [3 Sum](https://leetcode.com/problems/3sum/) |[JAVA]()|
+7 | [3 Sum closest](https://leetcode.com/problems/3sum-closest/) |[JAVA]()|
+8 | [4 Sum](https://leetcode.com/problems/4sum/) |[JAVA]()|
+9 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA]()|
+9 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA]()|
+11 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA]()|
+12 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA]()|
+13 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
+14 | [largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA]()|
+15 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA]()|
+16 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA]()|
+17 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA]()|
+18 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA]()|
+19 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA]()|
+20 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA]()|
+21 | [string-compression](https://leetcode.com/problems/string-compression/) |[JAVA]()|
+22 | [Implement StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+23 | [Remove Element](https://leetcode.com/problems/remove-element/) |[JAVA]()|
+24 | [partition-labels](https://leetcode.com/problems/partition-labels/) |[JAVA]()|
+25 | [Heaters](https://leetcode.com/problems/heaters/) |[JAVA]()|
+26 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA]()|
 
+
+
+</details>
+<br>
+<details>
+<Summary>Slow and Fast Pointers (5-Problems)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) |[JAVA]()| |
+2 | [Linked List cycle](https://leetcode.com/problems/linked-list-cycle/) |[JAVA]()| |
+3 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) |[JAVA]()| |
+4 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) |[JAVA]()| |
+5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA]()| |
 </details>
 
 
-
-
-
-
+</details>
 <br>
-
-
-
-
-
 <details>
-<Summary>Matrix</Summary>
+<Summary>Cyclic Sort (6-Problems)</Summary>
 
-## Matrix
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()| |
-2 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/) |[JAVA]()| |
-3 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[JAVA]()| |
-4 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA]()| |
-
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA]()|
+2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA]()|
+3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA]()|
+4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA]()| |
+5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA]()|
+6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA]()|
 </details>
 
 
-
-
-
-
-
-
-
-
+</details>
 <br>
-
-
-
-
 <details>
-<Summary>Math</Summary>
-
-## Math
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [integer-to-roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()| |
-2 | [roman-to-integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()| |
-3 | [excel-sheet-column-title](https://leetcode.com/problems/excel-sheet-column-title/) |[JAVA]()| |
-4 | [excel-sheet-column-number](https://leetcode.com/problems/excel-sheet-column-number/) |[JAVA]()| |
-5 | [divide-two-integers](https://leetcode.com/problems/divide-two-integers/) |[JAVA]()| |
-6 | [fraction-to-recurring-decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()| |
-7 | [factorial-trailing-zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()| |
-8 | [count-primes](https://leetcode.com/problems/count-primes/) |[JAVA]()| |
-9 | [max-points-on-a-line](https://leetcode.com/problems/max-points-on-a-line) |[JAVA]()| |
+<Summary>Sliding Window(Fixed window && Variable Window)</Summary>
 </details>
 
 
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<details>
-<Summary>Strings</Summary>
-
-## Strings
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA]()| |
-2 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()| |
-3 | [Reverse String](https://leetcode.com/problems/reverse-string/) |[JAVA]()| |
-4 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |[JAVA]()| |
-5 | [String to Integer(ATOI)](https://leetcode.com/problems/string-to-integer-atoi/) |[JAVA]()| |
-6 | [Count And Say](https://leetcode.com/problems/count-and-say/) |[JAVA]()| |
-7 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()| |
-8 | [first-unique-character-in-a-string](https://leetcode.com/problems/first-unique-character-in-a-string/) |[JAVA]()| |
-9 | [find-the-index-of-the-first-occurrence-in-a-string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()| |
-10 | [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix) |[JAVA]()| |
 </details>
-
-
-
-
-
-
 <br>
-
-
-
-
-<details>
-<Summary>Bit Manipulation</Summary>
-
-## Bit Manipulation
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA]()| |
-2 | [number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/) |[JAVA]()| |
-3 | [ind-the-duplicate-number](https://leetcode.com/problems/find-the-duplicate-number/) |[JAVA]()| |
-4 | [reverse-bits](https://leetcode.com/problems/reverse-bits/) |[JAVA]()| |
-5 | [Plus One](https://leetcode.com/problems/plus-one) |[JAVA]()| |
-6 | [Single Nunber](https://leetcode.com/problems/single-number/) |[JAVA]()| |
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<details>
-<Summary>Prefix</Summary>
-
-## Prefix
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA]()| |
-
-</details>
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<details>
-<Summary>Greedy</Summary>
-
-## Greedy
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA]()| |
-2 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA]()| |
-3 | [Largest Number](https://leetcode.com/problems/largest-number/) |[JAVA]()| |
-4 | [Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA]()| |
-
-</details>
-
-
-
-<br>
-
-
-
-
-
-<details>
-<Summary>Two Pointer</Summary>
-
-## Two Pointer
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA]()| |
-2 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|TC-**o(N)** |
-3 | [largest-rectangle-in-histogram/](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA]()| |
-4 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA]()| |
-5 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA]()| |
-6 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA]()| |
-7 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA]()| |
-8 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA]()| |
-9 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA]()| |
-10 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA]()| |
-11 | [Two Sum](https://leetcode.com/problems/two-sum/) |[JAVA]()| |
-12 | [3 Sum](https://leetcode.com/problems/3sum/) |[JAVA]()| |
-13 | [3 Sum closest](https://leetcode.com/problems/3sum-closest/) |[JAVA]()| |
-13 | [4 Sum](https://leetcode.com/problems/4sum/) |[JAVA]()| |
-</details>
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<details>
-<Summary>Sliding Window</Summary>
-
-## Sliding Window
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA]()| |
-2 | [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow/MinimumWindowSubstring.java)| |
-3 | [longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/) |[JAVA]()| |
-4 | [longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[JAVA]()| |
-5 | [longest-substring-with-at-most-k-distinct-characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) |[JAVA]()| |
-
-</details>
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
 <details>
 <Summary>Binary Search</Summary>
-
-## Binary Search
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Sqrt](https://leetcode.com/problems/sqrtx/) |[JAVA]()| |
-2 | [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[JAVA]()| |
-3 | [Find First and Last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA]()| |
-4 | [Search in a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA]()| |
-5 | [Kth Smallest element in sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA]()| |
-6 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) |[JAVA]()| |
-7 | [Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|TC:**OLog(m+n)** <br> SC:**O(1)**|
-8 | [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA]()| |
-
 </details>
 
 
-
-
-
-
-
-
+</details>
 <br>
-
-
-
-
-
-
-
-
-
-
 <details>
-<Summary>Linked Lists</Summary>
-
-## Linked Lists
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Pow(X,N)](https://leetcode.com/problems/linked-list-cycle/) |[JAVA]()| |
-2 | [Pow Of 3](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[JAVA]()| |
-3 | [Regular Expression](https://leetcode.com/problems/palindrome-linked-list/) |[JAVA]()| |
-4 | [Sort List](https://leetcode.com/problems/sort-list/) |[JAVA]()| |
-5 | [Merge two sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[JAVA]()| |
-6 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[JAVA]()| |
-7 | [Add two numbers](https://leetcode.com/problems/add-two-numbers/) |[JAVA]()| |
-8 | [populating-next-right-pointers-in-each-node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[JAVA]()| |
-9 | [Copy List with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA]()| |
-10 | [delete-node-in-a-linked-list](https://leetcode.com/problems/delete-node-in-a-linked-list/) |[JAVA]()| |
-11 | [odd-even-linked-list](https://leetcode.com/problems/odd-even-linked-list/) |[JAVA]()| |
-
-
+<Summary>Greedy</Summary>
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<details>
-<Summary>Design</Summary>
-
-## Design
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Insert - Delete - Get Random - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()| |
-2 | [LRU - Cache Algorithm](https://leetcode.com/problems/lru-cache/) |[JAVA](| |
-3 | [LFU - Cache Algorithm](https://leetcode.com/problems/lfu-cache/) |[JAVA]()| |
-4 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) |[JAVA]()| |
-5 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA]()| |
-
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-
-
-
-
-
-
-
-<details>
-<Summary>Stacks</Summary>
-
-## Stacks
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |[JAVA]()| |
-2 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |[JAVA]()| |
-3 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA]()| |
-4 | [Largest Rectangle In a Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA]()| |
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-<details>
-<Summary>Heaps</Summary>
-
-## Heaps
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA]()| |
-2 | [kth-largest-element-in-an-array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA]()| |
-3 | [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/) |[JAVA]()| |
-4 | [merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[JAVA](./src/main/java/Heaps/MergeKSortedLists.java)| TC-**O(nlogK)** |
-5 | [the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/) |[JAVA]()| |
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
 <details>
 <Summary>Recursion</Summary>
-
-## Recursion 
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Pow(X,N)](https://leetcode.com/problems/powx-n/) |[JAVA]()| |
-2 | [Pow Of 3](https://leetcode.com/problems/power-of-three/) |[JAVA]()| |
-3 | [Regular Expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/DynamicProgramming/RegularExpression.java)|TC - **O(m)** <br> SC - **O(1)**|
-4 | [Wild Matching](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/DynamicProgramming/WildCardPatternMatching.java)|TC - **O(m)** <br> SC - **O(1)**|
-
 </details>
 
 
-
-
+</details>
 <br>
-
-
-
-
 <details>
 <Summary>Backtracking</Summary>
-
-## BackTracking 
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Permutations](https://leetcode.com/problems/permutations/) |[JAVA]()| |
-2 | [Subsets](https://leetcode.com/problems/subsets/) |[JAVA]()| |
-3 | [Generate Parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA]()| |
-4 | [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[JAVA]()| |
-5 | [Word Search](https://leetcode.com/problems/word-search/) |[JAVA]()| |
-6 | [Word Search II](https://leetcode.com/problems/word-search-ii/) |[JAVA]()| |
-7 | [Word Break](https://leetcode.com/problems/word-break/) |[JAVA]()| |
-8 | [Word Break II](https://leetcode.com/problems/word-break-ii/) |[JAVA]()| |
-9 | [valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA]()| |
-
-
 </details>
 
 
 
+</details>
 <br>
-
-
-
-
 <details>
 <Summary>Dynamic Programming</Summary>
-
-## Dynamic Programming
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [best-time-to-buy-and-sell-stock  ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[JAVA]()| |
-2 | [best-time-to-buy-and-sell-stock II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[JAVA]()| |
-3 | [maximum-subarray - Kadanes Algorithm ](https://leetcode.com/problems/maximum-subarray/) |[JAVA]()| |
-4 | [maximum-product-subarray ](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA]()| |
-5 | [unique-paths ](https://leetcode.com/problems/unique-paths/) |[JAVA]()| |
-6 | [ house-robber ](https://leetcode.com/problems/house-robber/) |[JAVA]()| |
-7 | [unique-paths ](https://leetcode.com/problems/unique-paths/) |[JAVA]()| |
-8 | [coin-change ](https://leetcode.com/problems/coin-change/) |[JAVA]()| |
-9 | [longest-palindromic-substring ](https://leetcode.com/problems/longest-palindromic-substring/) |[JAVA]()| |
-10 | [perfect-squares ](https://leetcode.com/problems/perfect-squares/) |[JAVA]()| |
-11 | [decode-ways ](https://leetcode.com/problems/decode-ways/) |[JAVA]()| |
-12 | [Climbing Stairs ](https://leetcode.com/problems/climbing-stairs/) |[JAVA]()| |
 </details>
 
 
 
 <br>
+<br>
 
 
+## Data Structures
+===============
 
 
+</details>
+<br>
+<details>
+<Summary>Bitwise</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Stack&& Queues</Summary>
+</details>
 
 
+</details>
+<br>
+<details>
+<Summary>Linked-List</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Design DataStructues</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Arrays - 1D && Arrays-2D</Summary>
+</details>
 
 
+</details>
+<br>
+<details>
+<Summary>Strings</Summary>
+</details>
+
+</details>
+<br>
 <details>
 <Summary>Trees</Summary>
-
-## Trees
-
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Tree Traversal - BFS - Iterative ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-2 | [Tree Traversal - BFS - Recursive ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-3 | [Tree Traversal - DFS(Pre/Post/InOrder)-Recursive ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-4 | [Tree Traversal - DFS(Pre/Post/InOrder)-Iterative ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-
-
-<br>
-
-## SET- 1(Tree Traversals)
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-5 | [Tree Traversals - Left View and Right View of a Tree(DFS/BFS) ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-6 | [Tree Traversals - Top View (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-7 | [Tree Traversals - Bottom View (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-8 | [Tree Traversals - Boundary (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-9 | [Tree Traversals - ZigZag (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-10| [Tree Traversals - Vertical Order (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-
-
-<br>
-
-## SET - 2 (Tree Properties)
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-11| [Tree Properties - Height and Depth (DFS/BFS)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-12| [Tree Properties - Width of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-13| [Tree Properties - Diameter of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-14| [Tree Properties - Ancestors/Decendants of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-15| [Tree Properties - Cousins of a tree)](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-
-
-<br>
-
-### SET - 3 (Validation)
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-15 | [SubTree of another Tree](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-16 | [Same Tree](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-17 | [Symmetric](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-18 | [Invert Binary Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-19 | [Validate Binary Search Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-20 | [Unique Binary Search tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-21 | [Balanced Binary Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-
-<br>
-
-### SET - 4 (Coversions and Constructions)
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-22 | [ Convert Sorted Array to Binary Search Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-23 | [ Convert Sorted List to Binary Search Tree ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-24 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-25 | [ Construct Binary Tree from Preorder and Inorder Traversal ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-26 | [ Flatten Binary Tree to Linked List ](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-
-<br>
-
-### SET - 5 (Other Questions)
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-27 | [ Convert Sorted Array to Binary Search Tree ](https://leetcode.com/problems/merge-two-binary-trees/) |[JAVA]()| |
-28 | [ Convert Sorted List to Binary Search Tree ](https://leetcode.com/problems/path-sum/) |[JAVA]()| |
-29 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[JAVA]()| |
-30 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |[JAVA]()| |
-31 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://leetcode.com/problems/all-possible-full-binary-trees/) |[JAVA]()| |
-32 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |[JAVA]()| |
-33 | [ convert-binary-search-tree-to-sorted-doubly-linked-list ](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |[JAVA]()| |
-34 | [](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[JAVA]()||
-
 </details>
 
-
-
-
-
-
-<br>
-
-
-
-
-<details>
-<Summary>Tries</Summary>
-
-## Tries
-
-<br>
-
-### SET-1 
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [ Implement Trie - Prefix Tree ](https://leetcode.com/problems/implement-trie-prefix-tree/) |[JAVA]()| |
-
-
 </details>
-
-
-
-
-
-
 <br>
-
-
 <details>
-<Summary>SegmentTrees</Summary>
-
-## SegmentTrees
-
-<br>
-
-### SET-1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Range Sum Query - Mutable ](https://leetcode.com/problems/range-sum-query-mutable/) |[JAVA]()| |
-
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-
-
-
-
-
-
-
-<details>
-
 <Summary>Graphs</Summary>
-
-## Graphs
-
-
-<br>
-<br>
-
-### Graph concepts and Algorithms
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-A | [Graph Representations - Adjacency Matrix](https://www.geeksforgeeks.org/graph-and-its-representations/) |[JAVA]()| |
-B | [Graph Representations - Adjacency List](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA]()| |
-1 | [Graph Traversal - DFS](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA]()| |
-2 | [Graph Traversal - BFS](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA]()| |
-3 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA]()| |
-4 | [Cycle Detection - Directed Graph(BFS/DFS)](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA]()| |
-5 | [Bipartite Graph - graph coloring(BFS/DFS)](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA]()| |
-6 | [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA]()| Time - **O(V+E)** <br>Space - **O(V)** |
-7 | [Union Find Algorithm](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA]()| |
-7.1 |[Union Find Algorithm](https://practice.geeksforgeeks.org/problems/union-find/1) |[JAVA]()| |
-8 | [Minimuim Spanning Tree - Kruskals](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA]()| |
-9 | [Minimuim Spanning Tree - Prims](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) |[JAVA]()| |
-10| [Single Source Shortest Path - Dijkstras](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) |[JAVA]()| |
-11| [All pairs shortest Path - Floyds](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[JAVA]()| |
-
-
-<br>
-<br>
-
-### SET - 1
-S.No. | Question Name | Java Solution | Time & Space Complexity |
-------|---------------|---------------|-------------------------|
-1 | [Number of Islands(DFS/BFS)](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.java)| Time - **O(V+E)** <br>Space - **O(v)** 
-2 | [Surrounded-Regions(DFS/BFS)](https://leetcode.com/problems/surrounded-regions/)|[JAVA](./src/main/java/Graphs/SurroundedRegions.java)| Time - **O(V+E)** <br>Space - **O(v)** 
-3 | [Longest Increasing Path In a Matrix (DFS + DP)](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[JAVA](./src/main/java/Graphs/LongestIncreasingPathInAMatrix.java)| Time -  <br>Space - 
-4 | [Course Schedule(DFS/BFS)](https://leetcode.com/problems/course-schedule/)|[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)| Time -  <br>Space - 
-5 | [Course Schedule - II(DFS/BFS)](https://leetcode.com/problems/course-schedule-ii/)|[JAVA]()| Time -  <br>Space - 
-6 | [Alien Dictionary (Topsort - DFS/BFS)](https://www.lintcode.com/problem/892/description?fromId=201&_from=collection)|[JAVA](./src/main/java/Graphs/AlienDictionary.java)| Time -  <br>Space - 
-7 | [Find the Celebrity](https://www.lintcode.com/problem/645/description)|[Java](./src/main/java/Graphs/FindTheCelebrity.java)|Time - **O(n)** <br>Space-**O(1)**
-8 | [World Ladder](https://leetcode.com/problems/word-ladder/)|[Java](./src/main/java/Graphs/WordLadder_BFS.java)|Time - **O(n)** <br>Space-**O(1)**
 </details>
+
+
