@@ -22,7 +22,7 @@ S.No. | Question Name | Java Solution |
 11 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA]()|
 12 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA]()|
 13 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
-14 | [largest-rectangle-in-histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA]()|
+14 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA]()|
 15 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA]()|
 16 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA]()|
 17 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA]()|
