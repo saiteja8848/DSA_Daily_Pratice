@@ -2,7 +2,7 @@ DataStructures && Algorthims
 ============================
 
 ## Algorithms
-==========
+=============
 <br>
 <details>
 <Summary>Two Pointer(26 Problems)</Summary>
@@ -17,7 +17,6 @@ S.No. | Question Name | Java Solution |
 6 | [3 Sum](https://leetcode.com/problems/3sum/) |[JAVA]()|
 7 | [3 Sum closest](https://leetcode.com/problems/3sum-closest/) |[JAVA]()|
 8 | [4 Sum](https://leetcode.com/problems/4sum/) |[JAVA]()|
-9 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA]()|
 9 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA]()|
 11 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA]()|
 12 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
@@ -47,9 +46,11 @@ S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) |[JAVA](./src/main/java/FastAndSlowPointers/MiddleOfTheLinkedList.java)|
 2 | [Linked List cycle](https://leetcode.com/problems/linked-list-cycle/) |[JAVA](./src/main/java/FastAndSlowPointers/LinkedListCycle.java)|
+3 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle/) |[JAVA](./src/main/java/FastAndSlowPointers/LinkedListCycle.java)|
 3 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) |[JAVA](./src/main/java/FastAndSlowPointers/CircularArrayLoop.java)|
 4 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) |[JAVA](./src/main/java/FastAndSlowPointers/PalindromeLinkedList.java)|
 5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
+6 | [Find the duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
 </details>
 
 
@@ -133,14 +134,66 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Binary Search</Summary>
+<Summary>Binary Search - problems(14) - Identification of pattern - Find/search/make-minOrMax -sorted/halfsorted</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Binary Search](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Find the peak Element I](https://leetcode.com/problems/find-peak-element/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Find the peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in a 2DMatrix](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in  a 2DMatrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA](./src/main/java/BinarySearch/)|
+4 |[Search In a rotated + sorted array I](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+4 |[Search In a rotated + sorted array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[JAVA](./src/main/java/BinarySearch/)|
+5 |[Kth Smallest Element In a sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
+6 |[Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+7 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
+8 |[Count of Smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[SQRT](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) |[JAVA](./src/main/java/BinarySearch/)|
+10 |[First bad version](https://leetcode.com/problems/first-bad-version/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[the-painters-partition](https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Allocate-minimum-number-of-pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Aggressive cows](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) |[JAVA](./src/main/java/BinarySearch/)|
+12 |[k-th-element-of-two-sorted-arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
+13 |[search-single-element-in-a-sorted-array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+14 |[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/)|
+-|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
+
 </details>
 
 
 </details>
 <br>
 <details>
-<Summary>Greedy</Summary>
+<Summary>Greedy(8) - Thinking in general way-more desire way of solving problem</Summary>
+
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
+3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
+4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
+5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
+6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
+7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
+8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
+</details>
+
+
+
+</details>
+<br>
+<details>
+<Summary>MergeIntervals</Summary>
+
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
 </details>
 
 
@@ -158,7 +211,6 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-
 </details>
 <br>
 <details>
@@ -172,7 +224,7 @@ S.No. | Question Name | Java Solution |
 
 
 ## Data Structures
-===============
+=================
 
 
 </details>
@@ -219,10 +271,22 @@ S.No. | Question Name | Java Solution |
 <Summary>Trees</Summary>
 </details>
 
+
+
+
 </details>
 <br>
 <details>
 <Summary>Graphs</Summary>
+ <h2>Introduction to graphs</h2>
+ ## What is graph data structure
+ ## Types of graphs ?
+ ## Graph Representations
+ ## Graph Traversal ?
+ ## Basic Operations in a graph
+ ## Real life applications of graph and its algorithms 
+ ## Toplogical sort
+ 
 </details>
 
 
