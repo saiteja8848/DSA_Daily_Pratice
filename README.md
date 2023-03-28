@@ -9,31 +9,32 @@ DataStructures && Algorthims
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA](./src/main/java/TwoPointers/)|
-2 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA](./src/main/java/TwoPointers)|
-3 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers)|
-4 | [Two Sum](https://leetcode.com/problems/two-sum/) |[JAVA](./src/main/java/TwoPointers/)|
-5 | [Two Sum II - Input Array sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[JAVA]()|
-6 | [3 Sum](https://leetcode.com/problems/3sum/) |[JAVA]()|
-7 | [3 Sum closest](https://leetcode.com/problems/3sum-closest/) |[JAVA]()|
-8 | [4 Sum](https://leetcode.com/problems/4sum/) |[JAVA]()|
-9 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA]()|
-11 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA]()|
-12 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
-13 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
-14 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA]()|
-15 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA](./src/main/java/TwoPointers/SortColors.java)|
-16 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA](./src/main/java/TwoPointers/MaxConsecutiveOnes.java)|
-17 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA](./src/main/java/TwoPointers/MoveZeros.java)|
-18 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
-19 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA]()|
-20 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA](./src/main/java/TwoPointers/RotateArray.java)|
-21 | [string-compression](https://leetcode.com/problems/string-compression/) |[JAVA](./src/main/java/TwoPointers/)|
-22 | [Implement StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/TwoPointers/)|
-23 | [Remove Element](https://leetcode.com/problems/remove-element/) |[JAVA](./src/main/java/TwoPointers/RemoveElement.java)|
-24 | [partition-labels](https://leetcode.com/problems/partition-labels/) |[JAVA](./src/main/java/TwoPointers/)|
-25 | [Heaters](https://leetcode.com/problems/heaters/) |[JAVA](./src/main/java/TwoPointers/)|
-26 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA](./src/main/java/TwoPointers/RotateArray.java)|
+1 | [partition-labels](https://leetcode.com/problems/partition-labels/) |[JAVA](./src/main/java/TwoPointers/PartitionLabels.java)|
+2 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
+3 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA](./src/main/java/TwoPointers/)|
+4 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
+5 | [Valid Triangle](https://leetcode.com/problems/valid-triangle-number/) |[JAVA](./src/main/java/TwoPointers/ValidTriangle.java)|
+6 | [k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |[JAVA](./src/main/java/TwoPointers/FindKDiffPairs.java)|
+7 | [Two Sum](https://leetcode.com/problems/two-sum/) |[JAVA](./src/main/java/TwoPointers/TwoSum_I.java)|
+8 | [Two Sum II - Input Array sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[JAVA](./src/main/java/TwoPointers/TwoSum_II.java)|
+9 | [3 Sum](https://leetcode.com/problems/3sum/) |[JAVA](./src/main/java/TwoPointers/ThreeSum.java)|
+10 | [3 Sum closest](https://leetcode.com/problems/3sum-closest/) |[JAVA](./src/main/java/TwoPointers/ThreeSumClosest.java)|
+11 | [4 Sum](https://leetcode.com/problems/4sum/) |[JAVA](./src/main/java/TwoPointers/FourSum.java)|
+12 | [4 Sum II](https://leetcode.com/problems/4sum-ii/) |[JAVA](./src/main/java/TwoPointers/FourSum_II.java)|
+13 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA](./src/main/java/TwoPointers/MoveZeros.java)|
+14 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA](./src/main/java/TwoPointers/SortColors.java)|
+15 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA](./src/main/java/TwoPointers/MaxConsecutiveOnes.java)|
+16 | [Remove Element](https://leetcode.com/problems/remove-element/) |[JAVA](./src/main/java/TwoPointers/RemoveElement.java)|
+17 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
+18 | [remove-duplicates-from-sorted-array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
+19 | [Remove-nth-node-from-end-of-list]( https://leetcode.com/problems/remove-nth-node-from-end-of-list) |[JAVA](./src/main/java/TwoPointers/RemoveNthNodeFromEndOfList.java)|
+20 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
+21 | [string-compression](https://leetcode.com/problems/string-compression/) |[JAVA](./src/main/java/TwoPointers/StringCompression.java)|
+22 | [Implement StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ImplementStrStr.java)|
+23 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA](./src/main/java/TwoPointers/ValidPalindrome.java)|
+24 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA](./src/main/java/TwoPointers/ValidPalindrome_II.java)|
+25 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA](./src/main/java/TwoPointers/RotateArray.java)|
+26 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ReverseWordsInAString.java)|
 
 
 
