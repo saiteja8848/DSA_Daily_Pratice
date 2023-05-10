@@ -1,8 +1,8 @@
 DataStructures && Algorthims
 ============================
 
-## Algorithms
-=============
+## Algorithms - around 150 problems breaks down to 7/8 patterns
+===============================================================
 <br>
 <details>
 <Summary>Two Pointer(26 Problems)</Summary>
@@ -189,9 +189,10 @@ S.No. | Question Name | Java Solution |
 <details>
 <Summary>MergeIntervals</Summary>
 
-
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
 1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
 1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
 1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
@@ -201,7 +202,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Recursion</Summary>
+<Summary>Recursion - 9 problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -220,14 +221,81 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking</Summary>
+<Summary>Backtracking(11 problems)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Permutations]() |[JAVA](./src/main/java/backtracking/)|
+2 |[Combinations]() |[JAVA](./src/main/java/backtracking/)|
+3 |[Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/)|
+4 |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/)|
+5 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[JAVA](./src/main/java/backtracking/)|
+6 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/)|
+7 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/)|
+8 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/)|
+9 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+10 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+11|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/)|
 </details>
 
 
 </details>
 <br>
 <details>
-<Summary>Dynamic Programming</Summary>
+<Summary>Dynamic Programming(1D/2D && Strings - MUST DO 30 problems)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Fibonaaci]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Climbing Stairs I && II](https://leetcode.com/problems/climbing-stairs/) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[House Robber I && II](https://leetcode.com/problems/house-robber/) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[Coin change I && II](https://leetcode.com/problems/coin-change/) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[Subset Sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[TargetSum](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[Best Time to Buy and Sell Stock I,II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |[JAVA](./src/main/java/DynamicProgramming/)|
+7 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+7 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+8 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
+9 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
+10 |[Egg drop ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
+
+
+
+
+<h3>Mix of dp + backtracking - 8 problems</h3>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[word Search](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+7 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/DynamicProgramming/)|
+8 |[Regular expression](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+8 |[Wildcard](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+
+
+
+
+<h3>Dp on strings(subsequences, palindroms)</h3>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+
 </details>
 
 
