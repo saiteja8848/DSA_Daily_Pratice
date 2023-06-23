@@ -167,7 +167,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Greedy(8) - Thinking in general way-more desire way of solving problem</Summary>
+<Summary>Greedy -  8 Problems</Summary>
 
 
 S.No. | Question Name | Java Solution |
@@ -187,7 +187,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>MergeIntervals</Summary>
+<Summary>MergeIntervals - 5problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -221,28 +221,35 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking(11 problems)</Summary>
+<Summary>Backtracking - 25 problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Permutations]() |[JAVA](./src/main/java/backtracking/)|
-2 |[Combinations]() |[JAVA](./src/main/java/backtracking/)|
-3 |[Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/)|
-4 |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/)|
-5 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[JAVA](./src/main/java/backtracking/)|
-6 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/)|
-7 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/)|
-8 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/)|
-9 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-10 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-11|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/)|
-</details>
+1 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+2 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/)|
+3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/)|
+4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/)|
+5 |[Combinations && Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/)|
+6 |[Permutations I && II]() |[JAVA](./src/main/java/backtracking/)|
+7 |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/)|
+8 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/)|
+9 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/)|
+11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|
+12 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+13 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+14 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+15 |[word Search](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+16 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+17 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/DynamicProgramming/)|
+18 |[Regular expression](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+19 |[Wildcard](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
 
 
 </details>
 <br>
 <details>
-<Summary>Dynamic Programming(1D/2D && Strings - MUST DO 30 problems)</Summary>
+<Summary>Dynamic Programming(1D/2D/Strings) - 35 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -266,19 +273,6 @@ S.No. | Question Name | Java Solution |
 
 
 
-<h3>Mix of dp + backtracking - 8 problems</h3>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|
-2 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-3 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-4 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[word Search](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-6 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-7 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/DynamicProgramming/)|
-8 |[Regular expression](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-8 |[Wildcard](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
 
 
 
