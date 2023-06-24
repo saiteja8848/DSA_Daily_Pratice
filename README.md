@@ -191,11 +191,11 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
+3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
+4 |[Meeting rooms ii](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
+5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
 </details>
 
 
@@ -225,16 +225,16 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-2 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/)|
-3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/)|
-4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/)|
-5 |[Combinations && Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/)|
-6 |[Permutations I && II]() |[JAVA](./src/main/java/backtracking/)|
-7 |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/)|
-8 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/)|
+1 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/RatInaMaze.java)|
+2 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
+3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
+4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
+5 |[Combinations && Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/Combination.java)|
+6 |[Permutations I && II]() |[JAVA](./src/main/java/backtracking/Permutation.java)|
+7 |[Subsets II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
+8 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)|
 9 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/)|
+10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/RestoreIpAddress.java)|
 11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|
 12 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
 13 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
