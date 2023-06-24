@@ -66,7 +66,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Two Pointer(26 Problems)</Summary>
+<Summary>Two Pointer - 26 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -102,7 +102,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Slow and Fast Pointers (5-Problems)</Summary>
+<Summary>Slow and Fast Pointers - 5-Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -119,7 +119,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Cyclic Sort (6-Problems)</Summary>
+<Summary>Cyclic Sort - 6-Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -135,7 +135,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Sliding Window(Fixed window - 20Problems)</Summary>
+<Summary>Sliding Window(Fixed window) - 20Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -164,7 +164,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Sliding Window(Variable Window Size -19Problems)</Summary>
+<Summary>Sliding Window(Variable Window Size) - 19Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -196,7 +196,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Binary Search - problems(14) - Identification of pattern - Find/search/make-minOrMax -sorted/halfsorted</Summary>
+<Summary>Binary Search - 14 problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -278,7 +278,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Design DataStructues</Summary>
+<Summary>Design DataStructues - 9 problems</Summary>
  
  S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
