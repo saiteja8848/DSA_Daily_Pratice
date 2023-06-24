@@ -20,7 +20,7 @@ class Solution {
 	}
 
 	void recursion(int row, int n, char[][] matrix) {
-		// Add to the solution - it means we found one soultion successfully
+		// Add to the solution - it means we found one solution successfully
 		if (row == n) {
 			List<String> list = new ArrayList<>();
 			for (char[] array : matrix)
