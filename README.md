@@ -336,21 +336,21 @@ S.No. | Question Name | Java Solution |
 8 |[Combination Sum I,II and III](https://leetcode.com/problems/combination-sum/) |[JAVA](./src/main/java/backtracking/CombinationSum.java)|
 9 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
 10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/RestoreIpAddress.java)|
-11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|
-12 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-13 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-14 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-15 |[word Search](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-16 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-17 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/DynamicProgramming/)|
-18 |[Regular expression](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
-19 |[Wildcard](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/DynamicProgramming/)|
+11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/backtracking/DecodeWays.java)|
+12 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/)|
+13 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
+14 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
+15 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
+16 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
+17 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/backtracking/GenerateParenthesis.java)|
+18 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
+19 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
 
 
 </details>
 <br>
 <details>
-<Summary>Dynamic Programming(1D/2D/Strings) - 35 Problems</Summary>
+<Summary>Dynamic Programming(1D/2D/Strings)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -370,26 +370,9 @@ S.No. | Question Name | Java Solution |
 8 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
 9 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
 10 |[Egg drop ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
+11 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
 
 
-
-
-
-
-
-
-<h3>Dp on strings(subsequences, palindroms)</h3>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
 
 </details>
 
