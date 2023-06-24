@@ -321,7 +321,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking - 25 problems - Done preparation</Summary>
+<Summary>Backtracking - 19 problems - Done preparation</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
