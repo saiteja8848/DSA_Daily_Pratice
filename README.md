@@ -404,14 +404,7 @@ S.No. | Question Name | Java Solution |
 <br>
 <details>
 <Summary>Graphs</Summary>
- <h2>Introduction to graphs</h2>
- ## What is graph data structure
- ## Types of graphs ?
- ## Graph Representations
- ## Graph Traversal ?
- ## Basic Operations in a graph
- ## Real life applications of graph and its algorithms 
- ## Toplogical sort
+
  
 </details>
 
