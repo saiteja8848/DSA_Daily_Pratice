@@ -18,12 +18,50 @@ DataStructures && Algorthims
 <br>
 <details>
 <Summary>Heap</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
+2 | [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
+3 | [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
+4 | [Re-organize String](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
+5 | [Find k closest elemnts](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
+6 | [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+7 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+9 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
 </details>
 
 </details>
 <br>
 <details>
 <Summary>Linked-List</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Reverse LinkedLists](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+2 | [Reverse LinkedLists II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+4 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+5 | [Reverse nodes in even length groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) |[JAVA](./src/main/java/LinkedList/)|
+6 | [Odd-even linked list](https://leetcode.com/problems/odd-even-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+7 | [Reorder List](https://leetcode.com/problems/reorder-list/) |[JAVA](./src/main/java/LinkedList/)|
+8 | [Rotate List](https://leetcode.com/problems/rotate-list/) |[JAVA](./src/main/java/LinkedList/)|
+9 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+10 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+11 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
+12 | [Merge in between linkedLists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+
 </details>
 
 <br>
@@ -292,9 +330,10 @@ S.No. | Question Name | Java Solution |
 3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
 4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
 5 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)|
-6 |[Subsets I && II](https://leetcode.com/problems/subsets-ii/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
-7 |[Permutations I && II]() |[JAVA](./src/main/java/backtracking/Permutation.java)|
-8 |[Combinations && Combination Sum I,II and III]() |[JAVA](./src/main/java/backtracking/Combination.java)|
+6 |[Subsets I && II](https://leetcode.com/problems/subsets-i/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
+7 |[Permutations I && II](https://leetcode.com/problems/permutations/description/) |[JAVA](./src/main/java/backtracking/Permutation.java)|
+8 |[Combinations](https://leetcode.com/problems/combinations/) |[JAVA](./src/main/java/backtracking/Combination.java)|
+8 |[Combination Sum I,II and III](https://leetcode.com/problems/combination-sum/) |[JAVA](./src/main/java/backtracking/CombinationSum.java)|
 9 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
 10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/RestoreIpAddress.java)|
 11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/DynamicProgramming/)|

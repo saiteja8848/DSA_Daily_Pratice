@@ -8,7 +8,6 @@ public class Subsets_I {
 
 	public List<List<Integer>> subsets(int[] nums) {
 		List<List<Integer>> res = new ArrayList<>();
-		Arrays.sort(nums); // To handle duplicate
 		subset1(nums, 0, new ArrayList<>(), res);
 		return res;
 	}

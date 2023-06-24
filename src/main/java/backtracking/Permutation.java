@@ -6,34 +6,31 @@ import java.util.List;
 class Permutation {
 	public List<List<Integer>> permute(int[] nums) {
 		List<List<Integer>> solution = new ArrayList<>();
-		generatePermutations(nums, solution, 0, nums.length);
+		ArrayList<Integer> temp = new ArrayList<>();
+		generatePermutations(nums, solution, temp, nums.length);
 		return solution;
 	}
 
-	void generatePermutations(int[] choices, List<List<Integer>> solution, int tempIndex, int size) {
+	void generatePermutations(int[] choices, List<List<Integer>> solution, ArrayList<Integer> temp, int size) {
 
-		if (tempIndex == size) {
+		if (temp.size() == size) {
 			List<Integer> ds = new ArrayList<>();
-			for (int i = 0; i < choices.length; i++) {
-				ds.add(choices[i]);
+			for (int i = 0; i < temp.size(); i++) {
+				ds.add(temp.get(i));
 			}
 			solution.add(new ArrayList<>(ds));
 			return;
 		}
 
-		for (int i = tempIndex; i < size; i++) {
-			int x = choices[i];
-			choices[i] = choices[tempIndex];
-			choices[tempIndex] = x;
-			generatePermutations(choices, solution, tempIndex + 1, size);
-			x = choices[i];
-			choices[i] = choices[tempIndex];
-			choices[tempIndex] = x;
-
+		for (int i = 0; i < size; i++) {
+			int num = choices[i];
+			if (!temp.contains(num)) {
+				temp.add(num);
+				generatePermutations(choices, solution, temp, size);
+				temp.remove(temp.size() - 1);
+			}
 		}
 
 	}
 
 }
-
-
