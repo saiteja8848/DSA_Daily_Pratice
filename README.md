@@ -1,8 +1,31 @@
 DataStructures && Algorthims
 ============================
 
-## Algorithms - around 150 problems breaks down to 7/8 patterns
-===============================================================
+
+<br>
+<details>
+<Summary>Arrays - 1D && Arrays-2D</Summary>
+</details>
+
+
+</details>
+<br>
+<details>
+<Summary>Strings</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Heap</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Linked-List</Summary>
+</details>
+
 <br>
 <details>
 <Summary>Two Pointer(26 Problems)</Summary>
@@ -202,7 +225,46 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Recursion - 9 problems</Summary>
+<Summary>Bitwise</Summary>
+</details>
+
+</details>
+<br>
+<details>
+<Summary>Stack&& Queues</Summary>
+</details>
+
+
+
+
+</details>
+<br>
+<details>
+<Summary>Design DataStructues</Summary>
+ 
+ S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+ 1 |[LRU Cache](https://leetcode.com/problems/lru-cache/) |[JAVA]()|
+ 2 |[LFU Cache](https://leetcode.com/problems/lfu-cache/) |[JAVA]()|
+ 3 |[Design Browser Histroy](https://leetcode.com/problems/design-browser-history/) |[JAVA]()|
+ 4 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
+ 5 |[Design Underground System](https://leetcode.com/problems/design-underground-system/) |[JAVA]()|
+ 6 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()|
+ 7 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
+ 8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
+ 9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
+</details>
+
+</details>
+
+
+
+
+
+</details>
+<br>
+<details>
+<Summary>Recursion - 9 problems - Done preparation</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -221,7 +283,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking - 25 problems</Summary>
+<Summary>Backtracking - 25 problems - Done preparation</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -293,73 +355,11 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-
-<br>
-<br>
-
-
-## Data Structures
-=================
-
-
-</details>
-<br>
-<details>
-<Summary>Bitwise</Summary>
-</details>
-
-</details>
-<br>
-<details>
-<Summary>Stack&& Queues</Summary>
-</details>
-
-
-</details>
-<br>
-<details>
-<Summary>Linked-List</Summary>
-</details>
-
-</details>
-<br>
-<details>
-<Summary>Design DataStructues</Summary>
- 
- S.No. | Question Name | Java Solution |
- ------|---------------|---------------|
- 1 |[LRU Cache](https://leetcode.com/problems/lru-cache/) |[JAVA]()|
- 2 |[LFU Cache](https://leetcode.com/problems/lfu-cache/) |[JAVA]()|
- 3 |[Design Browser Histroy](https://leetcode.com/problems/design-browser-history/) |[JAVA]()|
- 4 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
- 5 |[Design Underground System](https://leetcode.com/problems/design-underground-system/) |[JAVA]()|
- 6 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()|
- 7 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
- 8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
- 9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
-</details>
-
-</details>
-<br>
-<details>
-<Summary>Arrays - 1D && Arrays-2D</Summary>
-</details>
-
-
-</details>
-<br>
-<details>
-<Summary>Strings</Summary>
-</details>
-
 </details>
 <br>
 <details>
 <Summary>Trees</Summary>
 </details>
-
-
-
 
 </details>
 <br>
