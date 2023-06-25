@@ -443,6 +443,9 @@ S.No. | Question Name | Java Solution |
 <details>
 <Summary>Graphs</Summary>
 
+S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+
  
 </details>
 
