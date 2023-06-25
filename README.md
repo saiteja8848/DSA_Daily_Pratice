@@ -381,6 +381,61 @@ S.No. | Question Name | Java Solution |
 <br>
 <details>
 <Summary>Trees</Summary>
+
+ S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+ 1 |[BFS - I](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[JAVA]()|
+ 2 |[BFS - II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |[JAVA]()|
+ 3 |[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |[JAVA]()|
+ 4 |[Average of Levels in a BT](https://leetcode.com/problems/average-of-levels-in-binary-tree/) |[JAVA]()|
+ 5 |[Cousins in BT](https://leetcode.com/problems/cousins-in-binary-tree/) |[JAVA]()|
+ 6 |[Pre-Order](https://leetcode.com/problems/binary-tree-preorder-traversal/) |[JAVA]()|
+ 7 |[N- Ary Tree Pre-order](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |[JAVA]()|
+ 8 |[Post-Order](https://leetcode.com/problems/binary-tree-postorder-traversal/) |[JAVA]()|
+ 9 |[N- Ary Tree Post-order](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |[JAVA]()|
+ 10 |[In-Order](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[JAVA]()|
+ 11 |[Left View of a Tree ](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) |[JAVA]()|
+ 12 |[Right View of a Tree](https://leetcode.com/problems/binary-tree-right-side-view/) |[JAVA]()|
+ 13 |[Top View of a Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |[JAVA]()|
+ 14 |[Bottom View of a Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |[JAVA]()|
+ 15 |[Bottom Left View of a Tree](https://leetcode.com/problems/find-bottom-left-tree-value/) |[JAVA]()|
+ 16 |[Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |[JAVA]()|
+ 17 |[zigzag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |[JAVA]()|
+ 18 |[Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |[JAVA]()|
+ 19 |[Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) |[JAVA]()|
+ 20 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[JAVA]()|
+ 21 |[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[JAVA]()|
+ 22 |[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |[JAVA]()|
+ 23 |[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |[JAVA]()|
+ 24 |[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) |[JAVA]()|
+ 25 |[Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1) |[JAVA]()|
+ 26 |[Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) |[JAVA]()|
+ 27 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |[JAVA]()|
+ 28 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA]()|
+ 29 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[JAVA]()|
+ 30 |[convert-binary-search-tree-to-sorted-doubly-linked-list](https://www.lintcode.com/problem/1534/) |[JAVA]()|
+ 31 |[Convert BST To- Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[JAVA]()|
+ 32 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |[JAVA]()|
+ 33 |[Constuct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[JAVA]()|
+ 34 |[Invert BT](https://leetcode.com/problems/invert-binary-tree/) |[JAVA]()|
+ 35 |[same tree](https://leetcode.com/problems/same-tree/) |[JAVA]()|
+ 36 |[subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/) |[JAVA]()|
+ 37 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[JAVA]()|
+ 38 |[Balanced BT](https://leetcode.com/problems/balanced-binary-tree/) |[JAVA]()|
+ 39 |[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) |[JAVA]()|
+ 40 |[Unique BST](https://leetcode.com/problems/unique-binary-search-trees/) |[JAVA]()|
+ 41 |[Path Sum I and II](https://leetcode.com/problems/path-sum/) |[JAVA]()|
+ 42 |[Sum root - leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |[JAVA]()|
+ 43 |[maximum path sum](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) |[JAVA]()|
+ 44 |[Populating Next Right ptrs](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[JAVA]()|
+ 45 |[Trim a BST](https://leetcode.com/problems/trim-a-binary-search-tree/) |[JAVA]()|
+ 46 |[Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) |[JAVA]()|
+ 47 |[LCA - BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[JAVA]()|
+ 48 |[LCA- BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[JAVA]()|
+ 49 |[merge 2 binary trees](https://leetcode.com/problems/merge-two-binary-trees/) |[JAVA]()|
+ 50 |[kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[JAVA]()|
+ 51 |[Binary Search Tree Iterato](https://leetcode.com/problems/binary-search-tree-iterator/description/) |[JAVA]()|
+ 
 </details>
 
 </details>
