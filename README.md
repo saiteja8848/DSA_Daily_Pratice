@@ -445,7 +445,40 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
-
+1 |[Course Schedule](https://leetcode.com/problems/course-schedule/) |[JAVA]()|
+2 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA]()|
+3 |[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/) |[JAVA]()|
+4 |[Find the celebrity ](https://leetcode.com/problems/find-the-celebrity/) |[JAVA]()|
+5 |[alien dictionary - dfs](https://leetcode.com/problems/alien-dictionary/) |[JAVA]()|
+6 |[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[JAVA]()|
+7 |[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA]()|
+8 |[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) |[JAVA]()|
+9 |[Redundant Connection](https://leetcode.com/problems/redundant-connection/) |[JAVA]()|
+10 |[Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) |[JAVA]()|
+11 |[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) |[JAVA]()|
+12 |[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) |[JAVA]()|
+13 |[Accounts Merge](https://leetcode.com/problems/accounts-merge/) |[JAVA]()|
+14 |[Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) |[JAVA]()|
+15 |[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA]()|
+16 |[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) |[JAVA]()|
+17 |[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) |[JAVA]()|
+18 |[Flood Fill](https://leetcode.com/problems/flood-fill/) |[JAVA]()|
+19 |[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |[JAVA]()|
+20 |[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA]()|
+21 |[01 Matrix](https://leetcode.com/problems/01-matrix/) |[JAVA]()|
+22 |[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/) |[JAVA]()|
+23 |[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA]()|
+24 |[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) |[JAVA]()|
+25 |[Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) |[JAVA]()|
+26 |[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[JAVA]()|
+27 |[Network Delay Time](https://leetcode.com/problems/network-delay-time/) |[JAVA]()|
+28 |[ Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) |[JAVA]()|
+29 |[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |[JAVA]()|
+30 |[Minimum Spanning Trees: Prim's and Kruskal's algorithm](https://leetcode.com/problems/optimize-water-distribution-in-a-village/) |[JAVA]()|
+31 |[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |[JAVA]()|
+32 |[Hierholzer's algorithm for Eulerian circuits](https://leetcode.com/problems/reconstruct-itinerary/) |[JAVA]()|
+33 |[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/) |[JAVA]()|
+34 |[Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/) |[JAVA]()|
  
 </details>
 
