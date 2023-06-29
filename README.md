@@ -2,17 +2,31 @@ DataStructures && Algorthims
 ============================
 
 
-<br>
-<details>
-<Summary>Arrays - 1D && Arrays-2D</Summary>
-</details>
-
-
 </details>
 <br>
 <details>
-<Summary>Strings</Summary>
+<Summary>Bitwise</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) |[JAVA](./src/main/java/heaps/)|
+2 | [Reverse bits](https://leetcode.com/problems/reverse-bits/) |[JAVA](./src/main/java/heaps/)|
+3 | [Add binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/heaps/)|
+4 | [Bitwise and of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/heaps/)|
+5 | [Single Number I && II](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/heaps/)|
+6 | [Sum of two numbers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/heaps/)|
 </details>
+
+
+<br>
+<details>
+<Summary>Arrays - 1D && Arrays-2D && Strings && Math && HashMap</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Merge Strings alternately](https://leetcode.com/problems/merge-strings-alternately/) |[JAVA](./src/main/java/heaps/)|
+</details>
+
 
 </details>
 <br>
@@ -260,11 +274,6 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-</details>
-<br>
-<details>
-<Summary>Bitwise</Summary>
-</details>
 
 </details>
 <br>
