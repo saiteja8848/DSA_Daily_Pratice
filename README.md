@@ -9,12 +9,25 @@ DataStructures && Algorthims
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) |[JAVA](./src/main/java/heaps/)|
-2 | [Reverse bits](https://leetcode.com/problems/reverse-bits/) |[JAVA](./src/main/java/heaps/)|
-3 | [Add binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/heaps/)|
-4 | [Bitwise and of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/heaps/)|
-5 | [Single Number I && II](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/heaps/)|
-6 | [Sum of two numbers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/heaps/)|
+1 | [Add Binary]() |[JAVA](./src/main/java/Bitwise/)|
+2 | [Reverse Bits]() |[JAVA]()|
+3 | [Number of 1 bits]() |[JAVA]()|
+4 | [Single Number]() |[JAVA]()|
+5 | [Single Number II]() |[JAVA]()|
+6 | [Bitwise AND of Numbers Range]() |[JAVA]()|
+7 | [Sum of Two Integers]() |[JAVA]()|
+8 | [Missing Numbers]() |[JAVA]()|
+9 | [Counting Bits]() |[JAVA]()|
+10 | [Swap 2 nos without using third variable]() |[JAVA]()|
+11 | [say N is odd/even]() |[JAVA]()|
+13 | [Check if ith bit set or not]() |[JAVA]()|
+12 | [Print Xor of 1 to N and Range]() |[JAVA]()|
+14 | [Extract/Set/Clear/Remoce]() |[JAVA]()|
+15 | [Implement Set DS]() |[JAVA]()|
+16 | [Check if a no is a power of 2]() |[JAVA]()|
+17 | [Subsets(power set)]() |[JAVA]()|
+18 | [Print all subsequences whose sum=k]() |[JAVA]()|
+19 | [Decimal to Binary && Binary to Decimal]() |[JAVA]()|
 </details>
 
 
@@ -24,7 +37,27 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Merge Strings alternately](https://leetcode.com/problems/merge-strings-alternately/) |[JAVA](./src/main/java/heaps/)|
+1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
+2 | [Spiral matrix](https://leetcode.com/problems/spiral-matrix/) |[JAVA](./src/main/java/heaps/)|
+3 | [Set matrix zeros](https://leetcode.com/problems/set-matrix-zeroes/) |[JAVA](./src/main/java/heaps/)|
+4 | [Rotate image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
+5 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java/heaps/)|
+6 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |[JAVA](./src/main/java/heaps/)|
+7 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA](./src/main/java/heaps/)|
+8 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) |[JAVA](./src/main/java/heaps/)|
+8 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/heaps/)|
+8 | [Candy](https://leetcode.com/problems/candy/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
 </details>
 
 
