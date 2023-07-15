@@ -25,9 +25,9 @@ S.No. | Question Name | Java Solution |
 14 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
 15 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/)|
 16 | [Implement Set DS]() |[JAVA](./src/main/java/Bitwise/)|
-17 | [Subsets(power set)]() |[JAVA](./src/main/java/Bitwise/)|
+17 | [Subsets(power set)]() |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 18 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
-19 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/)|
+19 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 20 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
 </details>
 
