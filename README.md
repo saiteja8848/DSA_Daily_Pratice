@@ -9,25 +9,26 @@ DataStructures && Algorthims
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Add Binary]() |[JAVA](./src/main/java/Bitwise/)|
-2 | [Reverse Bits]() |[JAVA]()|
-3 | [Number of 1 bits]() |[JAVA]()|
-4 | [Single Number]() |[JAVA]()|
-5 | [Single Number II]() |[JAVA]()|
-6 | [Bitwise AND of Numbers Range]() |[JAVA]()|
-7 | [Sum of Two Integers]() |[JAVA]()|
-8 | [Missing Numbers]() |[JAVA]()|
-9 | [Counting Bits]() |[JAVA]()|
-10 | [Swap 2 nos without using third variable]() |[JAVA]()|
-11 | [say N is odd/even]() |[JAVA]()|
-13 | [Check if ith bit set or not]() |[JAVA]()|
-12 | [Print Xor of 1 to N and Range]() |[JAVA]()|
-14 | [Extract/Set/Clear/Remoce]() |[JAVA]()|
-15 | [Implement Set DS]() |[JAVA]()|
-16 | [Check if a no is a power of 2]() |[JAVA]()|
-17 | [Subsets(power set)]() |[JAVA]()|
-18 | [Print all subsequences whose sum=k]() |[JAVA]()|
-19 | [Decimal to Binary && Binary to Decimal]() |[JAVA]()|
+1 | [Check if ith bit set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) |[JAVA](./src/main/java/Bitwise/BitSetOrNot.java)|
+2 | [Number of 1 bits](https://leetcode.com/problems/number-of-1-bits/) |[JAVA](./src/main/java/Bitwise/)|
+3 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |[JAVA](./src/main/java/Bitwise/)|
+4 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[JAVA](./src/main/java/Bitwise/)|
+5 | [say N is odd/even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) |[JAVA](./src/main/java/Bitwise/)|
+6 | [Extract/Set/Clear/Remove]() |[JAVA](./src/main/java/Bitwise/)|
+7 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/)|
+8 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/)|
+9 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/)|
+10 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/)|
+11 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/)|
+12 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/)|
+13 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/)|
+14 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/)|
+15 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/)|
+16 | [Implement Set DS]() |[JAVA](./src/main/java/Bitwise/)|
+17 | [Subsets(power set)]() |[JAVA](./src/main/java/Bitwise/)|
+18 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
+19 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/)|
+20 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/)|
 </details>
 
 
