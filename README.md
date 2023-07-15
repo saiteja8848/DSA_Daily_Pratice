@@ -5,7 +5,7 @@ DataStructures && Algorthims
 </details>
 <br>
 <details>
-<Summary>Bitwise</Summary>
+<Summary>Bitwise - 20 Problems - Done</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
