@@ -34,31 +34,20 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Arrays - 1D && Arrays-2D && Strings && Math && HashMap</Summary>
+<Summary>Strings</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
-2 | [Spiral matrix](https://leetcode.com/problems/spiral-matrix/) |[JAVA](./src/main/java/heaps/)|
-3 | [Set matrix zeros](https://leetcode.com/problems/set-matrix-zeroes/) |[JAVA](./src/main/java/heaps/)|
-4 | [Rotate image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
-5 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java/heaps/)|
-6 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |[JAVA](./src/main/java/heaps/)|
-7 | [Longest consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA](./src/main/java/heaps/)|
-8 | [Group Anagram](https://leetcode.com/problems/group-anagrams/) |[JAVA](./src/main/java/heaps/)|
-8 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/heaps/)|
-8 | [Candy](https://leetcode.com/problems/candy/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
-8 | [Detect squares](https://leetcode.com/problems/detect-squares/) |[JAVA](./src/main/java/heaps/)|
+</details>
+
+<br>
+<details>
+<Summary>Math & Arrays - 1D && Arrays-2D (Matrix) </Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
 </details>
 
 
