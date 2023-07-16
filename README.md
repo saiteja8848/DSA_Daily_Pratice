@@ -5,7 +5,7 @@ DataStructures && Algorthims
 </details>
 <br>
 <details>
-<Summary>Bitwise - 20 Problems - Done</Summary>
+<Summary>Bitwise - 20 Problems - DONE</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -34,21 +34,135 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Strings</Summary>
+<Summary>Strings - 11 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
+1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
+2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
+3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
+4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
+5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
+6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
+8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
+9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
+10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
+11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
 </details>
+
+
 
 <br>
 <details>
-<Summary>Math & Arrays - 1D && Arrays-2D (Matrix) </Summary>
+<Summary>Math, Arrays - 1D && 2D - 16 problems </Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/heaps/)|
+1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
+2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
+3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
+4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
+9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
+10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
+11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
+12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
+14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
+16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
 </details>
+
+
+
+</details>
+<br>
+<details>
+<Summary>PrefixSum</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Product of Array-exceptSelf](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
+
+</details>
+
+
+
+
+<br>
+<details>
+<Summary>Greedy -  10 Problems</Summary>
+
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
+3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
+4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
+5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
+6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
+7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
+8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
+9 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
+10 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Graphs/)|
+</details>
+
+
+
+</details>
+<br>
+<details>
+<Summary>MergeIntervals - 8 problems</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
+3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
+4 |[Meeting rooms ii](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
+5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
+6 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
+7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
+</details>
+
+
+</details>
+<br>
+<details>
+<Summary>Binary Search - 14 problems</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Binary Search](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Find the peak Element I](https://leetcode.com/problems/find-peak-element/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Find the peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in a 2DMatrix](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in  a 2DMatrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA](./src/main/java/BinarySearch/)|
+4 |[Search In a rotated + sorted array I](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+4 |[Search In a rotated + sorted array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[JAVA](./src/main/java/BinarySearch/)|
+5 |[Kth Smallest Element In a sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
+6 |[Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+7 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
+8 |[Count of Smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[SQRT](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) |[JAVA](./src/main/java/BinarySearch/)|
+10 |[First bad version](https://leetcode.com/problems/first-bad-version/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[the-painters-partition](https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Allocate-minimum-number-of-pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Aggressive cows](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) |[JAVA](./src/main/java/BinarySearch/)|
+12 |[k-th-element-of-two-sorted-arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
+13 |[search-single-element-in-a-sorted-array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
+14 |[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/)|
+-|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
+
+</details>
+
 
 
 </details>
@@ -69,6 +183,10 @@ S.No. | Question Name | Java Solution |
 9 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
 </details>
 
+
+
+
+
 </details>
 <br>
 <details>
@@ -88,16 +206,7 @@ S.No. | Question Name | Java Solution |
 10 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
 11 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
 12 | [Merge in between linkedLists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-3 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+
 
 </details>
 
@@ -230,71 +339,12 @@ S.No. | Question Name | Java Solution |
 
 
 
-</details>
-<br>
-<details>
-<Summary>Binary Search - 14 problems</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Binary Search](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-2 |[Find the peak Element I](https://leetcode.com/problems/find-peak-element/) |[JAVA](./src/main/java/BinarySearch/)|
-2 |[Find the peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) |[JAVA](./src/main/java/BinarySearch/)|
-3 |[Search in a 2DMatrix](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
-3 |[Search in  a 2DMatrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA](./src/main/java/BinarySearch/)|
-4 |[Search In a rotated + sorted array I](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-4 |[Search In a rotated + sorted array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[JAVA](./src/main/java/BinarySearch/)|
-5 |[Kth Smallest Element In a sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
-6 |[Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-7 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
-8 |[Count of Smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[SQRT](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) |[JAVA](./src/main/java/BinarySearch/)|
-10 |[First bad version](https://leetcode.com/problems/first-bad-version/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[the-painters-partition](https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[Allocate-minimum-number-of-pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[Aggressive cows](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) |[JAVA](./src/main/java/BinarySearch/)|
-12 |[k-th-element-of-two-sorted-arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
-13 |[search-single-element-in-a-sorted-array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-14 |[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/)|
--|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
-
-</details>
-
-
-</details>
-<br>
-<details>
-<Summary>Greedy -  8 Problems</Summary>
-
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
-3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
-4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
-5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
-6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
-7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
-8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
-</details>
 
 
 
-</details>
-<br>
-<details>
-<Summary>MergeIntervals - 5problems</Summary>
 
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
-2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
-3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
-4 |[Meeting rooms ii](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
-5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
-</details>
+
+
 
 
 
@@ -515,3 +565,12 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
+</details>
+<br>
+<details>
+<Summary>Tries</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+
+</details>
