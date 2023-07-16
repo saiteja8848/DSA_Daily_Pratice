@@ -248,7 +248,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Slow and Fast Pointers - 5-Problems</Summary>
+<Summary>Slow and Fast Pointers - 5 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -265,7 +265,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Cyclic Sort - 6-Problems</Summary>
+<Summary>Cyclic Sort - 6 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -281,7 +281,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Sliding Window(Fixed window) - 20Problems</Summary>
+<Summary>Sliding Window(Fixed window) - 20 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -310,7 +310,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Sliding Window(Variable Window Size) - 19Problems</Summary>
+<Summary>Sliding Window(Variable Window Size) - 19 Problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -384,7 +384,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Recursion - 9 problems - Done preparation</Summary>
+<Summary>Recursion - 9 problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -403,7 +403,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking - 19 problems - Done preparation</Summary>
+<Summary>Backtracking - 19 problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
