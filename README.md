@@ -4,7 +4,7 @@ DataStructures && Algorthims
 
 <br>
 
-<h1>Month-1(around 100 problems)<h2>
+<h1>Month-1(around 100 problems)</h1>
 
 
 <br>
@@ -191,7 +191,7 @@ S.No. | Question Name | Java Solution |
 <br>
 <br>
 
-<h1>Month-2<h2>
+<h1>Month-2</h1>
 
 
 </details>
@@ -358,7 +358,7 @@ S.No. | Question Name | Java Solution |
 <br>
 <br>
 
-<h1>Month-3<h2>
+<h1>Month-3</h1>
 
 </details>
 <br>
