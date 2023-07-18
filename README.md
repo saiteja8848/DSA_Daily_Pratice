@@ -34,6 +34,9 @@ S.No. | Question Name | Java Solution |
 18 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
 19 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 20 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
+21 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+22 | [Complment ](https://leetcode.com/problems/complement-of-base-10-intege) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+23 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 </details>
 
 
