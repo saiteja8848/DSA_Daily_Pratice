@@ -2,10 +2,14 @@ DataStructures && Algorthims
 ============================
 
 
-</details>
+<br>
+
+<h1>Month-1(around 100 problems)<h2>
+
+
 <br>
 <details>
-<Summary>Bitwise - 20 Problems - DONE</Summary>
+<Summary>Bitwise (20) - DONE</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -33,110 +37,32 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
+
+</details>
 <br>
 <details>
-<Summary>Strings - 11 Problems</Summary>
+<Summary>Heap (10)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
-2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
-3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
-4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
-5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
-6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
-7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
-8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
-9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
-10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
-11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
+1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
+2 | [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
+3 | [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
+4 | [Re-organize String](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
+5 | [Find k closest elemnts](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
+6 | [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+7 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+9 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
 </details>
 
-
-
-<br>
-<details>
-<Summary>Math, Arrays - 1D && 2D - 16 problems </Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
-9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
-10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
-11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
-12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
-13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
-15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
-16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-</details>
 
 
 
 </details>
 <br>
 <details>
-<Summary>PrefixSum</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Product of Array-exceptSelf](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
-
-</details>
-
-
-
-
-<br>
-<details>
-<Summary>Greedy -  10 Problems</Summary>
-
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
-3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
-4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
-5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
-6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
-7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
-8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
-9 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
-10 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Graphs/)|
-</details>
-
-
-
-</details>
-<br>
-<details>
-<Summary>MergeIntervals - 8 problems</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
-2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
-3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
-4 |[Meeting rooms ii](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
-5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
-6 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
-7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
-8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
-</details>
-
-
-</details>
-<br>
-<details>
-<Summary>Binary Search - 14 problems</Summary>
+<Summary>BinarySearch(15)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -165,33 +91,113 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-
-</details>
 <br>
 <details>
-<Summary>Heap</Summary>
+<Summary>Strings(11)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
-2 | [top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
-3 | [Top k frequent words](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
-4 | [Re-organize String](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
-5 | [Find k closest elemnts](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
-6 | [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
-7 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-9 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
+2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
+3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
+4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
+5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
+6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
+8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
+9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
+10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
+11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
 </details>
 
 
+
+<br>
+<details>
+<Summary>Math, Arrays1D&&2D(17)  </Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
+2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
+3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
+4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
+9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
+10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
+11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
+12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
+14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
+16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
+17 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
+</details>
+
+
+
+
+
+
+<br>
+<details>
+<Summary>Greedy(10)</Summary>
+
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
+2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
+3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
+4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
+5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
+6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
+7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
+8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
+9 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
+10 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Graphs/)|
+</details>
 
 
 
 </details>
 <br>
 <details>
-<Summary>Linked-List</Summary>
+<Summary>MergeIntervals(8)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
+3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
+4 |[Meeting rooms ii](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
+5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
+6 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
+7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
+</details>
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+<h1>Month-2<h2>
+
+
+</details>
+<br>
+<details>
+<Summary>Linked-List(25)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -341,14 +347,6 @@ S.No. | Question Name | Java Solution |
 
 
 
-
-
-
-
-
-
-
-
 </details>
 <br>
 <details>
@@ -357,11 +355,15 @@ S.No. | Question Name | Java Solution |
 
 
 
+<br>
+<br>
+
+<h1>Month-3<h2>
 
 </details>
 <br>
 <details>
-<Summary>Design DataStructues - 10 problems</Summary>
+<Summary>Design DataStructues (10) </Summary>
  
  S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
@@ -386,7 +388,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Recursion - 9 problems</Summary>
+<Summary>Recursion (9) </Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -405,7 +407,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Backtracking - 19 problems</Summary>
+<Summary>Backtracking(19)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -521,6 +523,9 @@ S.No. | Question Name | Java Solution |
  51 |[Binary Search Tree Iterato](https://leetcode.com/problems/binary-search-tree-iterator/description/) |[JAVA]()|
  
 </details>
+
+
+
 
 </details>
 <br>
