@@ -96,57 +96,6 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Strings(11)</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
-2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
-3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
-4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
-5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
-6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
-7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
-8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
-9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
-10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
-11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
-</details>
-
-
-
-<br>
-<details>
-<Summary>Math, Arrays1D&&2D(17)  </Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
-9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
-10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
-11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
-12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
-13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
-15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
-16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-17 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
-</details>
-
-
-
-
-
-
-<br>
-<details>
 <Summary>Greedy(10)</Summary>
 
 
@@ -181,6 +130,53 @@ S.No. | Question Name | Java Solution |
 6 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
 7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
 8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
+</details>
+
+
+<br>
+<details>
+<Summary>Strings(11)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
+2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
+3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
+4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
+5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
+6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
+8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
+9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
+10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
+11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
+</details>
+
+
+
+<br>
+<details>
+<Summary>Arrays1D&&2D(17) & Math</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
+2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
+3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
+4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
+9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
+10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
+11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
+12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
+14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
+16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
+17 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
 </details>
 
 
