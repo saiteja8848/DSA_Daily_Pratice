@@ -9,7 +9,7 @@ DataStructures && Algorthims
 
 <br>
 <details>
-<Summary>Bitwise (20) - DONE</Summary>
+<Summary>Bitwise (25) - DONE</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -20,23 +20,26 @@ S.No. | Question Name | Java Solution |
 5 | [say N is odd/even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) |[JAVA](./src/main/java/Bitwise/EvenOrOdd.java)|
 6 | [Extract/Set/Clear/Remove]() |[JAVA](./src/main/java/Bitwise/)|
 7 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerOf2OrNot.java)|
-8 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
-9 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
-10 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
-11 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-12 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-12 | [Single No III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
-13 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
-14 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
-15 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
-16 | [Implement Set DS]() |[JAVA](./src/main/java/Bitwise/)|
-17 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-18 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
-19 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-20 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
-21 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-22 | [Complment ](https://leetcode.com/problems/complement-of-base-10-intege) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-23 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+8 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+9 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
+10 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+11 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+12 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+13 | [Complment ](https://leetcode.com/problems/complement-of-base-10-intege) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+14 | [Copy set bits in a range ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+15 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
+16 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
+17 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+18 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+19 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
+20 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
+21 | [bit difference ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+22 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
+23 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
+24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
+25 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+26 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
+27 | [Implement Set DS]() |[JAVA](./src/main/java/Bitwise/)|
 </details>
 
 
@@ -57,6 +60,18 @@ S.No. | Question Name | Java Solution |
 7 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
 8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
 9 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+10 | [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+11 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+12 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+13 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+14 | [k closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+15 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+16 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+17 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+18 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+19 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+20 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+21 | [car pooling](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
 </details>
 
 
