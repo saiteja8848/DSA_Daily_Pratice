@@ -18,15 +18,15 @@ S.No. | Question Name | Java Solution |
 3 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |[JAVA](./src/main/java/Bitwise/CountingBits.java)|
 4 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[JAVA](./src/main/java/Bitwise/ReverseBits.java)|
 5 | [say N is odd/even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) |[JAVA](./src/main/java/Bitwise/EvenOrOdd.java)|
-6 | [Extract/Set/Clear/Remove]() |[JAVA](./src/main/java/Bitwise/)|
+6 | [Extract/Set/Clear/Remove](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/) |[JAVA](./src/main/java/Bitwise/)|
 7 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerOf2OrNot.java)|
 8 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 9 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
 10 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 11 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 12 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-13 | [Complment ](https://leetcode.com/problems/complement-of-base-10-intege) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-14 | [Copy set bits in a range ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+13 | [Complement of base 10 number ](https://leetcode.com/problems/complement-of-base-10-integer) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+14 | [Copy set bits in a range ](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/) |[JAVA](https://www.geeksforgeeks.org/copy-set-bits-in-a-range)|
 15 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
 16 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
 17 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
