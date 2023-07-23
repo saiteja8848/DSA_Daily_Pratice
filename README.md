@@ -49,24 +49,24 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
-2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
-3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA]()|
-4 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA]()|
-5 | [minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |[JAVA]()|
-6 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) |[JAVA]()|
-7 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
-8 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
-9 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
-10 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
-11 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
-12 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
-13 | [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/) |[JAVA]()|
-14 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) |[JAVA]()|
-15 | [Count and Say](https://leetcode.com/problems/count-and-say/) |[JAVA]()|
-16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
-17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
-18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+1 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA](./src/main/java/Strings/ValidAnagram.java)|
+2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA](./src/main/java/Strings/)|
+3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA](./src/main/java/Strings/ValidPalindrome.java)|
+4 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA](./src/main/java/Strings/ValidPalindromeII.java)|
+5 | [minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |[JAVA](./src/main/java/Strings/MinInsertions.java)|
+6 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) |[JAVA](./src/main/java/Strings/LongestPalindromicSubstring.java)|
+7 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA](./src/main/java/Strings/Isomorphic.java)|
+8 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA](./src/main/java/Strings/RansomNote.java)|
+9 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA](./src/main/java/Strings/LongestCommonPrefix.java)|
+10 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA](./src/main/java/Strings/ZigZagConversion.java)|
+11 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA](./src/main/java/Strings/LengthOfLastWord.java)|
+12 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/Strings/ReverseWordsInAString.java)|
+13 | [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/) |[JAVA](./src/main/java/Strings/CompareVersionNumbers.java)|
+14 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) |[JAVA](./src/main/java/Strings/ValidateIPAddress.java)|
+15 | [Count and Say](https://leetcode.com/problems/count-and-say/) |[JAVA](./src/main/java/Strings/CountAndSay.java)|
+16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/Strings/EncodeAndDecodeStrings.java)|
+17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/Strings/AtoIKMP.java)|
 
 
 
