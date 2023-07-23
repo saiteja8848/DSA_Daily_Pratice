@@ -43,6 +43,37 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
+<br>
+<details>
+<Summary>Strings(18)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
+2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
+3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA]()|
+4 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA]()|
+5 | [minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |[JAVA]()|
+6 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) |[JAVA]()|
+7 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
+8 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
+9 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
+10 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
+11 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
+12 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
+13 | [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/) |[JAVA]()|
+14 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) |[JAVA]()|
+15 | [Count and Say](https://leetcode.com/problems/count-and-say/) |[JAVA]()|
+16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
+17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
+18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
+
+
+
+
+
+</details>
+
 
 </details>
 <br>
@@ -149,24 +180,7 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-<br>
-<details>
-<Summary>Strings(11)</Summary>
 
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA]()|
-2 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA]()|
-3 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
-4 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA]()|
-5 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA]()|
-6 | [Find the index of the first occurence in a string](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA]()|
-7 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA]()|
-8 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA]()|
-9 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA]()|
-10 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA]()|
-11 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA]()|
-</details>
 
 
 
