@@ -2,14 +2,22 @@ DataStructures && Algorthims
 ============================
 
 
+
+<h3>Note 1: All of these are pattern-based - solving a few problems helps clear concepts and makes it easier to tackle others - don't worry about no of questions</h3>
+
+<h3>Note 2: All these questions from top sources & repeatedly asked in product based(leetcode/Interviewbit/neetcode/450)</h3>
+
+[Time && Space complexity](https://flexiple.com/algorithms/big-o-notation-cheat-sheet/)
+
+
 <br>
 
-<h1>Month-1(around 100 problems)</h1>
+<h1>Month-1</h1>
 
 
 <br>
 <details>
-<Summary>Bitwise (25) - DONE</Summary>
+<Summary>Bitwise (25)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -44,6 +52,8 @@ S.No. | Question Name | Java Solution |
 
 
 <br>
+
+
 <details>
 <Summary>Strings(18)</Summary>
 
@@ -223,6 +233,15 @@ S.No. | Question Name | Java Solution |
 <h1>Month-2</h1>
 
 
+
+</details>
+<br>
+<details>
+<Summary>Stack&& Queues</Summary>
+</details>
+
+
+
 </details>
 <br>
 <details>
@@ -243,12 +262,48 @@ S.No. | Question Name | Java Solution |
 11 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
 12 | [Merge in between linkedLists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
 
+</details>
+<br>
+<details>
+<Summary>Design DataStructues (10) </Summary>
+ 
+ S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+ 1 |[LRU Cache](https://leetcode.com/problems/lru-cache/) |[JAVA]()|
+ 2 |[LFU Cache](https://leetcode.com/problems/lfu-cache/) |[JAVA]()|
+ 3 |[Design Browser Histroy](https://leetcode.com/problems/design-browser-history/) |[JAVA]()|
+ 4 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
+ 5 |[Design Underground System](https://leetcode.com/problems/design-underground-system/) |[JAVA]()|
+ 6 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()|
+ 7 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
+ 8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
+ 9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
+ 10 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
+</details>
 
 </details>
 
+</details>
+
+</details>
 <br>
 <details>
-<Summary>Two Pointer - 26 Problems</Summary>
+<Summary>Cyclic Sort (6)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/CyclicSort/MissingNumber.java)|
+2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
+3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
+4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
+5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
+6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
+</details>
+
+
+<br>
+<details>
+<Summary>Two Pointers (26)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -284,7 +339,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Slow and Fast Pointers - 5 Problems</Summary>
+<Summary>Slow and Fast Pointers (5)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -301,23 +356,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Cyclic Sort - 6 Problems</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/CyclicSort/MissingNumber.java)|
-2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
-3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
-4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
-5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
-6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
-</details>
-
-
-</details>
-<br>
-<details>
-<Summary>Sliding Window(Fixed window) - 20 Problems</Summary>
+<Summary>Sliding Window(Fixed window -20)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -346,7 +385,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Sliding Window(Variable Window Size) - 19 Problems</Summary>
+<Summary>Sliding Window(Variable Window Size-20)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -371,47 +410,10 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-
-
-
-
-
-</details>
-<br>
-<details>
-<Summary>Stack&& Queues</Summary>
-</details>
-
-
-
 <br>
 <br>
 
 <h1>Month-3</h1>
-
-</details>
-<br>
-<details>
-<Summary>Design DataStructues (10) </Summary>
- 
- S.No. | Question Name | Java Solution |
- ------|---------------|---------------|
- 1 |[LRU Cache](https://leetcode.com/problems/lru-cache/) |[JAVA]()|
- 2 |[LFU Cache](https://leetcode.com/problems/lfu-cache/) |[JAVA]()|
- 3 |[Design Browser Histroy](https://leetcode.com/problems/design-browser-history/) |[JAVA]()|
- 4 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
- 5 |[Design Underground System](https://leetcode.com/problems/design-underground-system/) |[JAVA]()|
- 6 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()|
- 7 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
- 8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
- 9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
- 10 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
-</details>
-
-</details>
-
-
-
 
 
 </details>
