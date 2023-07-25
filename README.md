@@ -77,54 +77,61 @@ S.No. | Question Name | Java Solution |
 16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/Strings/EncodeAndDecodeStrings.java)|
 17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/Strings/AtoIKMP.java)|
-
 </details>
 
 
 
 <br>
 <details>
-<Summary>Arrays,Matrix && Math</Summary>
+<Summary>Arrays,Matrix && Math(19)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-2 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-3 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-4 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-5 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-6 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-7 | [Spiral Matrix](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-8 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[JAVA]()|
+1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
+5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
+6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+8 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
 9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
 10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
 11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
-12 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
-13 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-14 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+12 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
+13 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
+14 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
 15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
 16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-17 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
+17 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
+18 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
+19 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
 </details>
+
+
+
+
 
 <br>
 <details>
 <Summary>Greedy(10)</Summary>
 
-
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Graphs/)|
-2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Graphs/)|
-3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Graphs/)|
-4 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Graphs/)|
-5 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Graphs/)|
-6 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Graphs/)|
-7 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Graphs/)|
-8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Graphs/)|
-9 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
-10 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Graphs/)|
+1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Greedy/LargestFromArray.java)|
+2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Greedy/GasStationOrCircularTour.java)|
+3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Greedy/MinimumNoOfBoatsToSavePeople.java)|
+4 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Greedy/MinimumNoOfPlatformsRequired.java)|
+5 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Greedy/MinimumNoOfRefuelingStops.java)|
+6 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Greedy/JumpGame.java)|
+7 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Greedy/TwoCitySchedulingInterview.java)|
+8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
+9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
+10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
 </details>
+
+
+
 
 
 
@@ -144,6 +151,10 @@ S.No. | Question Name | Java Solution |
 7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
 8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
 </details>
+
+
+
+
 
 </details>
 <br>
@@ -165,7 +176,7 @@ S.No. | Question Name | Java Solution |
 11 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
 12 | [Sliding Window Median](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
 13 | [IPO](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-14 | [Meeting Rooms II](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+14 | [Meeting Rooms I & II](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
 15 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
 16 | [Employee Free Time](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
 17 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
@@ -206,7 +217,7 @@ S.No. | Question Name | Java Solution |
 12 |[k-th-element-of-two-sorted-arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
 13 |[search-single-element-in-a-sorted-array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
 14 |[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/)|
--|[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
+15 |[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
 
 </details>
 
@@ -261,8 +272,13 @@ S.No. | Question Name | Java Solution |
 10 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
 11 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
 12 | [Merge in between linkedLists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
-
 </details>
+
+
+
+
+
+
 <br>
 <details>
 <Summary>Design DataStructues (10) </Summary>
@@ -281,9 +297,11 @@ S.No. | Question Name | Java Solution |
  10 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
 </details>
 
-</details>
 
-</details>
+
+
+
+
 
 </details>
 <br>
@@ -299,6 +317,10 @@ S.No. | Question Name | Java Solution |
 5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
 6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
 </details>
+
+
+
+
 
 
 <br>
@@ -336,6 +358,7 @@ S.No. | Question Name | Java Solution |
 
 
 
+
 </details>
 <br>
 <details>
@@ -351,6 +374,8 @@ S.No. | Question Name | Java Solution |
 5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
 6 | [Find the duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |[JAVA](./src/main/java/FastAndSlowPointers/FindTheDuplicateNumber.java)|
 </details>
+
+
 
 
 </details>
@@ -380,6 +405,8 @@ S.No. | Question Name | Java Solution |
 19 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
 20 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
 </details>
+
+
 
 
 </details>
