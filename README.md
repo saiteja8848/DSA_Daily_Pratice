@@ -55,7 +55,7 @@ S.No. | Question Name | Java Solution |
 
 
 <details>
-<Summary>Strings(18)</Summary>
+<Summary>Strings(22)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -77,13 +77,17 @@ S.No. | Question Name | Java Solution |
 16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/Strings/EncodeAndDecodeStrings.java)|
 17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/Strings/AtoIKMP.java)|
+19 | [String Compression](https://leetcode.com/problems/string-compression) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+20 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+21 | [Can place flowers](https://leetcode.com/problems/can-place-flowers) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+22 | [GCD of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 </details>
 
 
 
 <br>
 <details>
-<Summary>Arrays,Matrix && Math(19)</Summary>
+<Summary>Arrays,Matrix && Math(23)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -106,6 +110,10 @@ S.No. | Question Name | Java Solution |
 17 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
 18 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
 19 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
+20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
+21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+22 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+23 | [Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
 </details>
 
 
@@ -524,7 +532,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Trees</Summary>
+<Summary>Trees(BFS/DFS/Properties/Construction/Conversions)</Summary>
 
  S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
@@ -588,7 +596,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Graphs</Summary>
+<Summary>Graphs(DFS/BFS/Cycle Detection/Toplogical Sorting)</Summary>
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
