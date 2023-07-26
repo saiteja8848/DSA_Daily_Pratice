@@ -260,6 +260,17 @@ S.No. | Question Name | Java Solution |
 <br>
 <details>
 <Summary>Stack&& Queues</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Valid Parentheses](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+2 | [Simplify Path](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Min Stack](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+4 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+5 | [Basic calculator I,II,II](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+6 | [Largest Rectangle in Histrogram](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+7 | [Daily Temperatures](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+
 </details>
 
 
