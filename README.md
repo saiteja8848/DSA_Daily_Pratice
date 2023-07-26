@@ -46,14 +46,45 @@ S.No. | Question Name | Java Solution |
 23 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
 24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
 25 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-26 | [Print all subsequences whose sum=k]() |[JAVA](./src/main/java/Bitwise/)|
-27 | [Implement Set DS]() |[JAVA](./src/main/java/Bitwise/)|
 </details>
 
 
+
+
+
 <br>
+<details>
+<Summary>Arrays,Matrix && Math(21)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
+5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
+6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
+7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+8 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
+9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
+10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
+11 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
+12 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
+13 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+14 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
+15 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
+16 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
+17 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
+18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
+19 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
+20 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+21 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+</details>
 
 
+
+
+<br>
 <details>
 <Summary>Strings(22)</Summary>
 
@@ -85,36 +116,7 @@ S.No. | Question Name | Java Solution |
 
 
 
-<br>
-<details>
-<Summary>Arrays,Matrix && Math(23)</Summary>
 
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
-7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
-8 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
-9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
-10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
-11 | [h-Index](https://leetcode.com/problems/h-index/) |[JAVA]()|
-12 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-13 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-14 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-15 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
-16 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-17 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
-18 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
-19 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
-21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-22 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
-23 | [Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
-</details>
 
 
 
@@ -122,7 +124,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Greedy(10)</Summary>
+<Summary>Greedy(11)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -136,6 +138,7 @@ S.No. | Question Name | Java Solution |
 8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
 9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
 10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
+11 | [Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
 </details>
 
 
