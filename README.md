@@ -230,7 +230,7 @@ S.No. | Question Name | Java Solution |
 15 |[Kth missing positive number](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 16 |[Kth element of 2 sorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 17 |[Find the sqrt and Nith root of a integer](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-18 |[Aggressive cows | Painters partition | books allocation](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+18 |[Aggressive cows, Painters partition , books allocation](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 19 |[Find the smallest divisor](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 20 |[Minimize the max distance to gas station](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 
