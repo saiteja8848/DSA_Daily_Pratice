@@ -219,21 +219,21 @@ S.No. | Question Name | Java Solution |
 3 |[Search in a rotated sorted array II - duplicates](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 4 |[minimum in a rotated sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 5 |[Single element in a sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-6 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/)|
-7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[Search in a 2D matrix 1](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
+6 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/FindAPeakElementIN_1DMatrix.java)|
+7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/FindThePeakElementInA2DMatrix.java)|
+9 |[Search in a 2D matrix I](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
 10 |[Search in a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_II.java)|
-10 |[Matrix median](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[Median of two unsorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-12 |[Koko eating bananas](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-13 |[Minimum days to make m bouquets](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-14 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-15 |[Kth missing positive number](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-16 |[Kth element of 2 sorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-17 |[Find the sqrt and Nith root of a integer](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-18 |[Aggressive cows, Painters partition , books allocation](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-19 |[Find the smallest divisor](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-20 |[Minimize the max distance to gas station](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Matrix median](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) |[JAVA](./src/main/java/BinarySearch/MatrixMedian.java)|
+12 |[Median of two unsorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|
+13 |[Koko eating bananas](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+14 |[Minimum days to make m bouquets](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+15 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+16 |[Kth missing positive number](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+17 |[Kth element of 2 sorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+18 |[Find the sqrt and Nith root of a integer](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+19 |[Aggressive cows, Painters partition , books allocation](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+20 |[Find the smallest divisor](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+21 |[Minimize the max distance to gas station](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 
 </details>
 
