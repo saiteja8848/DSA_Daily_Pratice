@@ -139,6 +139,7 @@ S.No. | Question Name | Java Solution |
 9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
 10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
 11 | [Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
+12 | [Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
 </details>
 
 
@@ -218,10 +219,10 @@ S.No. | Question Name | Java Solution |
 3 |[Search in a rotated sorted array II - duplicates](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 4 |[minimum in a rotated sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 5 |[Single element in a sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-6 |[Find the peak element](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-8 |[Search in a 2D Matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[Search in a row and column wise sorted matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+6 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/)|
+7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[Search in a 2D matrix 1](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
+10 |[Search in a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_II.java)|
 10 |[Matrix median](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 11 |[Median of two unsorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 12 |[Koko eating bananas](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
