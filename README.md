@@ -204,31 +204,35 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>BinarySearch(15)</Summary>
+<Summary>BinarySearch(20)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Binary Search](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-2 |[Find the peak Element I](https://leetcode.com/problems/find-peak-element/) |[JAVA](./src/main/java/BinarySearch/)|
-2 |[Find the peak Element II](https://leetcode.com/problems/find-a-peak-element-ii) |[JAVA](./src/main/java/BinarySearch/)|
-3 |[Search in a 2DMatrix](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
-3 |[Search in  a 2DMatrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[JAVA](./src/main/java/BinarySearch/)|
-4 |[Search In a rotated + sorted array I](https://leetcode.com/problems/search-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-4 |[Search In a rotated + sorted array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) |[JAVA](./src/main/java/BinarySearch/)|
-5 |[Kth Smallest Element In a sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA](./src/main/java/BinarySearch/)|
-6 |[Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-7 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
-8 |[Count of Smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[SQRT](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/)|
-9 |[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square/) |[JAVA](./src/main/java/BinarySearch/)|
-10 |[First bad version](https://leetcode.com/problems/first-bad-version/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[the-painters-partition](https://www.geeksforgeeks.org/the-painters-partition-problem-using-binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[Allocate-minimum-number-of-pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/) |[JAVA](./src/main/java/BinarySearch/)|
-11 |[Aggressive cows](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) |[JAVA](./src/main/java/BinarySearch/)|
-12 |[k-th-element-of-two-sorted-arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/) |[JAVA](./src/main/java/BinarySearch/)|
-13 |[search-single-element-in-a-sorted-array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/)|
-14 |[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/)|
-15 |[minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/)|
+1 |[Lower and Upper Bound](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+1 |[Search for insert position](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+1 |[Floor and Ceil in a sorted Array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Find the first and Last occurences of a given number in sorted ](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+2 |[Count occurences of a given number in a sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in a rotated sorted array I](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+3 |[Search in a rotated sorted array II - duplicates](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+4 |[minimum in a rotated sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+5 |[Single element in a sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+6 |[Find the peak element](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+8 |[Search in a 2D Matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+9 |[Search in a row and column wise sorted matrix](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+10 |[Matrix median](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+11 |[Median of two unsorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+12 |[Koko eating bananas](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+13 |[Minimum days to make m bouquets](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+14 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+15 |[Kth missing positive number](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+16 |[Kth element of 2 sorted arrays](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+17 |[Find the sqrt and Nith root of a integer](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+18 |[Aggressive cows | Painters partition | books allocation](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+19 |[Find the smallest divisor](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+20 |[Minimize the max distance to gas station](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
 
 </details>
 
