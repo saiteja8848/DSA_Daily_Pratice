@@ -79,6 +79,7 @@ S.No. | Question Name | Java Solution |
 19 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
 20 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
 21 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+22 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
 </details>
 
 
@@ -124,7 +125,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Greedy(11)</Summary>
+<Summary>Greedy(12)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -138,8 +139,8 @@ S.No. | Question Name | Java Solution |
 8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
 9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
 10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
-11 | [Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
-12 | [Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
+11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
+12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
 </details>
 
 
@@ -192,11 +193,10 @@ S.No. | Question Name | Java Solution |
 15 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
 16 | [Employee Free Time](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
 17 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-18 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-19 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-20 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-21 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-22 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+18 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+19 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+20 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+21 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
 </details>
 
 
