@@ -49,8 +49,7 @@ S.No. | Question Name | Java Solution |
 26 | [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 27 | [Longest Consecutive 1’s)](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 28 | [Sparse Number](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-29 | [Alone in a couple](https://practice.geeksforgeeks.org/problems/alone-in-couple5507/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-30 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+29 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 </details>
 
 
