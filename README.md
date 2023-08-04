@@ -58,7 +58,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Arrays,Matrix && Math(23)</Summary>9
+<Summary>Arrays,Matrix && Math(23)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
