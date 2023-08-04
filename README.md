@@ -80,11 +80,11 @@ S.No. | Question Name | Java Solution |
 16 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
 17 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
 18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-19 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
-20 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+19 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
+20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
 21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-22 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-23 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
+22 | [Excel sheet column title](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+23 | [Excel Sheet column number](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
 </details>
 
 
@@ -92,7 +92,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Strings(22)</Summary>
+<Summary>Strings(23)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -118,6 +118,7 @@ S.No. | Question Name | Java Solution |
 20 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 21 | [Can place flowers](https://leetcode.com/problems/can-place-flowers) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 22 | [GCD of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+23 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ReverseWordsInAString.java)|
 </details>
 
 
@@ -224,28 +225,29 @@ S.No. | Question Name | Java Solution |
 3 |[Search in a rotated sorted array II - duplicates](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) |[JAVA](./src/main/java/BinarySearch/SearchInASortedRotatedMatrix.java)|
 4 |[minimum in a rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/FindMinimum.java)|
 5 |[Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/SingleElementInSortedArray.java)|
-6 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/FindAPeakElementIN_1DMatrix.java)|
-7 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/FindThePeakElementInA2DMatrix.java)|
-9 |[Search in a 2D matrix I](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
+6 |[Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|
+7 |[Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+8 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/FindAPeakElementIN_1DMatrix.java)|
+9 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/FindThePeakElementInA2DMatrix.java)|
+10 |[Search in a 2D matrix I](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
 10 |[Search in a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_II.java)|
 11 |[Matrix median](https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) |[JAVA](./src/main/java/BinarySearch/MatrixMedian.java)|
-12 |[Median of two unsorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|
-13 |[Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) |[JAVA](./src/main/java/BinarySearch/KokoEatingBananas.java.java)|
-14 |[Minimum days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/MinimumBouquets.java)|
-15 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/CapacityToShip.java)|
-16 |[Kth missing positive number](https://takeuforward.org/arrays/kth-missing-positive-number/) |[JAVA](./src/main/java/BinarySearch/)|
-17 |[Kth element of 2 sorted arrays](https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/KthElementOf2Sorted.java)|
-18 |[Find the sqrt of a integer](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/SqrtOfNumber.java)|
-18 |[Find the Nith root of a integer](https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/NthRootOfInteger.java)|
-19 |[Allocate cows to stalls with max possible distance](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/AggresiveCows.java)|
-19 |[Minimum no of pages allocation](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries) |[JAVA](./src/main/java/BinarySearch/AllocateBooksToStudents.java)|
-19 |[Painters partition](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/PaintersPartition.java)|
-19 |[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |[JAVA](./src/main/java/BinarySearch/SplitArrayLargestSum.java)|
-20 |[Find the smallest divisor given a threshold](find-the-smallest-divisor-given-a-threshold) |[JAVA](./src/main/java/BinarySearch/SmallestDivisor.java)|
+12 |[Kth smallest element in a sorted matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[JAVA](./src/main/java/BinarySearch/MatrixMedian.java)|
+13 |[Kth missing positive number](https://takeuforward.org/arrays/kth-missing-positive-number/) |[JAVA](./src/main/java/BinarySearch/)|
+14 |[Find the smallest divisor given a threshold](find-the-smallest-divisor-given-a-threshold) |[JAVA](./src/main/java/BinarySearch/SmallestDivisor.java)|
+15 |[Kth element of 2 sorted arrays](https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/KthElementOf2Sorted.java)|
+16 |[Find the sqrt of a integer](https://leetcode.com/problems/sqrtx/) |[JAVA](./src/main/java/BinarySearch/SqrtOfNumber.java)|
+17 |[Find the Nith root of a integer](https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/NthRootOfInteger.java)|
+18 |[Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) |[JAVA](./src/main/java/BinarySearch/KokoEatingBananas.java.java)|
+19 |[Minimum days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/MinimumBouquets.java)|
+20 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/CapacityToShip.java)|
+21 |[Allocate cows to stalls with max possible distance](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/AggresiveCows.java)|
+21 |[Minimum no of pages allocation](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries) |[JAVA](./src/main/java/BinarySearch/AllocateBooksToStudents.java)|
+21 |[Painters partition](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/PaintersPartition.java)|
+21 |[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |[JAVA](./src/main/java/BinarySearch/SplitArrayLargestSum.java)|
 21 |[Minimize the max distance to gas station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |[JAVA](./src/main/java/BinarySearch/)|
-22 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex.java)|
-21 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
-22 | [Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+21 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex.java)|
+21 |[Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
 </details>
 
 
@@ -275,7 +277,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Stack&& Queues</Summary>
+<Summary>Stack&& Queues(15)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -363,7 +365,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Two Pointers (26)</Summary>
+<Summary>Two Pointers (20)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -387,8 +389,7 @@ S.No. | Question Name | Java Solution |
 18 | [remove-duplicates-from-sorted-array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
 19 | [Remove-nth-node-from-end-of-list]( https://leetcode.com/problems/remove-nth-node-from-end-of-list) |[JAVA](./src/main/java/TwoPointers/RemoveNthNodeFromEndOfList.java)|
 20 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
-21 | [string-compression](https://leetcode.com/problems/string-compression/) |[JAVA](./src/main/java/TwoPointers/StringCompression.java)|
-26 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ReverseWordsInAString.java)|
+
 
 
 
