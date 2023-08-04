@@ -31,23 +31,23 @@ S.No. | Question Name | Java Solution |
 8 | [Sparse Number](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 9 | [Extract/Set/Clear/Remove](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/) |[JAVA](./src/main/java/Bitwise/)|
 10 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerOf2OrNot.java)|
-11 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-12 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
-13 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-14 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-15 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-16 | [Complement of base 10 number ](https://leetcode.com/problems/complement-of-base-10-integer) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-17 | [Copy set bits in a range ](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/) |[JAVA](https://www.geeksforgeeks.org/copy-set-bits-in-a-range)|
-18 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
-19 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
-20 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-21 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-22 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
-23 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
-24 | [bit difference ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-25 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
-26 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
-27 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
+11 | [Copy set bits in a range ](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/) |[JAVA](https://www.geeksforgeeks.org/copy-set-bits-in-a-range)|
+12 | [Complement of base 10 number ](https://leetcode.com/problems/complement-of-base-10-integer) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+13 | [bit difference ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+14 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
+15 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
+16 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+17 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+18 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+19 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
+20 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+21 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
+22 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
+23 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+24 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+25 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
+26 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
+27 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
 28 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 29 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 </details>
