@@ -26,29 +26,29 @@ S.No. | Question Name | Java Solution |
 3 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |[JAVA](./src/main/java/Bitwise/CountingBits.java)|
 4 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[JAVA](./src/main/java/Bitwise/ReverseBits.java)|
 5 | [say N is odd/even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) |[JAVA](./src/main/java/Bitwise/EvenOrOdd.java)|
-6 | [Extract/Set/Clear/Remove](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/) |[JAVA](./src/main/java/Bitwise/)|
-7 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerOf2OrNot.java)|
-8 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-9 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
-10 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-11 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-12 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-13 | [Complement of base 10 number ](https://leetcode.com/problems/complement-of-base-10-integer) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-14 | [Copy set bits in a range ](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/) |[JAVA](https://www.geeksforgeeks.org/copy-set-bits-in-a-range)|
-15 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
-16 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
-17 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-18 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-19 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
-20 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
-21 | [bit difference ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-22 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
-23 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
-24 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
-25 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-26 | [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-27 | [Longest Consecutive 1’s)](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-28 | [Sparse Number](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+6 | [Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+7 | [Longest Consecutive 1’s)](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+8 | [Sparse Number](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+9 | [Extract/Set/Clear/Remove](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/) |[JAVA](./src/main/java/Bitwise/)|
+10 | [Check if a no is a power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1) |[JAVA](./src/main/java/Bitwise/PowerOf2OrNot.java)|
+11 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+12 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
+13 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+14 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+15 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+16 | [Complement of base 10 number ](https://leetcode.com/problems/complement-of-base-10-integer) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+17 | [Copy set bits in a range ](https://www.geeksforgeeks.org/copy-set-bits-in-a-range/) |[JAVA](https://www.geeksforgeeks.org/copy-set-bits-in-a-range)|
+18 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
+19 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
+20 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+21 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+22 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
+23 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
+24 | [bit difference ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+25 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
+26 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
+27 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
+28 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 29 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
 </details>
 
@@ -58,7 +58,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Arrays,Matrix && Math(21)</Summary>
+<Summary>Arrays,Matrix && Math(23)</Summary>9
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -82,8 +82,9 @@ S.No. | Question Name | Java Solution |
 18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
 19 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
 20 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-21 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
-22 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
+21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+22 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+23 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
 </details>
 
 
@@ -243,7 +244,8 @@ S.No. | Question Name | Java Solution |
 20 |[Find the smallest divisor given a threshold](find-the-smallest-divisor-given-a-threshold) |[JAVA](./src/main/java/BinarySearch/SmallestDivisor.java)|
 21 |[Minimize the max distance to gas station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |[JAVA](./src/main/java/BinarySearch/)|
 22 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex.java)|
-
+21 | [Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+22 | [Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
 </details>
 
 
@@ -386,10 +388,6 @@ S.No. | Question Name | Java Solution |
 19 | [Remove-nth-node-from-end-of-list]( https://leetcode.com/problems/remove-nth-node-from-end-of-list) |[JAVA](./src/main/java/TwoPointers/RemoveNthNodeFromEndOfList.java)|
 20 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
 21 | [string-compression](https://leetcode.com/problems/string-compression/) |[JAVA](./src/main/java/TwoPointers/StringCompression.java)|
-22 | [Implement StrStr](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ImplementStrStr.java)|
-23 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA](./src/main/java/TwoPointers/ValidPalindrome.java)|
-24 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA](./src/main/java/TwoPointers/ValidPalindrome_II.java)|
-25 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |[JAVA](./src/main/java/TwoPointers/RotateArray.java)|
 26 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ReverseWordsInAString.java)|
 
 
