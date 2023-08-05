@@ -223,7 +223,7 @@ S.No. | Question Name | Java Solution |
 4 |[minimum in a rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[JAVA](./src/main/java/BinarySearch/FindMinimum.java)|
 5 |[Single element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |[JAVA](./src/main/java/BinarySearch/SingleElementInSortedArray.java)|
 6 |[Median of two sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |[JAVA](./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java)|
-7 |[Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+7 |[Peak Index in a mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA](./src/main/java/BinarySearch/PeakIndexInMountainArray.java)|
 8 |[Find the peak element](https://leetcode.com/problems/find-peak-element) |[JAVA](./src/main/java/BinarySearch/FindAPeakElementIN_1DMatrix.java)|
 9 |[Find the peak element 2D Matrix](https://leetcode.com/problems/find-a-peak-element-ii/) |[JAVA](./src/main/java/BinarySearch/FindThePeakElementInA2DMatrix.java)|
 10 |[Search in a 2D matrix I](https://leetcode.com/problems/search-a-2d-matrix/) |[JAVA](./src/main/java/BinarySearch/SearchInA2DMatrix_I.java)|
@@ -242,9 +242,9 @@ S.No. | Question Name | Java Solution |
 21 |[Minimum no of pages allocation](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries) |[JAVA](./src/main/java/BinarySearch/AllocateBooksToStudents.java)|
 21 |[Painters partition](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/PaintersPartition.java)|
 21 |[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |[JAVA](./src/main/java/BinarySearch/SplitArrayLargestSum.java)|
-21 |[Minimize the max distance to gas station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |[JAVA](./src/main/java/BinarySearch/)|
-21 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex.java)|
-21 |[Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA]()|
+21 |[Minimize the max distance to gas station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |[JAVA](https://leetcode.ca/2018-01-12-774-Minimize-Max-Distance-to-Gas-Station/)|
+21 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex_II.java)|
+21 |[Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA](./src/main/java/BinarySearch/Heaters.java)|
 </details>
 
 

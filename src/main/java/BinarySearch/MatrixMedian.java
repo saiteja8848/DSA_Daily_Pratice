@@ -69,8 +69,59 @@ public class MatrixMedian {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
 	}
 
+}
+
+class Solution1 {
+
+	int lesserThanMid(int[] arr, int x) {
+		int low = 0, high = arr.length - 1;
+		while (low <= high) {
+			int mid = low + (high - low) / 2;
+			if (arr[mid] <= x)
+				low = mid + 1;
+			else
+				high = mid - 1;
+		}
+		return low;
+	}
+
+	public int getCountOfNumbersLessThanMid(int[][] matrix, int mid, int row, int col) {
+		int count = 0;
+		for (int i = 0; i < row; i++) {
+			for (int j = col - 1; j >= 0; j--) {
+				if (matrix[i][j] <= mid) {
+					count = count + (j + 1);
+					break;
+				}
+			}
+		}
+		return count;
+	}
+
+	int median(int matrix[][], int R, int C) {
+		int low = Integer.MAX_VALUE, high = Integer.MIN_VALUE;
+		for (int i = 0; i < R; i++) {
+			low = Math.min(low, matrix[i][0]);
+			high = Math.max(high, matrix[i][C - 1]);
+		}
+
+		int pos = ((R * C) - 1) / 2;
+		System.out.println("expected median position=" + pos);
+		while (low <= high) {
+			int mid = low + (high - low) / 2;
+
+			// int count=0;
+			// for(int i=0;i<R;i++)
+			// count+=lesserThanMid(matrix[i],mid);
+			System.out.println(
+					"mid=" + mid + " couny=" + getCountOfNumbersLessThanMid(matrix, mid, R, C) + " low=" + low);
+			if (getCountOfNumbersLessThanMid(matrix, mid, R, C) <= pos)
+				low = mid + 1;
+			else
+				high = mid - 1;
+		}
+		return low;
+	}
 }
