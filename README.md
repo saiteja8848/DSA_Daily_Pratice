@@ -238,7 +238,7 @@ S.No. | Question Name | Java Solution |
 18 |[Koko eating bananas](https://leetcode.com/problems/koko-eating-bananas/) |[JAVA](./src/main/java/BinarySearch/KokoEatingBananas.java.java)|
 19 |[Minimum days to make m bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) |[JAVA](./src/main/java/BinarySearch/MinimumBouquets.java)|
 20 |[Least Capacity to ship packages in m days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |[JAVA](./src/main/java/BinarySearch/CapacityToShip.java)|
-21 |[Allocate cows to stalls with max possible distance](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/AggresiveCows.java)|
+21 |[Allocate cows to stalls with max possible distance](https://www.codingninjas.com/studio/problems/aggressive-cows_1082559) |[JAVA](./src/main/java/BinarySearch/AggresiveCows.java)|
 21 |[Minimum no of pages allocation](https://www.codingninjas.com/studio/problems/allocate-books_1090540?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries) |[JAVA](./src/main/java/BinarySearch/AllocateBooksToStudents.java)|
 21 |[Painters partition](https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf) |[JAVA](./src/main/java/BinarySearch/PaintersPartition.java)|
 21 |[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |[JAVA](./src/main/java/BinarySearch/SplitArrayLargestSum.java)|
