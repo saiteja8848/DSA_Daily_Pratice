@@ -1,11 +1,12 @@
 package BinarySearch;
 
-class Solution8{
-	public static boolean possible(int[] arr, int day, int m, int k) {
-		int n = arr.length;
+import java.util.Arrays;
+
+class Solution8 {
+	public static int getNumberOfBouques(int[] arr, int day, int k) {
 		int cnt = 0;
 		int noOfB = 0;
-		for (int i = 0; i < n; i++) {
+		for (int i = 0; i < arr.length; i++) {
 			if (arr[i] <= day) {
 				cnt++;
 			} else {
@@ -14,28 +15,23 @@ class Solution8{
 			}
 		}
 		noOfB += (cnt / k);
-		return noOfB >= m;
+		return noOfB;
 	}
 
 	public int minDays(int[] arr, int m, int k) {
+		// if no of flowers required is more than no of flowers given, return -1;
 		long val = (long) m * k;
-		int n = arr.length;
-		if (val > n)
+		if (val > arr.length)
 			return -1;
 
-		int mini = Integer.MAX_VALUE, maxi = Integer.MIN_VALUE;
-		for (int i = 0; i < n; i++) {
-			mini = Math.min(mini, arr[i]);
-			maxi = Math.max(maxi, arr[i]);
-		}
-
-		int low = mini, high = maxi;
+		int low = Arrays.stream(arr).min().getAsInt();
+		int high = Arrays.stream(arr).max().getAsInt();
 		while (low <= high) {
 			int mid = (low + high) / 2;
-			if (possible(arr, mid, m, k)) {
-				high = mid - 1;
-			} else {
+			if (getNumberOfBouques(arr, mid, k) < m) {
 				low = mid + 1;
+			} else {
+				high = mid - 1;
 			}
 		}
 		return low;

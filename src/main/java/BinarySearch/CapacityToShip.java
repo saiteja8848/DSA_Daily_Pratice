@@ -1,35 +1,37 @@
 package BinarySearch;
 
+import java.util.Arrays;
+
 class Solution111 {
 	public int shipWithinDays(int[] weights, int days) {
-		int l = 0, r = 0;
-		for (int w : weights) {
-			l = Math.max(w, l);
-			r += w;
-		}
-		while (l <= r) {
-			int mid = l + (r - l) / 2;
-			if (checkLimit(weights, days, mid))
-				r = mid - 1;
+		int low = Arrays.stream(weights).max().getAsInt();
+		int high = Arrays.stream(weights).sum();
+		while (low <= high) {
+			int mid = low + (high - low) / 2;
+			// Note : Incase we are getting more no of days, it means our capcity is low,
+			// so we have to increase our capacity - so move to increasing side, low = mid
+			// +1, so that we will get least no of days
+			if (getNumOfDays(weights, days, mid) > days)
+				low = mid + 1;
 			else
-				l = mid + 1;
+				high = mid - 1;
 		}
-		return l;
+		return low;
 	}
 
-	public boolean checkLimit(int[] weights, int days, int limit) {
+	public int getNumOfDays(int[] weights, int days, int midAsCapacityPerDay) {
 		int sum = 0;
 		int count = 1;
-		for (int i = 0; i < weights.length; i++) {
+		for (int weight : weights) {
 			if (count > days)
-				return false;
-			if (sum + weights[i] > limit) {
+				break;
+			if (sum + weight > midAsCapacityPerDay) {
 				count += 1;
 				sum = 0;
 			}
-			sum += weights[i];
+			sum += weight;
 		}
-		return (days >= count);
+		return count;
 	}
 }
 

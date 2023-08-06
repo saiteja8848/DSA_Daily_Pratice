@@ -244,7 +244,7 @@ S.No. | Question Name | Java Solution |
 21 |[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum/) |[JAVA](./src/main/java/BinarySearch/SplitArrayLargestSum.java)|
 21 |[Minimize the max distance to gas station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) |[JAVA](https://leetcode.ca/2018-01-12-774-Minimize-Max-Distance-to-Gas-Station/)|
 21 |[H-Index I && II](https://leetcode.com/problems/h-index-ii/) |[JAVA](./src/main/java/BinarySearch/HIndex_II.java)|
-21 |[Heaters](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |[JAVA](./src/main/java/BinarySearch/Heaters.java)|
+21 |[Heaters](https://leetcode.com/problems/heaters/) |[JAVA](./src/main/java/BinarySearch/Heaters.java)|
 </details>
 
 
