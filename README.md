@@ -646,12 +646,12 @@ S.No. | Question Name | Java Solution |
 1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA]()|
 1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA]()|
 2 |[Depth First traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/surrounded-regions/) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/number-of-islands/) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/flood-fill/) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/max-area-of-island/) |[JAVA]()|
-2 |[Depth First traversal](https://leetcode.com/problems/clone-graph/) |[JAVA]()|
+2 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA]()|
+2 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA]()|
+2 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA]()|
+2 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA]()|
+2 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA]()|
+2 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA]()|
 3 |[Breadth First Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA]()|
 3 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA]()|
 3 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA]()|
