@@ -550,29 +550,40 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
+
+
 <br>
 <details>
 <Summary>Dynamic Programming(1D/2D/Strings)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
+
 1 |[Fibonaaci]() |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Climbing Stairs I && II](https://leetcode.com/problems/climbing-stairs/) |[JAVA](./src/main/java/DynamicProgramming/)|
-2 |[House Robber I && II](https://leetcode.com/problems/house-robber/) |[JAVA](./src/main/java/DynamicProgramming/)|
-3 |[Coin change I && II](https://leetcode.com/problems/coin-change/) |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[Subset Sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[TargetSum](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |[JAVA](./src/main/java/DynamicProgramming/)|
-4 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
-6 |[Best Time to Buy and Sell Stock I,II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
-6 |[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |[JAVA](./src/main/java/DynamicProgramming/)|
-7 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
-7 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
-8 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
-9 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
-10 |[Egg drop ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
-11 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[House Robber I && II](https://leetcode.com/problems/house-robber/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Coin change I && II](https://leetcode.com/problems/coin-change/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Unique Paths I,II](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[TargetSum](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Subset Sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[Best Time to Buy and Sell Stock I,II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
+5 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[Longest Increasing subsequence]() |[JAVA](./src/main/java/DynamicProgramming/)|
+7 |[Triangle]() |[JAVA](./src/main/java/DynamicProgramming/)|
+8 |[Maximal square]() |[JAVA](./src/main/java/DynamicProgramming/)|
+9 |[minimum path sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
+10 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+11 |[InterLeaving String]() |[JAVA](./src/main/java/DynamicProgramming/)|
+12 |[Longest Common substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
+13 |[Longest Palindromic substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
+14 |[Count of palindromic substrings]() |[JAVA](./src/main/java/DynamicProgramming/)|
 </details>
 
 
