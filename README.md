@@ -1,12 +1,6 @@
 DataStructures && Algorthims
 ============================
 
-
-
-<h3>Note 1: All of these are pattern-based - solving a few problems helps clear concepts and makes it easier to tackle others - don't worry about no of questions</h3>
-
-<h3>Note 2: All these questions from top sources & repeatedly asked in product based(leetcode/Interviewbit/neetcode/450)</h3>
-
 [Time && Space complexity](https://flexiple.com/algorithms/big-o-notation-cheat-sheet/)
 
 
