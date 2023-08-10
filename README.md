@@ -307,7 +307,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Linked-List(25)</Summary>
+<Summary>Linked-List(20)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
