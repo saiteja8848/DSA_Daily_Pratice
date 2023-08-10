@@ -312,17 +312,30 @@ S.No. | Question Name | Java Solution |
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Reverse LinkedLists](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
-2 | [Reverse LinkedLists II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JAVA](./src/main/java/LinkedList/)|
-3 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-4 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-5 | [Reverse nodes in even length groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) |[JAVA](./src/main/java/LinkedList/)|
-6 | [Odd-even linked list](https://leetcode.com/problems/odd-even-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
-7 | [Reorder List](https://leetcode.com/problems/reorder-list/) |[JAVA](./src/main/java/LinkedList/)|
-8 | [Rotate List](https://leetcode.com/problems/rotate-list/) |[JAVA](./src/main/java/LinkedList/)|
-9 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
-10 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
-11 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
-12 | [Merge in between linkedLists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+1 | [Reverse LinkedLists II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JAVA](./src/main/java/LinkedList/)|
+1 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/)|
+1 | [Reverse nodes in even length groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) |[JAVA](./src/main/java/LinkedList/)|
+2 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+2 | [Swapping nodes Linked List](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+2 | [Odd-even linked list](https://leetcode.com/problems/odd-even-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+3 | [Reorder List](https://leetcode.com/problems/reorder-list/) |[JAVA](./src/main/java/LinkedList/)|
+4 | [Rotate List](https://leetcode.com/problems/rotate-list/) |[JAVA](./src/main/java/LinkedList/)|
+5 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
+6 | [Remove duplicates](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+7 | [Remove Nth node from end of list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+8 | [Delete Nth node](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+9 | [Add two numbers](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+10 | [Populating Next right pointers in each node](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+11 | [Merge sort using linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+12 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+13 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+14 | [Merge two sorted lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+15 | [intersection of two linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+16 | [Convert Binary tree to Linked List](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+17 | [Convert Linked list to binary tree](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+18 | [Convert sorted linked list to binary search tree](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+19 | [Convert Binary search tree to sorted doubly linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+20 | [convert binary no to linked list no](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
 </details>
 
 
