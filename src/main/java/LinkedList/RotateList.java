@@ -2,9 +2,28 @@ package LinkedList;
 
 public class RotateList {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public ListNode rotateRight(ListNode head, int k) {
+		if (head == null) {
+			return head;
+		}
+		int len = 1;
+		ListNode curr = head;
+		while (curr.next != null) {
+			curr = curr.next;
+			len++;
+		}
+		k = k % len;
+		if (k == 0) {
+			return head;
+		}
+		curr.next = head;
+		ListNode newHead = head;
+		for (int i = 0; i < len - k - 1; i++) {
+			newHead = newHead.next;
+		}
+		ListNode temp = newHead.next;
+		newHead.next = null;
+		return temp;
 	}
 
 }
