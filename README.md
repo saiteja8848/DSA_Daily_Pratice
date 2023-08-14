@@ -315,7 +315,6 @@ S.No. | Question Name | Java Solution |
 4 | [Rotate List](https://leetcode.com/problems/rotate-list/) |[JAVA](./src/main/java/LinkedList/)|
 5 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/)|
 6 | [Remove duplicates](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
-7 | [Remove/Delete Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[JAVA](./src/main/java/LinkedList/)|
 8 | [Add two numbers](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
 9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
 10 | [Merge sort using linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
@@ -412,7 +411,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Slow and Fast Pointers (5)</Summary>
+<Summary>Slow and Fast Pointers (10)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -424,6 +423,9 @@ S.No. | Question Name | Java Solution |
 5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
 6 | [Find the duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |[JAVA](./src/main/java/FastAndSlowPointers/FindTheDuplicateNumber.java)|
 7 | [Swapping nodes Linked List](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/)|
+8 | [Remove/Delete Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[JAVA](./src/main/java/LinkedList/)|
+9 | [Delete Node in a Linked Lists](https://leetcode.com/problems/delete-node-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+10 | [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
 </details>
 
 
