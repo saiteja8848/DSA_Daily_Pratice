@@ -1,5 +1,7 @@
 package LinkedList;
 
+import java.util.Stack;
+
 public class ReverseLinkedListsInKGroup {
 
 	public ListNode reverseKGroup(ListNode head, int k) {
@@ -64,4 +66,31 @@ class Solution {
 		return reverse(head, k, total);
 	}
 
+}
+
+
+class Solution303 {
+    public ListNode reverseKGroup(ListNode head, int k) {
+        Stack<Integer> stk = new Stack<>();
+
+        ListNode temp = head;
+        while(temp != null){
+            ListNode start = temp;
+            int count = k;
+
+            while(count>0 &&  temp!=null){
+                stk.push(temp.val);
+                temp = temp.next;
+                count--;
+            }
+            if(count== 0){
+                while(start != temp){
+                    start.val = stk.pop();
+                    start = start.next;
+                }
+            }         
+        }
+
+        return head; 
+    }
 }

@@ -301,14 +301,14 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Linked-List(18)</Summary>
+<Summary>Linked-List(17)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Reverse LinkedLists](https://leetcode.com/problems/reverse-linked-list/) |[JAVA](./src/main/java/LinkedList/ReverseLinkedList.java)|
 1 | [Reverse LinkedLists II](https://leetcode.com/problems/reverse-linked-list-ii/)|[JAVA](./src/main/java/LinkedList/ReverseLinkedListII.java)|
 1 | [Reverse nodes in k pair](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[JAVA](./src/main/java/LinkedList/ReverseLinkedListsInKGroup.java)|
-1 | [Reverse nodes in even length groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) |[JAVA](./src/main/java/LinkedList/)|
+1 | [Reverse nodes in even length groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/) |[JAVA](./src/main/java/LinkedList/ReverseLinkedListEvenGroup.java)|
 2 | [Swapping nodes in pair](https://leetcode.com/problems/swap-nodes-in-pairs/) |[JAVA](./src/main/java/LinkedList/SwapNodesInPair.java)|
 2 | [Odd-even linked list](https://leetcode.com/problems/odd-even-linked-list/) |[JAVA](./src/main/java/LinkedList/OddEvenLinkedList.java)|
 3 | [Reorder List](https://leetcode.com/problems/reorder-list/) |[JAVA](./src/main/java/LinkedList/ReorderList.java)
@@ -316,14 +316,16 @@ S.No. | Question Name | Java Solution |
 5 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/CopyListWithRandomPointer.java)|
 6 | [Remove duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[JAVA](./src/main/java/LinkedList/RemoveDuplicate.java)|
 8 | [Add two numbers](https://leetcode.com/problems/add-two-numbers/) |[JAVA](./src/main/java/LinkedList/AddTwoNumbers.java)|
-9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
-10 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/MaximumTwinSumOfLinkedList.java)|
+10 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/MergeInBetween.java)|
 11 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[JAVA](./src/main/java/LinkedList/MergeTwoSortedLists.java)|
 12 | [Intersection of two linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/IntersectionOfTwoLists.java)|
 13 | [flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[JAVA](./src/main/java/LinkedList/FlattenBinaryTree.java)|
 14 | [Convert Linked list to binary tree](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
 15 | [Convert sorted linked list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA](./src/main/java/LinkedList/SortedListToBST.java)|
-16 | [convert binary no to linked list no](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/)|
+16 | [convert binary no to linked list no](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |[JAVA](./src/main/java/LinkedList/)|
+17 | [Sort List](https://leetcode.com/problems/sort-list/) |[JAVA](./src/main/java/LinkedList/SortList.java)|
+18 | [Partition List](https://leetcode.com/problems/partition-list/) |[JAVA](./src/main/java/LinkedList/SortList.java)|
 </details>
 
 
