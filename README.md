@@ -319,7 +319,7 @@ S.No. | Question Name | Java Solution |
 9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/MaximumTwinSumOfLinkedList.java)|
 10 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/MergeInBetween.java)|
 11 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[JAVA](./src/main/java/LinkedList/MergeTwoSortedLists.java)|
-12 | [Intersection of two linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/IntersectionOfTwoLists.java)|
+12 | [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[JAVA](./src/main/java/LinkedList/IntersectionOfTwoLists.java)|
 13 | [flatten-binary-tree-to-linked-list (Morris tree traversal)](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[JAVA](./src/main/java/LinkedList/FlattenBinaryTree.java)|
 14 | [Linked List in a binary tree](https://leetcode.com/problems/linked-list-in-binary-tree/) |[JAVA](./src/main/java/LinkedList/LinkedListInABinaryTree.java)|
 15 | [Convert sorted linked list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA](./src/main/java/LinkedList/SortedListToBST.java)|
