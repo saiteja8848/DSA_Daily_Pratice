@@ -4,10 +4,10 @@ public class SortedListToBST {
 	public TreeNode sortedListToBST(ListNode head) {
 		if (head == null)
 			return null;
+		if (head.next == null)
+			return new TreeNode(head.val);
 		ListNode mid = mid(head);
 		TreeNode root = new TreeNode(mid.val);
-		if (head == mid)
-			return root;
 		root.left = sortedListToBST(head);
 		root.right = sortedListToBST(mid.next);
 		return root;
