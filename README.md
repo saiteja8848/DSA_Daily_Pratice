@@ -325,7 +325,7 @@ S.No. | Question Name | Java Solution |
 15 | [Convert sorted linked list to binary search tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA](./src/main/java/LinkedList/SortedListToBST.java)|
 16 | [convert binary no to linked list no](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) |[JAVA](./src/main/java/LinkedList/)|
 17 | [Sort List](https://leetcode.com/problems/sort-list/) |[JAVA](./src/main/java/LinkedList/SortList.java)|
-18 | [Partition List](https://leetcode.com/problems/partition-list/) |[JAVA](./src/main/java/LinkedList/SortList.java)|
+18 | [Partition List](https://leetcode.com/problems/partition-list/) |[JAVA](./src/main/java/LinkedList/PartitionList.java)|
 </details>
 
 
