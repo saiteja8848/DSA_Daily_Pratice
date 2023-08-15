@@ -316,7 +316,7 @@ S.No. | Question Name | Java Solution |
 5 | [copyList with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |[JAVA](./src/main/java/LinkedList/CopyListWithRandomPointer.java)|
 6 | [Remove duplicates I && II](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[JAVA](./src/main/java/LinkedList/RemoveDuplicate.java)|
 8 | [Add two numbers](https://leetcode.com/problems/add-two-numbers/) |[JAVA](./src/main/java/LinkedList/AddTwoNumbers.java)|
-9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/MaximumTwinSumOfLinkedList.java)|
+9 | [Maximum Twin sum of a linked list](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/MaximumTwinSumOfLinkedList.java)|
 10 | [Merge in between linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/MergeInBetween.java)|
 11 | [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[JAVA](./src/main/java/LinkedList/MergeTwoSortedLists.java)|
 12 | [Intersection of two linked lists](https://leetcode.com/problems/merge-in-between-linked-lists/) |[JAVA](./src/main/java/LinkedList/IntersectionOfTwoLists.java)|
