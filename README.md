@@ -427,26 +427,8 @@ S.No. | Question Name | Java Solution |
 
 
 
-
-
-
-
-</details>
-
-
-
-
-
-
-
-
-
-
-<h1>Month-3</h1>
-
-
-</details>
 <br>
+<h1>Month-3</h1>
 <details>
 <Summary>Recursion (9) </Summary>
 
@@ -466,7 +448,6 @@ S.No. | Question Name | Java Solution |
 
 
 
-</details>
 <br>
 <details>
 <Summary>Backtracking(19)</Summary>
@@ -535,7 +516,7 @@ S.No. | Question Name | Java Solution |
 
 
 
-</details>
+
 <br>
 <details>
 <Summary>Trees(BFS/DFS/Validations/Properties/Views/Sums/Construction/Conversions)</Summary>
@@ -592,13 +573,12 @@ S.No. | Question Name | Java Solution |
 7 |[LCA- BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[JAVA]()|
 7 |[merge 2 binary trees](https://leetcode.com/problems/merge-two-binary-trees/) |[JAVA]()|
 7 |[kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[JAVA]()|
- 
 </details>
 
 
 
 
-</details>
+
 <br>
 <details>
 <Summary>Graphs(DFS/BFS/Cycle Detection/Toplogical Sorting/Graph coloring/MST)</Summary>
@@ -629,10 +609,7 @@ S.No. | Question Name | Java Solution |
 6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA]()|
 6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA]()|
 7 |[Graph coloring or Bipartite graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA]()|
-
 </details>
-
-
 
 
 <br>
@@ -645,8 +622,6 @@ S.No. | Question Name | Java Solution |
 2 |[Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA]()|
 3 |[Design add and search words data structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |[JAVA]()|
 </details>
-
-
 
 
 <br>
