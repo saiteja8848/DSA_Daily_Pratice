@@ -52,7 +52,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Arrays,Matrix && Math(23)</Summary>
+<Summary>Arrays,Matrix, Math(23) && Cyclic sort</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -79,6 +79,17 @@ S.No. | Question Name | Java Solution |
 21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
 22 | [Excel sheet column title](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
 23 | [Excel Sheet column number](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+
+<Summary>Cyclic Sort (6)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/CyclicSort/MissingNumber.java)|
+2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
+3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
+4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
+5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
+6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
 </details>
 
 
@@ -119,25 +130,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Cyclic Sort (6)</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/CyclicSort/MissingNumber.java)|
-2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
-3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
-4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
-5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
-6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
-</details>
-
-
-
-
-
-<br>
-<details>
-<Summary>Greedy(12)</Summary>
+<Summary>Greedy(12) && MergeIntervals </Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -153,16 +146,7 @@ S.No. | Question Name | Java Solution |
 10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
 11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
 12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
-</details>
 
-
-
-
-
-
-</details>
-<br>
-<details>
 <Summary>MergeIntervals(8)</Summary>
 
 S.No. | Question Name | Java Solution |
@@ -178,39 +162,34 @@ S.No. | Question Name | Java Solution |
 </details>
 
 
-
-
-
-</details>
-
-
-
-
-
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
-<br>
-
 <h1>Month-2</h1>
+<br>
+<details>
+<Summary>Heap (18)</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
+2 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+3 | [Kth Largest Element in a Stream](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+4 | [Sliding Window Median](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+5 | [Top k Frequent words](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+6 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
+7 | [Sort Characters By Frequency](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
+8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+9 | [Ugly Number II](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
+10 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+11 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+12 | [Rearrange String k Distance Apart](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
+13 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+14 | [Reoragnize String](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+15 | [K Closest Points to Origin](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+16 | [Find the Kth Smallest Sum of a Matrix with sorted rows](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+17 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+18 | [IPO](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+</details>
+
 
 <br>
 <details>
@@ -260,31 +239,6 @@ S.No. | Question Name | Java Solution |
 
 
 
-<br>
-<details>
-<Summary>Heap (18)</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
-2 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-3 | [Kth Largest Element in a Stream](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-4 | [Sliding Window Median](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-5 | [Top k Frequent words](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
-6 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
-7 | [Sort Characters By Frequency](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
-8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-9 | [Ugly Number II](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
-10 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-11 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-12 | [Rearrange String k Distance Apart](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
-13 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-14 | [Reoragnize String](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-15 | [K Closest Points to Origin](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-16 | [Find the Kth Smallest Sum of a Matrix with sorted rows](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
-17 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-18 | [IPO](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-</details>
 
 <br>
 
@@ -342,11 +296,6 @@ S.No. | Question Name | Java Solution |
 <br>
 
 
-
-
-
-
-<br>
 <details>
 <Summary>BinarySearch(20)</Summary>
 
