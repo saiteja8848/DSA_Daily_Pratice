@@ -214,7 +214,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Two Pointers (16)</Summary>
+<Summary>Two Pointers + Slow&&Fast Pointers</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -238,13 +238,6 @@ S.No. | Question Name | Java Solution |
 15 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA](./src/main/java/TwoPointers/)|
 16 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
 
-
-
-
-
-</details>
-<br>
-<details>
 <Summary>Slow and Fast Pointers (10)</Summary>
 
 S.No. | Question Name | Java Solution |
@@ -260,7 +253,9 @@ S.No. | Question Name | Java Solution |
 8 | [Remove/Delete Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[JAVA](./src/main/java/LinkedList/)|
 9 | [Delete Node in a Linked Lists](https://leetcode.com/problems/delete-node-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
 10 | [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+
 </details>
+
 
 
 
@@ -294,7 +289,7 @@ S.No. | Question Name | Java Solution |
 <br>
 
 <details>
-<Summary>Sliding Window(Fixed window -20)</Summary>
+<Summary>Sliding Window(Fixed window && Variable window)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -317,14 +312,7 @@ S.No. | Question Name | Java Solution |
 18 |[Longest Substring with atleast k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
 19 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
 20 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
-</details>
 
-
-
-
-</details>
-<br>
-<details>
 <Summary>Sliding Window(Variable Window Size-20)</Summary>
 
 S.No. | Question Name | Java Solution |
@@ -347,7 +335,12 @@ S.No. | Question Name | Java Solution |
 16 |[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
 17 |[Minimum Window Subsequence](https://www.lintcode.com/problem/857/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
 18 |[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+
 </details>
+
+</details>
+<br>
+
 
 
 
