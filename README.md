@@ -341,15 +341,17 @@ S.No. | Question Name | Java Solution |
  1 |[LRU Cache](https://leetcode.com/problems/lru-cache/) |[JAVA]()|
  2 |[LFU Cache](https://leetcode.com/problems/lfu-cache/) |[JAVA]()|
  3 |[Design Browser Histroy](https://leetcode.com/problems/design-browser-history/) |[JAVA]()|
- 4 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
- 5 |[Design Underground System](https://leetcode.com/problems/design-underground-system/) |[JAVA]()|
- 6 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()|
- 7 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
- 8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
- 9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
- 10 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
- 11 | [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
- 12 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
+ 4 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
+ 5 |[All O(1) data Structures](https://leetcode.com/problems/all-oone-data-structure/) |[JAVA]()| 
+ 6 |[Design Twitter](https://leetcode.com/problems/design-twitter/) |[JAVA]()|
+ 7 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
+ 8 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
+ 9 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
+ 10 | [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
+ 11 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
+ 12 | [Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues/) |[JAVA](./src/main/java/Stack/)|
+ 13 | [Implement queue using stack](https://leetcode.com/problems/implement-queue-using-stacks/) |[JAVA](./src/main/java/Stack/)|
+
 </details>
 
 
