@@ -161,9 +161,6 @@ S.No. | Question Name | Java Solution |
 8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
 </details>
 
-
-<br>
-<h1>Month-2</h1>
 <br>
 <details>
 <Summary>Heap (18)</Summary>
@@ -192,6 +189,8 @@ S.No. | Question Name | Java Solution |
 
 
 <br>
+<h1>Month-2</h1>
+
 <details>
 <Summary>Two Pointers + Slow&&Fast Pointers</Summary>
 
