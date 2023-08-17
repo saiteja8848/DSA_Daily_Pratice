@@ -207,8 +207,8 @@ S.No. | Question Name | Java Solution |
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Binary Search](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/BinarySearch.java)|
-1 |[Lower and Upper Bound](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/LowerAndUpperBound.java)|
-1 |[Search for insert position](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/)|
+1 |[Lower and Upper Bound](https://www.codingninjas.com/studio/problems/lower-bound_8165382) |[JAVA](./src/main/java/BinarySearch/LowerAndUpperBound.java)|
+1 |[Search for insert position](https://leetcode.com/problems/search-insert-position/) |[JAVA](./src/main/java/BinarySearch/)|
 1 |[Floor and Ceil in a sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/FloorAndCeil.java)|
 2 |[Find the first and Last occurences of a given number in sorted ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[JAVA](./src/main/java/BinarySearch/FindTheFirstAndLastCountOccurences.java)|
 2 |[Count occurences of a given number in a sorted array](https://leetcode.com/problems/binary-search/) |[JAVA](./src/main/java/BinarySearch/FindTheFirstAndLastCountOccurences.java)|
