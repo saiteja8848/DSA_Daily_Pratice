@@ -300,7 +300,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Linked-List(17)</Summary>
+<Summary>Linked-List(18)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -347,10 +347,10 @@ S.No. | Question Name | Java Solution |
  7 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
  8 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
  9 |[Design Parking System](https://leetcode.com/problems/design-parking-system/) |[JAVA]()|
- 10 | [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
- 11 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
- 12 | [Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues/) |[JAVA](./src/main/java/Stack/)|
- 13 | [Implement queue using stack](https://leetcode.com/problems/implement-queue-using-stacks/) |[JAVA](./src/main/java/Stack/)|
+ 10 |[Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
+ 11 |[Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
+ 12 |[Implement stack using queues](https://leetcode.com/problems/implement-stack-using-queues/) |[JAVA](./src/main/java/Stack/)|
+ 13 |[Implement queue using stack](https://leetcode.com/problems/implement-queue-using-stacks/) |[JAVA](./src/main/java/Stack/)|
 
 </details>
 
@@ -382,7 +382,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Two Pointers (18)</Summary>
+<Summary>Two Pointers (16)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -399,12 +399,12 @@ S.No. | Question Name | Java Solution |
 11 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA](./src/main/java/TwoPointers/SortColors.java)|
 12 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA](./src/main/java/TwoPointers/MaxConsecutiveOnes.java)|
 13 | [Remove Element](https://leetcode.com/problems/remove-element/) |[JAVA](./src/main/java/TwoPointers/RemoveElement.java)|
-14 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
-15 | [remove-duplicates-from-sorted-array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
-16 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
-17 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
-17 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA](./src/main/java/TwoPointers/)|
-18 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
+13 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
+13 | [remove-duplicates-from-sorted-array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
+14 | [merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/) |[JAVA](./src/main/java/TwoPointers/MergeSortedArray.java)|
+15 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
+15 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA](./src/main/java/TwoPointers/)|
+16 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
 
 
 
