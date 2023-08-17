@@ -289,11 +289,10 @@ S.No. | Question Name | Java Solution |
 8 | [Basic calculator I,II,III](https://leetcode.com/problems/basic-calculator/) |[JAVA](./src/main/java/Stack/)|
 9 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |[JAVA](./src/main/java/Stack/)|
 10 | [Sort stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) |[JAVA](./src/main/java/Stack/)|
-11 | [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
-12 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
-13 | [First Non Repeating character in a stream]() |[JAVA](./src/main/java/Stack/)|
-14 | [remove-all-adjacent-duplicates-in-string I,II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) |[JAVA](./src/main/java/Stack/)|
-15 | [Asteroid collison](https://leetcode.com/problems/asteroid-collision/) |[JAVA](./src/main/java/Stack/)|
+11 | [First Non Repeating character in a stream]() |[JAVA](./src/main/java/Stack/)|
+12 | [remove-all-adjacent-duplicates-in-string I,II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) |[JAVA](./src/main/java/Stack/)|
+13 | [Asteroid collison](https://leetcode.com/problems/asteroid-collision/) |[JAVA](./src/main/java/Stack/)|
+14 | [Trapping Rain water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/Stack/)|
 </details>
 
 
@@ -349,6 +348,8 @@ S.No. | Question Name | Java Solution |
  8 |[Tweets Count per Second](https://leetcode.com/problems/tweet-counts-per-frequency/) |[JAVA]()|
  9 |[insert - Delete-getRandom - O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) |[JAVA]()|
  10 |[Design hashMap](https://leetcode.com/problems/design-hashmap/) |[JAVA]()|
+ 11 | [Maximum frequency stack](https://leetcode.com/problems/maximum-frequency-stack/) |[JAVA](./src/main/java/Stack/)|
+ 12 | [Min Stack](https://leetcode.com/problems/min-stack/) |[JAVA](./src/main/java/Stack/)|
 </details>
 
 
