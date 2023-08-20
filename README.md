@@ -251,20 +251,21 @@ S.No. | Question Name | Java Solution |
 3 |[Maximum-average-subarray-I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JAVA](./src/main/java/SlidingWindow_Fixed/Maximum_average_subarray_I.java)|
 4 |[DietPlanPerformance ](http://lixinchengdu.github.io/algorithmbook/leetcode/diet-plan-performance.html)|[JAVA](./src/main/java/SlidingWindow_Fixed/DietPlanPerformance.java)|
 5 |[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindTheKBeautyOFANumber.java)|
-7 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JAVA](./src/main/java/SlidingWindow_Fixed/RepeatedDNASequences.java)|
-8 |[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindAllAnagaramsInAString.java)|
-9 |[Permutations In a String](https://leetcode.com/problems/permutation-in-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/PermutationInAString.java)|
-10 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
-11 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java)|
-12 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
-13 |[Fruits into baskets(below 3 are same)](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
-14 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
-15 |[Longest Substring with almost 2 distinct characters](https://www.lintcode.com/problem/928/)|[JAVA]()|
-16 |[Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
-17 |[Longest Substring without Repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
-18 |[Longest Substring with atleast k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
-19 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
-20 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
+6 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JAVA](./src/main/java/SlidingWindow_Fixed/RepeatedDNASequences.java)|
+7 |[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindAllAnagaramsInAString.java)|
+7 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
+8 |[Permutations In a String](https://leetcode.com/problems/permutation-in-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/PermutationInAString.java)|
+9 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
+10 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java)|
+11 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
+12 |[Fruits into baskets(below 3 are same)](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
+13 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
+13 |[Longest Substring with almost 2 distinct characters](https://www.lintcode.com/problem/928/)|[JAVA]()|
+14 |[Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
+15 |[Longest Substring without Repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
+16 |[Longest Substring with atleast k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
+17 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
+
 
 <Summary>Sliding Window(Variable Window Size-20)</Summary>
 
