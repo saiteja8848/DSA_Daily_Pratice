@@ -227,10 +227,10 @@ S.No. | Question Name | Java Solution |
 4 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) |[JAVA](./src/main/java/FastAndSlowPointers/PalindromeLinkedList.java)|
 5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
 6 | [Find the duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) |[JAVA](./src/main/java/FastAndSlowPointers/FindTheDuplicateNumber.java)|
-7 | [Swapping nodes Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
-7 | [Remove/Delete Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[JAVA](./src/main/java/LinkedList/)|
-7 | [Delete Node in a Linked Lists](https://leetcode.com/problems/delete-node-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
-7 | [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/)|
+7 | [Swapping nodes Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/SwapNodesInLinkedList.java)|
+7 | [Remove/Delete Nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[JAVA](./src/main/java/LinkedList/RemoveNthNodeFromEndOfList.java)|
+7 | [Delete Node in a Linked Lists](https://leetcode.com/problems/delete-node-in-a-linked-list/) |[JAVA](./src/main/java/LinkedList/DeleteNodeInALinkedList.java)|
+7 | [Delete Middle Node of Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) |[JAVA](./src/main/java/LinkedList/DeleteMiddleOfLinkedList.java)|
 
 </details>
 
