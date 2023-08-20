@@ -222,7 +222,7 @@ S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Middle of the LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/) |[JAVA](./src/main/java/FastAndSlowPointers/MiddleOfTheLinkedList.java)|
 2 | [Linked List cycle](https://leetcode.com/problems/linked-list-cycle/) |[JAVA](./src/main/java/FastAndSlowPointers/LinkedListCycle.java)|
-2 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle/) |[JAVA](./src/main/java/FastAndSlowPointers/LinkedListCycle_II.java)|
+2 | [Linked List cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[JAVA](./src/main/java/FastAndSlowPointers/LinkedListCycle_II.java)|
 3 | [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) |[JAVA](./src/main/java/FastAndSlowPointers/CircularArrayLoop.java)|
 4 | [Palindrome LinkedList](https://leetcode.com/problems/palindrome-linked-list/) |[JAVA](./src/main/java/FastAndSlowPointers/PalindromeLinkedList.java)|
 5 | [Happy Number](https://leetcode.com/problems/happy-number/) |[JAVA](./src/main/java/FastAndSlowPointers/HappyNumber.java)|
