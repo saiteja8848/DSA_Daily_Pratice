@@ -1,5 +1,8 @@
 package SlidingWindow_Fixed;
 
+import java.util.LinkedHashSet;
+import java.util.Set;
+
 public class SubstringsOfSize3WithDistinctCharacters {
 
 	public int countGoodSubstrings(String s) {
@@ -19,7 +22,28 @@ public class SubstringsOfSize3WithDistinctCharacters {
 
 	}
 
-	public static void main(String[] args) {
-	}
-
+	//Make sure of removing the startCharacter in case of new start or in case of duplicates
+    public int countGoodSubstrings2(String s) {
+        int count=0;
+        
+        int windowStart=0, end=0;
+        Set<Character> differentCharacters = new LinkedHashSet();
+        while(end<s.length()){
+            //if there are duplicates, then remove and start with new substring
+            while(differentCharacters.contains(s.charAt(end))){
+                differentCharacters.remove(s.charAt(windowStart));
+                windowStart++;
+            }
+            
+            //If no duplicates
+            differentCharacters.add(s.charAt(end));
+            if(end-windowStart+1==3){
+                count++;
+                differentCharacters.remove(s.charAt(windowStart));
+                windowStart++;
+            }
+            end++;
+        }        
+        return count;
+    }
 }
