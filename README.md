@@ -242,7 +242,7 @@ S.No. | Question Name | Java Solution |
 <br>
 
 <details>
-<Summary>Sliding Window(Fixed window - 11)</Summary>
+<Summary>Sliding Window(Fixed window - 11 && Variable Window Size- 13)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -264,27 +264,26 @@ S.No. | Question Name | Java Solution |
 11 |[Longest **Repeating** Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
 
 
-<Summary>Sliding Window(Variable Window Size-20)</Summary>
+<Summary>Sliding Window(Variable Window Size)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Subarrays-Product-LessThan-K](https://leetcode.com/problems/subarray-product-less-than-k/)|[JAVA](./src/main/java/SlidingWindow_Variable/Subarray_Product_LessThan_K.java)|
-2 |[Subarrays-Sum-Equals-K](https://leetcode.com/problems/subarray-product-less-than-k/)|[JAVA](./src/main/java/SlidingWindow_Variable/Subarray_Sum_Equals_K.java)|
-3 |[Maximum Size subarray sum equals K](https://www.lintcode.com/problem/911)|[JAVA](./src/main/java/SlidingWindow_Variable/MaximumSizeSubArraySumEqualsToK.java)|
-4 |[Minimum Size subarray sum greaterThan Equals K](https://leetcode.com/problems/minimum-size-subarray-sum)|[JAVA](./src/main/java/SlidingWindow_Variable/MinimumSize_SubarraySum_GreaterThanEquals_K.java)|
-5 |[MaximumConsecutiveOnes-III](https://leetcode.com/problems/max-consecutive-ones-iii)|[JAVA](./src/main/java/SlidingWindow_Variable/MaxConsecutiveOnes_III.java)|
-6 |[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-8 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestSubstringWithoutRepeatingCharacters.java)|
-9 |[Sliding-Window-Median](https://leetcode.com/problems/sliding-window-median/)|[JAVA](./src/main/java/SlidingWindow_Variable/Sliding_Window_Median.java)|
-10 |[longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestContinuousSubarrayWithAbsoluteDiffLessThan.java)|
-11 |[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[JAVA](./src/main/java/SlidingWindow_Variable/SubstringWithConcatenationOfAllWords.java)|
-12 |[longest-nice-substring](https://leetcode.com/problems/longest-nice-substring/)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestNiceSubstring.java)|
-13 |[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-14 |[frequency-of-the-most-frequent-element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-15 |[count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-16 |[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-17 |[Minimum Window Subsequence](https://www.lintcode.com/problem/857/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-18 |[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+1 |[Subarrays-Sum-Equals-K](https://leetcode.com/problems/subarray-product-less-than-k/)|[JAVA](./src/main/java/SlidingWindow_Variable/Subarray_Sum_Equals_K.java)|
+1 |[Maximum Size subarray sum equals K](https://www.lintcode.com/problem/911)|[JAVA](./src/main/java/SlidingWindow_Variable/MaximumSizeSubArraySumEqualsToK.java)|
+1 |[Minimum Size subarray sum greaterThan Equals K](https://leetcode.com/problems/minimum-size-subarray-sum)|[JAVA](./src/main/java/SlidingWindow_Variable/MinimumSize_SubarraySum_GreaterThanEquals_K.java)|
+2 |[MaximumConsecutiveOnes-III](https://leetcode.com/problems/max-consecutive-ones-iii)|[JAVA](./src/main/java/SlidingWindow_Variable/MaxConsecutiveOnes_III.java)|
+3 |[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+4 |[longest-substring-without-**repeating**-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestSubstringWithoutRepeatingCharacters.java)|
+5 |[Sliding-Window-Median](https://leetcode.com/problems/sliding-window-median/)|[JAVA](./src/main/java/SlidingWindow_Variable/Sliding_Window_Median.java)|
+6 |[longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestContinuousSubarrayWithAbsoluteDiffLessThan.java)|
+7 |[substring-with-concatenation-of-all-words](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|[JAVA](./src/main/java/SlidingWindow_Variable/SubstringWithConcatenationOfAllWords.java)|
+8 |[longest-nice-substring](https://leetcode.com/problems/longest-nice-substring/)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestNiceSubstring.java)|
+9 |[maximum-points-you-can-obtain-from-cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+10 |[frequency-of-the-most-frequent-element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+11 |[count-unique-characters-of-all-substrings-of-a-given-string](https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+12 |[Minimum Window Subsequence](https://www.lintcode.com/problem/857/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
+13 |[Longest Subsequence Repeated k Times](https://leetcode.com/problems/longest-subsequence-repeated-k-times/)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
 
 </details>
 
