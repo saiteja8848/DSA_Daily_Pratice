@@ -258,7 +258,7 @@ S.No. | Question Name | Java Solution |
 9 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
 10 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java)|
 11 |[Fruits into baskets(below 3 are same)](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
-12 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
+11 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
 12 |[Longest Substring with almost 2 distinct characters](https://www.lintcode.com/problem/928/)|[JAVA]()|
 13 |[Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
 14 |[Longest Substring without Repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
