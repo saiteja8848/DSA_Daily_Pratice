@@ -257,14 +257,13 @@ S.No. | Question Name | Java Solution |
 8 |[Permutations In a String](https://leetcode.com/problems/permutation-in-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/PermutationInAString.java)|
 9 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
 10 |[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java)|
-11 |[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
-12 |[Fruits into baskets(below 3 are same)](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
-13 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
-13 |[Longest Substring with almost 2 distinct characters](https://www.lintcode.com/problem/928/)|[JAVA]()|
-14 |[Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
-15 |[Longest Substring without Repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
-16 |[Longest Substring with atleast k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
-17 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
+11 |[Fruits into baskets(below 3 are same)](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
+12 |[Longest Substring with almost K distinct characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
+12 |[Longest Substring with almost 2 distinct characters](https://www.lintcode.com/problem/928/)|[JAVA]()|
+13 |[Subarrays with K different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
+14 |[Longest Substring without Repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
+15 |[Longest Substring with atleast k repeating characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
+16 |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
 
 
 <Summary>Sliding Window(Variable Window Size-20)</Summary>
