@@ -260,7 +260,6 @@ S.No. | Question Name | Java Solution |
 8 |[Longest Substring with almost K **distinct** characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
 8 |[Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
 8 |[Subarrays with K **different** Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
-9 |[Longest Substring without **Repeating** characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA]()|
 10 |[Longest Substring with atleast k **repeating** characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
 11 |[Longest **Repeating** Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
 
@@ -275,7 +274,6 @@ S.No. | Question Name | Java Solution |
 4 |[Minimum Size subarray sum greaterThan Equals K](https://leetcode.com/problems/minimum-size-subarray-sum)|[JAVA](./src/main/java/SlidingWindow_Variable/MinimumSize_SubarraySum_GreaterThanEquals_K.java)|
 5 |[MaximumConsecutiveOnes-III](https://leetcode.com/problems/max-consecutive-ones-iii)|[JAVA](./src/main/java/SlidingWindow_Variable/MaxConsecutiveOnes_III.java)|
 6 |[Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
-7 |[longest-repeating-character-replacement](https://leetcode.com/problems/longest-repeating-character-replacement)|[JAVA](./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java)|
 8 |[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestSubstringWithoutRepeatingCharacters.java)|
 9 |[Sliding-Window-Median](https://leetcode.com/problems/sliding-window-median/)|[JAVA](./src/main/java/SlidingWindow_Variable/Sliding_Window_Median.java)|
 10 |[longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|[JAVA](./src/main/java/SlidingWindow_Variable/LongestContinuousSubarrayWithAbsoluteDiffLessThan.java)|
