@@ -42,4 +42,56 @@ public class SpecialKeyboard {
         return dp[N];
     }
 
+
+  public static int findMaxA(int N) {
+        // Base case
+        if (N <= 6) {
+            return N;
+        }
+
+        int max = 0;
+
+        // Try all possible lengths for Ctrl-V
+        for (int i = N - 3; i >= 1; i--) {
+            int currMax = (N - i - 1) * findMaxA(i);
+            if (currMax > max) {
+                max = currMax;
+            }
+        }
+
+        return max;
+    }
+
+
+    //    static int[] memo;
+    // static int optimalKeys(int N){
+    //            memo = new int[N + 1];
+    //     Arrays.fill(memo, -1);
+    //   return findMaxA(N);
+    // }
+ 
+    // public static int findMaxA(int N) {
+    //     if (N <= 6) {
+    //         return N;
+    //     }
+
+    //     if (memo[N] != -1) {
+    //         return memo[N];
+    //     }
+
+    //     int max = 0;
+
+    //     for (int i = N - 3; i >= 1; i--) {
+    //         int currMax = (N - i - 1) * findMaxA(i);
+    //         if (currMax > max) {
+    //             max = currMax;
+    //         }
+    //     }
+
+    //     memo[N] = max;
+    //     return max;
+    // }	
+	
+	
+
 }
