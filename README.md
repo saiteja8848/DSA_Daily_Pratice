@@ -433,7 +433,7 @@ S.No. | Question Name | Java Solution |
 2 |[Power of any number -3,4](https://leetcode.com/problems/power-of-three/) |[JAVA](./src/main/java/recursion/PowerOfANumber.java)|
 2 |[X raised to power n](https://leetcode.com/problems/powx-n/) |[JAVA](./src/main/java/recursion/PowerOfXRaisedToN.java)|
 2 |[Count good Numbers](https://leetcode.com/problems/count-good-numbers/) |[JAVA](./src/main/java/recursion/CountGoodNumbers.java)|
-3 |[Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) |[JAVA](./src/main/java/recursion/JosephusProblem.java)|
+3 |[Josephus problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |[JAVA](./src/main/java/recursion/JosephusProblem.java)|
 4 |[Special keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1) |[JAVA](./src/main/java/recursion/SpecialKeyboard.java)|
 5 |[Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1) |[JAVA](./src/main/java/recursion/FactorialAndFibonacci.java)
 5 |[Fibonacci](https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1) |[JAVA](./src/main/java/recursion/FactorialAndFibonacci.java)
