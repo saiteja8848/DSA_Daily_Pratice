@@ -449,8 +449,8 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Subsets I && II](https://leetcode.com/problems/subsets-i/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
-1 |[Permutations I && II](https://leetcode.com/problems/permutations/description/) |[JAVA](./src/main/java/backtracking/Permutation.java)|
+1 |[Subsets I && II](https://leetcode.com/problems/subsets/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
+1 |[Permutations I && II](https://leetcode.com/problems/permutations/) |[JAVA](./src/main/java/backtracking/Permutation.java)|
 1 |[Combinations](https://leetcode.com/problems/combinations/) |[JAVA](./src/main/java/backtracking/Combination.java)|
 1 |[Combination Sum I,II and III](https://leetcode.com/problems/combination-sum/) |[JAVA](./src/main/java/backtracking/CombinationSum.java)|
 2 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)|
