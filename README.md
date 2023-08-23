@@ -462,10 +462,10 @@ S.No. | Question Name | Java Solution |
 3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
 4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
 5 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-6 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
-6 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
+6 |[word break](https://leetcode.com/problems/word-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
+6 |[word break II](https://leetcode.com/problems/word-break-ii/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
 7 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
-7 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
+7 |[word Search II](https://leetcode.com/problems/word-search-ii/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
 8 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
 8 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
 </details>
