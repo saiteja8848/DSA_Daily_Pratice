@@ -4,38 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Combination {
-	public List<List<Integer>> combine(int n, int k) {
-		List<List<Integer>> solution = new ArrayList<>();
-		ArrayList<Integer> temp = new ArrayList<>();
-		int[] nums = new int[n + 1];
-		for (int i = 1; i <= n; i++) {
-			nums[i] = i;
-		}
-		generatePermutations(nums, solution, temp, k);
-		return solution;
-	}
-
-	void generatePermutations(int[] choices, List<List<Integer>> solution, ArrayList<Integer> temp, int size) {
-
-		if (temp.size() == size) {
-			List<Integer> ds = new ArrayList<>();
-			for (int i = 0; i < temp.size(); i++) {
-				ds.add(temp.get(i));
-			}
-			solution.add(new ArrayList<>(ds));
-			return;
-		}
-
-		for (int i = 0; i < size; i++) {
-			int num = choices[i];
-			if (!temp.contains(num)) {
-				temp.add(num);
-				generatePermutations(choices, solution, temp, size);
-				temp.remove(temp.size() - 1);
-			}
-		}
-
-	}
+       public List<List<Integer>> combine(int n, int k) {
+        List<List<Integer>> subsets=new ArrayList<>();
+        generatesubsets(1,n,new ArrayList(),subsets,k);
+        return subsets;
+    }
+    void generatesubsets(int start,int n,List<Integer> current,List<List<Integer>> subsets,int k){
+        if(current.size()==k){
+            subsets.add(new ArrayList(current));
+        }
+        for(int i=start;i<=n;i++){
+            current.add(i);
+            generatesubsets(i+1,n,current,subsets,k);
+            current.remove(current.size()-1);
+        }
+    }
 }
 
 
