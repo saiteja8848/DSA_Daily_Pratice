@@ -461,7 +461,7 @@ S.No. | Question Name | Java Solution |
 3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
 3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
 4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
-5 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+5 |[Unique Grid paths III](https://leetcode.com/problems/unique-paths-iii/) |[JAVA](./src/main/java/backtracking/UniquePathsIII.java)|
 6 |[word break](https://leetcode.com/problems/word-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
 6 |[word break II](https://leetcode.com/problems/word-break-ii/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
 7 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
