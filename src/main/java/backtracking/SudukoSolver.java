@@ -2,7 +2,7 @@ package backtracking;
 
 //T.C :-O(9^(n^2)), for each cell in the n^2 board, we have 9 possible numbers
 class Solution1 {
-	
+
 	public void solveSudoku(char[][] board) {
 		helper(board);
 	}
@@ -15,9 +15,9 @@ class Solution1 {
 						if (isSafe(row, col, (char) (val + '0'), board)) {
 							char c = (char) (val + '0');
 							board[row][col] = c;
-							if (helper(board))	
+							if (helper(board))
 								return true;
-							else { 
+							else {
 								board[row][col] = '.';
 							}
 						}

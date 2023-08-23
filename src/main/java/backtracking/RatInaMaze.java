@@ -1,6 +1,5 @@
 package backtracking;
 
-
 class RatMaze {
 
 	static int N;
@@ -13,7 +12,7 @@ class RatMaze {
 		}
 	}
 
-	//Path should exist and point(x,y) should be with in the range
+	// Path should exist and point(x,y) should be with in the range
 	boolean isSafe(int maze[][], int x, int y) {
 		return (x >= 0 && x < N && y >= 0 && y < N && maze[x][y] == 1);
 	}
@@ -28,19 +27,19 @@ class RatMaze {
 			if (sol[x][y] == 1)
 				return false;
 			sol[x][y] = 1;
-			
+
 			if (solveMazeUtil(maze, x + 1, y, sol))
 				return true;
 			if (solveMazeUtil(maze, x, y + 1, sol))
 				return true;
-			
-			//backtrack
+
+			// backtrack
 			sol[x][y] = 0;
-			
-			//No solution
+
+			// No solution
 			return false;
 		}
-		//No solution
+		// No solution
 		return false;
 	}
 
@@ -61,5 +60,3 @@ class RatMaze {
 		rat.solveMaze(maze);
 	}
 }
-
-
