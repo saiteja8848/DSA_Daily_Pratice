@@ -4,33 +4,61 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Permutation {
-	public List<List<Integer>> permute(int[] nums) {
-		List<List<Integer>> solution = new ArrayList<>();
-		ArrayList<Integer> temp = new ArrayList<>();
-		generatePermutations(nums, solution, temp, nums.length);
-		return solution;
-	}
+	 public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        backtrack(new ArrayList<>(), ans, nums);
+        return ans;
+    }
+    
+    public void backtrack(List<Integer> curr, List<List<Integer>> ans, int[] nums) {
+        if (curr.size() == nums.length) {
+            ans.add(new ArrayList<>(curr));
+            return;
+        }
+        
+        for (int num: nums) {
+            if (!curr.contains(num)) {
+                curr.add(num);
+                backtrack(curr, ans, nums);
+                curr.remove(curr.size() - 1);
+            }
+        }
+    }
 
-	void generatePermutations(int[] choices, List<List<Integer>> solution, ArrayList<Integer> temp, int size) {
 
-		if (temp.size() == size) {
-			List<Integer> ds = new ArrayList<>();
-			for (int i = 0; i < temp.size(); i++) {
-				ds.add(temp.get(i));
-			}
-			solution.add(new ArrayList<>(ds));
-			return;
-		}
+  // Permutations_II
 
-		for (int i = 0; i < size; i++) {
-			int num = choices[i];
-			if (!temp.contains(num)) {
-				temp.add(num);
-				generatePermutations(choices, solution, temp, size);
-				temp.remove(temp.size() - 1);
-			}
-		}
+	 public List<List<Integer>> permuteUnique(int[] nums) {
+        List<List<Integer>> results = new ArrayList<>();
 
-	}
+        HashMap<Integer, Integer> counter = new HashMap<>();
+        for (int num : nums) {
+            counter.put(num, counter.getOrDefault(num,0) + 1);
+        }
 
+        LinkedList<Integer> comb = new LinkedList<>();
+        this.backtrack(comb, nums.length, counter, results);
+        return results;
+    }
+
+    static public void backtrack(LinkedList<Integer> comb,Integer N,HashMap<Integer, Integer> counter,List<List<Integer>> results) {
+        if (comb.size() == N) {
+            results.add(new ArrayList<Integer>(comb));
+            return;
+        }
+
+        for (Map.Entry<Integer, Integer> entry : counter.entrySet()) {
+            Integer num = entry.getKey();
+            Integer count = entry.getValue();
+            if (count == 0)
+                continue;
+            comb.addLast(num);
+            counter.put(num, count - 1);
+            backtrack(comb, N, counter, results);
+            comb.removeLast();
+            counter.put(num, count);
+        }
+    }
+
+	
 }
