@@ -246,8 +246,8 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[substrings of size 3 with distinct characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JAVA]()|
-1 |[Contains duplicates II](https://leetcode.com/problems/contains-duplicate-ii/)|[JAVA](./src/main/java/SlidingWindow_Fixed/ContainsDuplicate_II.java)|
+1 |[substrings of size 3 with distinct characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SubstringsOfSize3WithDistinctCharacters.java)|
+1 |[Contains duplicates II && III](https://leetcode.com/problems/contains-duplicate-ii/)|[JAVA](./src/main/java/SlidingWindow_Fixed/ContainsDuplicate_II.java)|
 1 |[Maximum-average-subarray-I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JAVA](./src/main/java/SlidingWindow_Fixed/Maximum_average_subarray_I.java)|
 1 |[DietPlanPerformance ](http://lixinchengdu.github.io/algorithmbook/leetcode/diet-plan-performance.html)|[JAVA](./src/main/java/SlidingWindow_Fixed/DietPlanPerformance.java)|
 2 |[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindTheKBeautyOFANumber.java)|
