@@ -445,30 +445,30 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Backtracking(19)</Summary>
+<Summary>Backtracking(15)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/RatInaMaze.java)|
-2 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
-3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
-4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
-5 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)|
-6 |[Subsets I && II](https://leetcode.com/problems/subsets-i/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
-7 |[Permutations I && II](https://leetcode.com/problems/permutations/description/) |[JAVA](./src/main/java/backtracking/Permutation.java)|
-8 |[Combinations](https://leetcode.com/problems/combinations/) |[JAVA](./src/main/java/backtracking/Combination.java)|
-8 |[Combination Sum I,II and III](https://leetcode.com/problems/combination-sum/) |[JAVA](./src/main/java/backtracking/CombinationSum.java)|
-9 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
-10|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/RestoreIpAddress.java)|
-11 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/backtracking/DecodeWays.java)|
-12 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/)|
-13 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
-14 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
-15 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
-16 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
-17 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/backtracking/GenerateParenthesis.java)|
-18 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
-19 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
+1 |[Subsets I && II](https://leetcode.com/problems/subsets-i/) |[JAVA](./src/main/java/backtracking/Subsets_I.java)|
+1 |[Permutations I && II](https://leetcode.com/problems/permutations/description/) |[JAVA](./src/main/java/backtracking/Permutation.java)|
+1 |[Combinations](https://leetcode.com/problems/combinations/) |[JAVA](./src/main/java/backtracking/Combination.java)|
+1 |[Combination Sum I,II and III](https://leetcode.com/problems/combination-sum/) |[JAVA](./src/main/java/backtracking/CombinationSum.java)|
+2 |[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[JAVA](./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java)|
+3 |[Rat In a maze](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/RatInaMaze.java)|
+4 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
+5 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
+6 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
+7 |[Unique Grid paths III](https://www.geeksforgeeks.org/rat-in-a-maze/) |[JAVA](./src/main/java/backtracking/)|
+8|[Restore Ip address](https://leetcode.com/problems/restore-ip-addresses/) |[JAVA](./src/main/java/backtracking/RestoreIpAddress.java)|
+9 |[Decode ways](https://leetcode.com/problems/decode-ways/) |[JAVA](./src/main/java/backtracking/DecodeWays.java)|
+10 |[Integer break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/)|
+11 |[word break](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
+11 |[word break II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
+12 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
+12 |[word Search II](https://leetcode.com/problems/integer-break/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
+13 |[Generate parenthesis](https://leetcode.com/problems/generate-parentheses/) |[JAVA](./src/main/java/backtracking/GenerateParenthesis.java)|
+14 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
+15 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
 </details>
 
 
