@@ -479,7 +479,7 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[Fibonaaci]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Fibonaaci](https://leetcode.com/problems/fibonacci-number/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Climbing Stairs I && II](https://leetcode.com/problems/climbing-stairs/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[House Robber I && II](https://leetcode.com/problems/house-robber/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Coin change I && II](https://leetcode.com/problems/coin-change/) |[JAVA](./src/main/java/DynamicProgramming/)|
@@ -495,7 +495,7 @@ S.No. | Question Name | Java Solution |
 4 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
 5 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
 5 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
-6 |[Longest Increasing subsequence]() |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[JAVA](./src/main/java/DynamicProgramming/)|
 7 |[Triangle]() |[JAVA](./src/main/java/DynamicProgramming/)|
 8 |[Maximal square]() |[JAVA](./src/main/java/DynamicProgramming/)|
 9 |[minimum path sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
@@ -517,56 +517,56 @@ S.No. | Question Name | Java Solution |
 
  S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
-1 |[BFS - I](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[JAVA]()|
-1 |[BFS - II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |[JAVA]()|
-1 |[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |[JAVA]()|
-1 |[Average of Levels in a BT](https://leetcode.com/problems/average-of-levels-in-binary-tree/) |[JAVA]()|
-1 |[Cousins in BT](https://leetcode.com/problems/cousins-in-binary-tree/) |[JAVA]()|
-2 |[Pre-Order](https://leetcode.com/problems/binary-tree-preorder-traversal/) |[JAVA]()|
-2 |[N- Ary Tree Pre-order](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |[JAVA]()|
-2 |[Post-Order](https://leetcode.com/problems/binary-tree-postorder-traversal/) |[JAVA]()|
-2 |[N- Ary Tree Post-order](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |[JAVA]()|
-2 |[In-Order](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[JAVA]()|
-3 |[Invert BT](https://leetcode.com/problems/invert-binary-tree/) |[JAVA]()|
-3 |[same tree](https://leetcode.com/problems/same-tree/) |[JAVA]()|
-3 |[subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/) |[JAVA]()|
-3 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[JAVA]()|
-3 |[Balanced BT](https://leetcode.com/problems/balanced-binary-tree/) |[JAVA]()|
-3 |[Validate BST](https://leetcode.com/problems/validate-binary-search-tree/) |[JAVA]()|
-3 |[Unique BST](https://leetcode.com/problems/unique-binary-search-trees/) |[JAVA]()|
-4|[Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) |[JAVA]()|
-4|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[JAVA]()|
-4|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[JAVA]()|
-4|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |[JAVA]()|
-4|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |[JAVA]()|
-4|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) |[JAVA]()|
-5 |[Left View of a Tree ](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) |[JAVA]()|
-5 |[Right View of a Tree](https://leetcode.com/problems/binary-tree-right-side-view/) |[JAVA]()|
-5 |[Top View of a Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |[JAVA]()|
-5 |[Bottom View of a Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |[JAVA]()|
-5 |[Bottom Left View of a Tree](https://leetcode.com/problems/find-bottom-left-tree-value/) |[JAVA]()|
-5 |[Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |[JAVA]()|
-5 |[zigzag Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |[JAVA]()|
-5 |[Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |[JAVA]()|
-6 |[Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1) |[JAVA]()|
-6 |[Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) |[JAVA]()|
-6 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |[JAVA]()|
-6 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA]()|
-6 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[JAVA]()|
-6 |[convert-binary-search-tree-to-sorted-doubly-linked-list](https://www.lintcode.com/problem/1534/) |[JAVA]()|
-6 |[Convert BST To- Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[JAVA]()|
-6 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |[JAVA]()|
-6 |[Constuct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[JAVA]()|
-7 |[Path Sum I and II](https://leetcode.com/problems/path-sum/) |[JAVA]()|
-7 |[Sum root - leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |[JAVA]()|
-7 |[maximum path sum](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) |[JAVA]()|
-7 |[Populating Next Right ptrs](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[JAVA]()|
-7 |[Trim a BST](https://leetcode.com/problems/trim-a-binary-search-tree/) |[JAVA]()|
-7 |[Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) |[JAVA]()|
-7 |[LCA - BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[JAVA]()|
-7 |[LCA- BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[JAVA]()|
-7 |[merge 2 binary trees](https://leetcode.com/problems/merge-two-binary-trees/) |[JAVA]()|
-7 |[kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[JAVA]()|
+1 |[**BFS - I**](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+1 |[BFS - II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+1 |[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+1 |[Average of Levels in a BT](https://leetcode.com/problems/average-of-levels-in-binary-tree/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+1 |[Cousins in BT](https://leetcode.com/problems/cousins-in-binary-tree/) |[JAVA](./src/main/java/Trees/)TreeTraversals.java|
+2 |[**Pre-Order**](https://leetcode.com/problems/binary-tree-preorder-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+2 |[N- Ary Tree Pre-order](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+2 |[**Post-Order**](https://leetcode.com/problems/binary-tree-postorder-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+2 |[N- Ary Tree Post-order](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+2 |[**In-Order**](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[JAVA](./src/main/java/Trees/TreeTraversals.java)|
+3 |[Invert BT](https://leetcode.com/problems/invert-binary-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[same tree](https://leetcode.com/problems/same-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[subtree of another tree](https://leetcode.com/problems/subtree-of-another-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[Balanced BT](https://leetcode.com/problems/balanced-binary-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[**Validate BST**](https://leetcode.com/problems/validate-binary-search-tree/) |[JAVA](./src/main/java/Trees/Validations.java)|
+3 |[Unique BST](https://leetcode.com/problems/unique-binary-search-trees/) |[JAVA](./src/main/java/Trees/Validations.java)|
+4|[Height of Binary Tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+4|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+4|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+4|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+4|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+4|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) |[JAVA](./src/main/java/Trees/TreeProperties.java)|
+5 |[**Left View of a Tree** ](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Right View of a Tree](https://leetcode.com/problems/binary-tree-right-side-view/) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Top View of a Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Bottom View of a Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Bottom Left View of a Tree](https://leetcode.com/problems/find-bottom-left-tree-value/) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Boundary Traversal](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[**zigzag Traversal**](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+5 |[Vertical Order Traversal](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+6 |[Inorder Successor in BST](https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1) |[JAVA](./src/main/java/Trees/TreeViews.java)|
+6 |[Count Leaves in Binary Tree](https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1) |[JAVA](./src/main/java/Trees/)|
+6 |[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |[JAVA](./src/main/java/Trees/)|
+6 |[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[JAVA](./src/main/java/Trees/)|
+6 |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |[JAVA](./src/main/java/Trees/)|
+6 |[convert-binary-search-tree-to-sorted-doubly-linked-list](https://www.lintcode.com/problem/1534/) |[JAVA](./src/main/java/Trees/)|
+6 |[Convert BST To- Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[JAVA](./src/main/java/Trees/)|
+6 |[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |[JAVA](./src/main/java/Trees/)|
+6 |[Constuct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |[JAVA](./src/main/java/Trees/)|
+7 |[**Path Sum I and II**](https://leetcode.com/problems/path-sum/) |[JAVA](./src/main/java/Trees/)|
+7 |[Sum root - leaf](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |[JAVA](./src/main/java/Trees/)|
+7 |[maximum path sum](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1) |[JAVA](./src/main/java/Trees/)|
+7 |[Populating Next Right ptrs](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |[JAVA](./src/main/java/Trees/)|
+7 |[Trim a BST](https://leetcode.com/problems/trim-a-binary-search-tree/) |[JAVA](./src/main/java/Trees/)|
+7 |[Serialize and Deserialize a Binary Tree](https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1) |[JAVA](./src/main/java/Trees/)|
+7 |[LCA - BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[JAVA](./src/main/java/Trees/)|
+7 |[LCA- BT](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[JAVA](./src/main/java/Trees/)|
+7 |[merge 2 binary trees](https://leetcode.com/problems/merge-two-binary-trees/) |[JAVA](./src/main/java/Trees/)|
+7 |[kth smallest element in a bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[JAVA](./src/main/java/Trees/)|
 </details>
 
 
@@ -579,30 +579,30 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
-1|[Disjoint set - Union find](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/)|
-1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/)|
+1|[**Disjoint set - Union find**](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/DisjointSet.java)|
+1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/RedundantConnections.java)|
 1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
-2 |[Depth First traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Graphs/GraphDFS.java)|
+2 |[**Depth First traversal**](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Graphs/GraphDFS.java)|
 2 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA](./src/main/java/Graphs/SurroundedRegions.java)|
 2 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA](./src/main/java/Graphs/TimeNeededToInformAllEmployees.java)|
 2 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.javanum)|
 2 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA](./src/main/java/Graphs/FloodFill.java)|
 2 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA](./src/main/java/Graphs/MaxAreaOfIsland.java)|
 2 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA](./src/main/java/Graphs/CloneGraph.java)|
-3 |[Breadth First Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Graphs/GraphBFS.java)|
+3 |[**Breadth First Traversal**](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Graphs/GraphBFS.java)|
 3 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA](./src/main/java/Graphs/SnakesAndLadder.java)|
 3 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA](./src/main/java/Graphs/WordLadder_BFS.java)|
 3 |[minimum gentic mutation](https://leetcode.com/problems/minimum-genetic-mutation/) |[JAVA](./src/main/java/Graphs/)|
 3 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA](./src/main/java/Graphs/RottenOranges.java)|
 3 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA](./src/main/java/Graphs/EvaluateDivison.java)|
-4 |[Cycle detection in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
+4 |[**Cycle detection in directed graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
 4 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
 4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA](./src/main/java/Graphs/FindEventualSafeStates.java)|
-5 |[cycle detection in a undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
-6 |[Topological sorting](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
+5 |[**cycle detection in a undirected graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
+6 |[**Topological sorting**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
 6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
 6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
-7 |[Graph coloring or Bipartite graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
+7 |[**Graph coloring or Bipartite graph**](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
 </details>
 
 
