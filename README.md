@@ -579,30 +579,30 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
-1|[Disjoint set - Union find](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA]()|
-1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA]()|
-1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA]()|
-2 |[Depth First traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA]()|
-2 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA]()|
-2 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA]()|
-2 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA]()|
-2 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA]()|
-2 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA]()|
-2 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA]()|
-3 |[Breadth First Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA]()|
-3 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA]()|
-3 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA]()|
-3 |[minimum gentic mutation](https://leetcode.com/problems/minimum-genetic-mutation/) |[JAVA]()|
-3 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA]()|
-3 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA]()|
-4 |[Cycle detection in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA]()|
-4 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA]()|
-4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA]()|
-5 |[cycle detection in a undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA]()|
-6 |[Topological sorting](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA]()|
-6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA]()|
-6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA]()|
-7 |[Graph coloring or Bipartite graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA]()|
+1|[Disjoint set - Union find](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/)|
+1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/)|
+1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
+2 |[Depth First traversal](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Graphs/GraphDFS.java)|
+2 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA](./src/main/java/Graphs/SurroundedRegions.java)|
+2 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA](./src/main/java/Graphs/TimeNeededToInformAllEmployees.java)|
+2 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.javanum)|
+2 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA](./src/main/java/Graphs/FloodFill.java)|
+2 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA](./src/main/java/Graphs/MaxAreaOfIsland.java)|
+2 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA](./src/main/java/Graphs/CloneGraph.java)|
+3 |[Breadth First Traversal](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Graphs/GraphBFS.java)|
+3 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA](./src/main/java/Graphs/SnakesAndLadder.java)|
+3 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA](./src/main/java/Graphs/WordLadder_BFS.java)|
+3 |[minimum gentic mutation](https://leetcode.com/problems/minimum-genetic-mutation/) |[JAVA](./src/main/java/Graphs/)|
+3 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA](./src/main/java/Graphs/RottenOranges.java)|
+3 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA](./src/main/java/Graphs/EvaluateDivison.java)|
+4 |[Cycle detection in directed graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
+4 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
+4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA](./src/main/java/Graphs/FindEventualSafeStates.java)|
+5 |[cycle detection in a undirected graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
+6 |[Topological sorting](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
+6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
+6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
+7 |[Graph coloring or Bipartite graph](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
 </details>
 
 
