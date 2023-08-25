@@ -56,29 +56,29 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
-7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
+1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA](./src/main/java)|
+2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA](./src/main/java)|
+3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA](./src/main/java)|
+4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA](./src/main/java)|
+5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA](./src/main/java)|
+6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA](./src/main/java)|
+7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java)|
 8 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
-9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
-10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
-11 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-12 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-13 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
+9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA](./src/main/java)|
+10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA](./src/main/java)|
+11 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA](./src/main/java)|
+12 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA](./src/main/java)|
+13 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA](./src/main/java)|
 14 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
-15 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-16 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
-17 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
-18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-19 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
-20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
-21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-22 | [Excel sheet column title](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-23 | [Excel Sheet column number](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+15 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA](./src/main/java)|
+16 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA](./src/main/java)|
+17 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA](./src/main/java)|
+18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA](./src/main/java)|
+19 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA](./src/main/java)|
+20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA](./src/main/java)|
+21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA](./src/main/java)|
+22 | [Excel sheet column title](https://leetcode.com/problems/excel-sheet-column-title/) |[JAVA](./src/main/java)|
+23 | [Excel Sheet column number](https://leetcode.com/problems/excel-sheet-column-number/) |[JAVA](./src/main/java)|
 
 <Summary>Cyclic Sort (6)</Summary>
 
