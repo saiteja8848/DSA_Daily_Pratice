@@ -52,44 +52,71 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Arrays,Matrix, Math(23) && Cyclic sort</Summary>
+<Summary>Math, Arrays-1D,2D && Cyclic sort</Summary>
+
+<br/>
+<Summary>Math</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Rotate Image](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-2 | [Set Matrix to Zero](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-3 | [Spiral Matrix I & II](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA]()|
-5 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA]()|
-6 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA]()|
-7 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA]()|
-8 |[Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/BinarySearch/)|
-9 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA]()|
-10 | [Contains duplicate](https://leetcode.com/problems/contains-duplicate/) |[JAVA]()|
-11 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA]()|
-12 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA]()|
-13 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA]()|
-14 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA]()|
-15 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-16 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA]()|
-17 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA]()|
-18 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA]()|
-19 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA]()|
-20 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA]()|
-21 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-22 | [Excel sheet column title](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
-23 | [Excel Sheet column number](https://leetcode.com/problems/roman-to-integer/) |[JAVA]()|
+1 | [Plus One](https://leetcode.com/problems/plus-one/) |[JAVA](./src/main/java/Arrays/PlusOne.java)|
+2 | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) |[JAVA](./src/main/java/Arrays/FactorialTrailingZeros.java)|
+3 | [Max points on a line](https://leetcode.com/problems/max-points-on-a-line/) |[JAVA](./src/main/java/Arrays/MaxPointsInALine.java)|
+4 | [Fraction to recurring decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) |[JAVA](./src/main/java/Arrays/FractionToRecurringDecimal.java)|
+5 | [Logger Rate Limiter](https://prepfortech.in/interview-topics/hash-table/logger-rate-limiter-leet-code/) |[JAVA](./src/main/java/Arrays/)|
+6 | [Ugly Number - prime factors](https://leetcode.com/problems/ugly-number/) |[JAVA](./src/main/java/Arrays/Primes.java)|
+6 | [Count primes](https://leetcode.com/problems/count-primes/) |[JAVA](./src/main/java/Arrays/Primes.java)|
+7 | [GCD/LCM](https://leetcode.com/problems/logger-rate-limiter/) |[JAVA](./src/main/java/Arrays/Primes.java)|
+8 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |[JAVA](./src/main/java/Arrays/PascalsTriangle.java)|
+9 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |[JAVA](./src/main/java/Arrays/IntegerToRomanViceVersa.java)|
+9 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/) |[JAVA](./src/main/java/Arrays/IntegerToRomanViceVersa.java)|
+10 | [Excel sheet column title](https://leetcode.com/problems/roman-to-integer/) |[JAVA](./src/main/java/Arrays/ExcelSheet.java)|
+10 | [Excel Sheet column number](https://leetcode.com/problems/roman-to-integer/) |[JAVA](./src/main/java/Arrays/ExcelSheet.java)|
 
-<Summary>Cyclic Sort (6)</Summary>
+
+<br/>
+<Summary>Cyclic Sort - all are same logic</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Missing Number](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/CyclicSort/MissingNumber.java)|
-2 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
-3 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
-4 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
-5 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
-6 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
+1 |[Find all numbers disappeard in the array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java)|
+1 |[FInd the duplicate number](https://leetcode.com/problems/find-the-duplicate-number/)|[JAVA](./src/main/java/CyclicSort/FindTheDuplicateNumber.java)|
+1 |[Find all duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[JAVA](./src/main/java/CyclicSort/FillAllDuplicatesInArray.java)|
+1 |[Set mismatch](https://leetcode.com/problems/set-mismatch/) |[JAVA](./src/main/java/CyclicSort/SetMismatch.java)|
+1 |[First missing positive number](https://leetcode.com/problems/first-missing-positive/)|[JAVA](./src/main/java/CyclicSort/FirstMissingPositive.java)|
+
+
+
+<br/>
+<Summary>1D-Array</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[JAVA](./src/main/java/Arrays/PalindromeNumber.java)|
+1 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[JAVA](./src/main/java/Arrays/LongestPalindromeLength.java)|
+1 | [Longest Consecutive sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[JAVA](./src/main/java/Arrays/LongestConsecutiveSequence.java)|
+2 | [Majority Element I & II](https://leetcode.com/problems/majority-element/) |[JAVA](./src/main/java/Arrays/MajorityElement.java)|
+3 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA](./src/main/java/TwoPointers/MaxConsecutiveOnes.java)|
+4 | [Product of Array-exceptSelf(PrefixSum)](https://leetcode.com/problems/product-of-array-except-self/) |[JAVA](./src/main/java/Arrays/ProductOfArrayExceptSelf.java)|
+5 | [RotateArray](https://leetcode.com/problems/rotate-array/) |[JAVA](./src/main/java/Arrays/RotateArray.java)|
+5 | [check if array is rotated or not](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |[JAVA](./src/main/java/Arrays/RotateArray.java)|
+6 | [Convert array into zigzag fashion](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1) |[JAVA](./src/main/java/Arrays/Zigzag.java)|
+6 | [Wiggle sort I & II](https://leetcode.com/problems/wiggle-sort-ii/) |[JAVA](./src/main/java/Arrays/Zigzag.java)|
+6 | [Rearrange Array Alternatly](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1) |[JAVA](./src/main/java/Arrays/Zigzag.java)|
+6 | [Element with left side smaller and right side greater](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1) |[JAVA](./src/main/java/Arrays/Zigzag.java)|
+
+<br/>
+<Summary>Matrix - 2D Problems</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Rotate Image](https://leetcode.com/problems/rotate-image/) |[JAVA](./src/main/java/Arrays/RotateImage.java)|
+2 | [Set Matrix to Zero](https://leetcode.com/problems/set-matrix-zeroes/) |[JAVA](./src/main/java/Arrays/SetMatrixToZeros.java)|
+3 | [Spiral Matrix I & II](https://leetcode.com/problems/spiral-matrix/) |[JAVA](./src/main/java/Arrays/SpiralMatrix.java)|
+4 | [Game of Life](https://leetcode.com/problems/game-of-life/) |[JAVA](./src/main/java/Arrays/GameOfLife.java)|
+
+
 </details>
 
 
@@ -207,7 +234,6 @@ S.No. | Question Name | Java Solution |
 9 | [partition-labels](https://leetcode.com/problems/partition-labels/) |[JAVA](./src/main/java/TwoPointers/PartitionLabels.java)|
 10 | [move-zeroes](https://leetcode.com/problems/move-zeroes/) |[JAVA](./src/main/java/TwoPointers/MoveZeros.java)|
 11 | [sort-colors](https://leetcode.com/problems/sort-colors/) |[JAVA](./src/main/java/TwoPointers/SortColors.java)|
-12 | [max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones/) |[JAVA](./src/main/java/TwoPointers/MaxConsecutiveOnes.java)|
 13 | [Remove Element](https://leetcode.com/problems/remove-element/) |[JAVA](./src/main/java/TwoPointers/RemoveElement.java)|
 13 | [remove-duplicates-from-sorted-array/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
 13 | [remove-duplicates-from-sorted-array II/](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[JAVA](./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java)|
