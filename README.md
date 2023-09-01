@@ -601,37 +601,76 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Graphs(DFS/BFS/Cycle Detection/Toplogical Sorting/Graph coloring/MST)</Summary>
+<Summary>Graphs</Summary>
+
+A|[**Graph Representation - Adjancency Matrix**](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
+
+<Summary>Depth First Traversal</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[**Depth First traversal**](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Graphs/GraphDFS.java)|
+1 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA](./src/main/java/Graphs/CloneGraph.java)|
+1 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.javanum)|
+1 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA](./src/main/java/Graphs/MaxAreaOfIsland.java)|
+1 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA](./src/main/java/Graphs/SurroundedRegions.java)|
+1 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA](./src/main/java/Graphs/FloodFill.java)|
+1 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA](./src/main/java/Graphs/TimeNeededToInformAllEmployees.java)|
+
+
+<Summary>Breadth First Traversal</Summary>
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
-1|[**Graph Representation - Adjancency Matrix**](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
-1|[**Disjoint set - Union find**](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/DisjointSet.java)|
-1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/RedundantConnections.java)|
-1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
-2 |[**Depth First traversal**](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |[JAVA](./src/main/java/Graphs/GraphDFS.java)|
-2 |[Surrounded regions](https://leetcode.com/problems/surrounded-regions/) |[JAVA](./src/main/java/Graphs/SurroundedRegions.java)|
-2 |[Time needed to inform all employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) |[JAVA](./src/main/java/Graphs/TimeNeededToInformAllEmployees.java)|
-2 |[Number of islands](https://leetcode.com/problems/number-of-islands/) |[JAVA](./src/main/java/Graphs/NumberOfIslands.javanum)|
-2 |[Flood fill](https://leetcode.com/problems/flood-fill/) |[JAVA](./src/main/java/Graphs/FloodFill.java)|
-2 |[Max area of island](https://leetcode.com/problems/max-area-of-island/) |[JAVA](./src/main/java/Graphs/MaxAreaOfIsland.java)|
-2 |[Clone graph](https://leetcode.com/problems/clone-graph/) |[JAVA](./src/main/java/Graphs/CloneGraph.java)|
-3 |[**Breadth First Traversal**](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Graphs/GraphBFS.java)|
-3 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA](./src/main/java/Graphs/SnakesAndLadder.java)|
-3 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA](./src/main/java/Graphs/WordLadder_BFS.java)|
-3 |[minimum gentic mutation](https://leetcode.com/problems/minimum-genetic-mutation/) |[JAVA](./src/main/java/Graphs/)|
-3 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA](./src/main/java/Graphs/RottenOranges.java)|
-3 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA](./src/main/java/Graphs/EvaluateDivison.java)|
+2 |[**Breadth First Traversal**](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |[JAVA](./src/main/java/Graphs/GraphBFS.java)|
+2 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA](./src/main/java/Graphs/RottenOranges.java)|
+2 |[word ladder](https://leetcode.com/problems/word-ladder/) |[JAVA](./src/main/java/Graphs/WordLadder_BFS.java)|
+2 |[minimum gentic mutation](https://leetcode.com/problems/minimum-genetic-mutation/) |[JAVA](./src/main/java/Graphs/)|
+2 |[snakes and ladder](https://leetcode.com/problems/snakes-and-ladders/) |[JAVA](./src/main/java/Graphs/SnakesAndLadder.java)|
+2 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA](./src/main/java/Graphs/EvaluateDivison.java)|
+
+
+<Summary>Toplogical Sorting</Summary>
+
+S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+3 |[**Topological sorting (https://leetcode.com/discuss/general-discussion/1078072/introduction-to-topological-sort)**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
+3 |[Course schedule I](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
+3 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
+3 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
+
+
+
+
+<Summary>DisjoinSet - SetDS - FindParent/UnionOrMerge</Summary>
+
+S.No. | Question Name | Java Solution |
+ ------|---------------|---------------|
+4|[**Disjoint set - Union find**](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/DisjointSet.java)|
+4|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/RedundantConnections.java)|
+4|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
+4|[Minimum Spanning Tree - Kruskals](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
+
+
+
+
+
+<Summary>Cycle Detection in Directed && Undirected</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
 4 |[**Cycle detection in directed graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
 4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA](./src/main/java/Graphs/FindEventualSafeStates.java)|
 5 |[**cycle detection in a undirected graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
-6 |[**Topological sorting (https://leetcode.com/discuss/general-discussion/1078072/introduction-to-topological-sort)**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
-6 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
-6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
-6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
-7 |[**Graph coloring or Bipartite graph**](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
-</details>
 
+
+<Summary>Other concepts</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+7 |[**Graph coloring or Bipartite graph**](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
+8 |[**Single Source shortest path - Dijkstras**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
+</details>
 
 <br>
 <details>
