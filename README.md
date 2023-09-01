@@ -625,7 +625,7 @@ S.No. | Question Name | Java Solution |
 4 |[**Cycle detection in directed graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
 4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA](./src/main/java/Graphs/FindEventualSafeStates.java)|
 5 |[**cycle detection in a undirected graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
-6 |[**Topological sorting**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
+6 |[**Topological sorting (https://leetcode.com/discuss/general-discussion/1078072/introduction-to-topological-sort)**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
 6 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
 6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
 6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
