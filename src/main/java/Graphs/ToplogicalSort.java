@@ -63,4 +63,33 @@ public class ToplogicalSort {
 
 	}
 
+static int[] topoSortBFS(int V, ArrayList<ArrayList<Integer>> adj) 
+    {
+        // add your code here
+        int[] visited = new int[V];
+        for(int i = 0; i < adj.size(); i++) {
+            for(int j = 0; j < adj.get(i).size(); j++) {
+                visited[adj.get(i).get(j)]++;
+            }
+        }
+        int[] ans = new int[V];
+        int k = 0;
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i = 0; i < V; i++) {
+            if(visited[i] == 0) queue.offer(i);
+        }
+        while(!queue.isEmpty()) {
+            int first = queue.poll();
+            ans[k] = first;
+            k++;
+            for(int v : adj.get(first)) {
+                visited[v]--;
+                if(visited[v] == 0) {
+                    queue.offer(v);
+                }
+            }
+        }
+        return ans;
+    }
+
 }
