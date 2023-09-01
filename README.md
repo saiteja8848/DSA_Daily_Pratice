@@ -605,6 +605,7 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
+1|[**Graph Representation - Adjancency Matrix**](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) |[JAVA](./src/main/java/Graphs/)|
 1|[**Disjoint set - Union find**](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1) |[JAVA](./src/main/java/Graphs/DisjointSet.java)|
 1|[Redundant connection](https://leetcode.com/problems/redundant-connection/) |[JAVA](./src/main/java/Graphs/RedundantConnections.java)|
 1|[Account merge](https://leetcode.com/problems/accounts-merge/) |[JAVA](./src/main/java/Graphs/)|
@@ -622,10 +623,10 @@ S.No. | Question Name | Java Solution |
 3 |[Rotting oranges](https://leetcode.com/problems/rotting-oranges/) |[JAVA](./src/main/java/Graphs/RottenOranges.java)|
 3 |[Evaluate division](https://leetcode.com/problems/evaluate-division/) |[JAVA](./src/main/java/Graphs/EvaluateDivison.java)|
 4 |[**Cycle detection in directed graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInDirectedGraph.java)|
-4 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
 4 |[Find eventual safe states](https://leetcode.com/problems/find-eventual-safe-states/) |[JAVA](./src/main/java/Graphs/FindEventualSafeStates.java)|
 5 |[**cycle detection in a undirected graph**](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) |[JAVA](./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java)|
 6 |[**Topological sorting**](https://practice.geeksforgeeks.org/problems/topological-sort/1) |[JAVA](./src/main/java/Graphs/ToplogicalSort.java)|
+6 |[Course schedule](https://leetcode.com/problems/course-schedule/) |[JAVA](./src/main/java/Graphs/CourseSchedule_I.java)|
 6 |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) |[JAVA](./src/main/java/Graphs/CourseSchedule_II.java.java)|
 6 |[Alien dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) |[JAVA](./src/main/java/Graphs/AlienDictionary.java)|
 7 |[**Graph coloring or Bipartite graph**](https://practice.geeksforgeeks.org/problems/bipartite-graph/1) |[JAVA](./src/main/java/Graphs/)|
