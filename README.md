@@ -157,7 +157,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Greedy(12) && MergeIntervals </Summary>
+<Summary>Greedy && MergeIntervals </Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -174,17 +174,17 @@ S.No. | Question Name | Java Solution |
 11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
 12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
 
-<Summary>MergeIntervals(8)</Summary>
+<Summary>MergeIntervals</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
 2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
 3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
-4 |[Meeting rooms I&II](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
-5 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
-6 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
-7 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+4 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
+5 |[Meeting rooms I&II](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
+6 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
+7 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
 8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
 </details>
 
