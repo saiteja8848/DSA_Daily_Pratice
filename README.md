@@ -487,13 +487,6 @@ S.No. | Question Name | Java Solution |
 3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
 3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
 4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
-5 |[Unique Grid paths III](https://leetcode.com/problems/unique-paths-iii/) |[JAVA](./src/main/java/backtracking/UniquePathsIII.java)|
-6 |[word break](https://leetcode.com/problems/word-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
-6 |[word break II](https://leetcode.com/problems/word-break-ii/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
-7 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
-7 |[word Search II](https://leetcode.com/problems/word-search-ii/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
-8 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
-8 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
 </details>
 
 
@@ -503,33 +496,55 @@ S.No. | Question Name | Java Solution |
 <details>
 <Summary>Dynamic Programming(1D/2D/Strings)</Summary>
 
+
+<Summary>String</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[InterLeaving String]() |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Regular expression](https://leetcode.com/problems/regular-expression-matching/) |[JAVA](./src/main/java/backtracking/RegularExpressionMatching.java)|
+1 |[Wildcard](https://leetcode.com/problems/wildcard-matching/) |[JAVA](./src/main/java/backtracking/WildCard.java)|
+2 |[word break](https://leetcode.com/problems/word-break/) |[JAVA](./src/main/java/backtracking/WordBreak_I.java)|
+2 |[word break II](https://leetcode.com/problems/word-break-ii/) |[JAVA](./src/main/java/backtracking/WordBreak_II.java)|
+3 |[word Search](https://leetcode.com/problems/word-search/) |[JAVA](./src/main/java/backtracking/WordSearch_I.java)|
+3 |[word Search II](https://leetcode.com/problems/word-search-ii/) |[JAVA](./src/main/java/backtracking/WordSearch_II.java)|
+4 |[Longest Common substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[Longest Palindromic substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[Count of palindromic substrings]() |[JAVA](./src/main/java/DynamicProgramming/)|
+
+
+
+<Summary>Kadane's and stock</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Unique Paths I,II,III](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[Best Time to Buy and Sell Stock I,II ,III, IV ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[JAVA](./src/main/java/DynamicProgramming/)|
+
+<Summary>Decision Making</Summary>
+
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Fibonaaci](https://leetcode.com/problems/fibonacci-number/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Climbing Stairs I && II](https://leetcode.com/problems/climbing-stairs/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[House Robber I && II](https://leetcode.com/problems/house-robber/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Coin change I && II](https://leetcode.com/problems/coin-change/) |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[Unique Paths I,II](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[TargetSum](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Subset Sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
-2 |[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
-2 |[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |[JAVA](./src/main/java/DynamicProgramming/)|
-3 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
-3 |[Best Time to Buy and Sell Stock I,II ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
-3 |[best-time-to-buy-and-sell-stock-with-cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |[JAVA](./src/main/java/DynamicProgramming/)|
-4 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
-4 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
+1 |[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets) |[JAVA](./src/main/java/DynamicProgramming/)|
+2 |[Triangle]() |[JAVA](./src/main/java/DynamicProgramming/)|
+3 |[Maximal square]() |[JAVA](./src/main/java/DynamicProgramming/)|
+4 |[minimum path sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
 5 |[Matrix chain multiplication - burst ballons](https://leetcode.com/problems/burst-balloons) |[JAVA](./src/main/java/DynamicProgramming/)|
-5 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
-6 |[Longest Increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[JAVA](./src/main/java/DynamicProgramming/)|
-7 |[Triangle]() |[JAVA](./src/main/java/DynamicProgramming/)|
-8 |[Maximal square]() |[JAVA](./src/main/java/DynamicProgramming/)|
-9 |[minimum path sum]() |[JAVA](./src/main/java/DynamicProgramming/)|
-10 |[Edit distance]() |[JAVA](./src/main/java/DynamicProgramming/)|
-11 |[InterLeaving String]() |[JAVA](./src/main/java/DynamicProgramming/)|
-12 |[Longest Common substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
-13 |[Longest Palindromic substring]() |[JAVA](./src/main/java/DynamicProgramming/)|
-14 |[Count of palindromic substrings]() |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[delete and earn ](https://leetcode.com/problems/delete-and-earn/) |[JAVA](./src/main/java/DynamicProgramming/)|
+
+
 </details>
 
 
