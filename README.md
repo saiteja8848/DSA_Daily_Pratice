@@ -163,16 +163,17 @@ S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 |[Largest-Number](https://leetcode.com/problems/largest-number/) |[JAVA](./src/main/java/Greedy/LargestFromArray.java)|
 2 |[Gas Station](https://leetcode.com/problems/gas-station/) |[JAVA](./src/main/java/Greedy/GasStationOrCircularTour.java)|
-3 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Greedy/MinimumNoOfBoatsToSavePeople.java)|
-4 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Greedy/MinimumNoOfPlatformsRequired.java)|
-5 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Greedy/MinimumNoOfRefuelingStops.java)|
-6 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Greedy/JumpGame.java)|
-7 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Greedy/TwoCitySchedulingInterview.java)|
-8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
-9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
-10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
-11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
-12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
+3 |[Candy](https://leetcode.com/problems/candy/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
+4 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
+5 |[Boats to save people](https://leetcode.com/problems/boats-to-save-people/) |[JAVA](./src/main/java/Greedy/MinimumNoOfBoatsToSavePeople.java)|
+6 |[Minimum platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) |[JAVA](./src/main/java/Greedy/MinimumNoOfPlatformsRequired.java)|
+7 |[Minimum no of refueling shops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) |[JAVA](./src/main/java/Greedy/MinimumNoOfRefuelingStops.java)|
+8 |[Jump Game](https://leetcode.com/problems/jump-game/) |[JAVA](./src/main/java/Greedy/JumpGame.java)|
+9 |[Two-City-scheduling](https://leetcode.com/problems/two-city-scheduling/) |[JAVA](./src/main/java/Greedy/TwoCitySchedulingInterview.java)|
+10 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
+11 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
+12 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
+
 
 <Summary>MergeIntervals</Summary>
 
