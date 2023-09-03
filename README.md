@@ -171,8 +171,8 @@ S.No. | Question Name | Java Solution |
 8 |[Find the celebrity](https://www.youtube.com/watch?v=LZJBZEnoYLQ) |[JAVA](./src/main/java/Greedy/FindTheCelebrity.java)|
 9 |[distribute-candies](https://leetcode.com/problems/distribute-candies/) |[JAVA](./src/main/java/Greedy/DistributeCandies.java)|
 10 |[increasing-triplet-subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |[JAVA](./src/main/java/Greedy/IncreasingTripletSubsequence.java)|
-11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA]()|
-12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA]()|
+11 |[Candy](https://leetcode.com/problems/candy/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
+12 |[Car Pooling](https://leetcode.com/problems/car-pooling/) |[JAVA](./src/main/java/Greedy/CarPoolingAndCandy.java)|
 
 <Summary>MergeIntervals</Summary>
 
