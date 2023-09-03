@@ -551,7 +551,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Trees(BFS/DFS/Validations/Properties/Views/Sums/Construction/Conversions)</Summary>
+<Summary>Trees</Summary>
 
 
 <Summary>Breadth First Traversal</Summary>
