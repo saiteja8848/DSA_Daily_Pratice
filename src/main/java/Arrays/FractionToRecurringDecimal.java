@@ -1,5 +1,8 @@
 package Arrays;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class FractionToRecurringDecimal {
     public String fractionToDecimal(int num, int denom) {
         if(denom==0)

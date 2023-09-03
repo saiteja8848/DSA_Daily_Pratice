@@ -1,7 +1,7 @@
 package Graphs;
 
-
-
+import java.util.ArrayList;
+import java.util.Arrays;
 
 class UnionFind {
     int[] parent, size;

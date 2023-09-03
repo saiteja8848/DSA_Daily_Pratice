@@ -178,14 +178,14 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
-2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/)|
-3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/)|
-4 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/)|
-5 |[Meeting rooms I&II](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/)|
-6 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/)|
-7 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/)|
-8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/)|
+1 |[mergeInterval](https://leetcode.com/problems/merge-intervals/) |[JAVA](./src/main/java/mergeIntervals/mergeIntervals.java)|
+2 |[InsertInterval](https://leetcode.com/problems/insert-interval/) |[JAVA](./src/main/java/mergeIntervals/InsertIntervals.java)|
+3 |[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |[JAVA](./src/main/java/mergeIntervals/IntervalListIntersections.java)|
+4 |[Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[JAVA](./src/main/java/mergeIntervals/Non_overlappingInterval.java)|
+5 |[Meeting rooms I&II](https://leetcode.com/problems/meeting-rooms-ii/) |[JAVA](./src/main/java/mergeIntervals/MeetingRooms.java)|
+6 |[Employee free time](https://leetcode.com/problems/employee-free-time/) |[JAVA](./src/main/java/mergeIntervals/EmployeeFreeTime.java)|
+7 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/SummaryRanges.java)|
+8 |[Minimum no of arrows to burst ballons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[JAVA](./src/main/java/mergeIntervals/MinimumArrowsToBurstBallons.java)|
 </details>
 
 <br>
