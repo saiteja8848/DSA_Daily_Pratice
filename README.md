@@ -241,6 +241,8 @@ S.No. | Question Name | Java Solution |
 15 | [trapping-rain-water](https://leetcode.com/problems/trapping-rain-water/)|[JAVA](./src/main/java/TwoPointers/TrappingRainWater.java)|
 15 | [Trapping-rain-water-II](https://leetcode.com/problems/trapping-rain-water-ii/) |[JAVA](./src/main/java/TwoPointers/)|
 16 | [container-with-most-water](https://leetcode.com/problems/container-with-most-water/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
+16 | [Next permutation](https://leetcode.com/problems/next-permutation/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
+
 
 <Summary>Slow and Fast Pointers (7)</Summary>
 
