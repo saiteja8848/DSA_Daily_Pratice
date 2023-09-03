@@ -31,30 +31,37 @@ public class MeetingRooms {
 	     * @param intervals: an array of meeting time intervals
 	     * @return: the minimum number of conference rooms required
 	     */
-	    public int minMeetingRooms(List<Interval> intervals) {
-	        // Write your code here
-	        int len = intervals.size();
-	        int[] start = new int[len];
-	        int[] end = new int[len];
-	        for(int i=0;i<len;i++){
-	            start[i]=intervals.get(i).start;
-	            end[i]=intervals.get(i).end;
-	        }
+	public static int minRooms(int[][] intervals) {
+		 if (intervals == null || intervals.length == 0) {
+            return 0;
+        }
 
-	        Arrays.sort(start);
-	        Arrays.sort(end);
+        // Sort the intervals by their start times
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
 
-	        int i=0,j=0,res=0,count=0;
-	        while(i<len){
-	           if(start[i]<end[j]){
-	               i++;
-	               count++;
-	           }else{
-	               j++;
-	               count--;
-	           }
-	           res = Math.max(res,count); 
-	        }
+        // Create a min heap to keep track of the end times of ongoing meetings
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        // Add the end time of the first meeting to the heap
+        minHeap.offer(intervals[0][1]);
+
+        for (int i = 1; i < intervals.length; i++) {
+            int currentStart = intervals[i][0];
+            int earliestEnd = minHeap.peek();
+
+            // If the current meeting can reuse a room (its start time is after the earliest end time),
+            // remove the earliest end time from the heap.
+            if (currentStart >= earliestEnd) {
+                minHeap.poll();
+            }
+
+            // Add the end time of the current meeting to the heap
+            minHeap.offer(intervals[i][1]);
+        }
+
+        // The size of the heap represents the minimum number of meeting rooms required
+        return minHeap.size();
+	}
 
 	      return res;
 	    }  
