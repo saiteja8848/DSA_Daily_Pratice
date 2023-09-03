@@ -451,7 +451,7 @@ S.No. | Question Name | Java Solution |
 <br>
 <h1>Month-3</h1>
 <details>
-<Summary>Recursion (6) </Summary>
+<Summary>Recursion && Backtracking </Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -464,14 +464,9 @@ S.No. | Question Name | Java Solution |
 4 |[Josephus problem](https://leetcode.com/problems/find-the-winner-of-the-circular-game/) |[JAVA](./src/main/java/recursion/JosephusProblem.java)|
 5 |[Special keyboard](https://practice.geeksforgeeks.org/problems/special-keyboard3018/1) |[JAVA](./src/main/java/recursion/SpecialKeyboard.java)|
 6 |[Towers of hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) |[JAVA](./src/main/java/recursion/TowersOfHanoi.java)
-</details>
 
 
-
-
-<br>
-<details>
-<Summary>Backtracking(8)</Summary>
+<Summary>Backtracking(4)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -487,6 +482,8 @@ S.No. | Question Name | Java Solution |
 3 |[Valid-sudoku](https://leetcode.com/problems/valid-sudoku/) |[JAVA](./src/main/java/backtracking/ValidSuduko.java)|
 3 |[Sudoku solver](https://leetcode.com/problems/sudoku-solver/) |[JAVA](./src/main/java/backtracking/SudukoSolver.java)|
 4 |[N-Queens Problem I && II](https://leetcode.com/problems/n-queens/) |[JAVA](./src/main/java/backtracking/NQueens.java)|
+
+
 </details>
 
 
