@@ -241,9 +241,9 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-4 | [Top k Frequent words](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/Heaps/)|
-4 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/Heaps/)|
-4 | [Sort Characters By Frequency](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/Heaps/)|
+4 | [Top k Frequent elements](https://leetcode.com/problems/top-k-frequent-elements/) |[JAVA](./src/main/java/Heaps/)|
+4 | [Top k Frequent words](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/Heaps/)|
+4 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |[JAVA](./src/main/java/Heaps/)|
 
 
 <Summary>Two Heaps && Merge Patterns</Summary>
