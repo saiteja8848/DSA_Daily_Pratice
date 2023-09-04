@@ -141,33 +141,44 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Strings(23)</Summary>
+<Summary>Strings</Summary>
 
+<Summary>Common string problems</Summary>
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[JAVA](./src/main/java/Strings/ValidAnagram.java)|
 2 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[JAVA](./src/main/java/Strings/)|
 3 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[JAVA](./src/main/java/Strings/ValidPalindrome.java)|
 4 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[JAVA](./src/main/java/Strings/ValidPalindromeII.java)|
-5 | [minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |[JAVA](./src/main/java/Strings/MinInsertions.java)|
-6 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) |[JAVA](./src/main/java/Strings/LongestPalindromicSubstring.java)|
-7 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA](./src/main/java/Strings/Isomorphic.java)|
-8 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA](./src/main/java/Strings/RansomNote.java)|
-9 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA](./src/main/java/Strings/LongestCommonPrefix.java)|
+5 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[JAVA](./src/main/java/Strings/Isomorphic.java)|
+6 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |[JAVA](./src/main/java/Strings/RansomNote.java)|
+7 | [Count and Say](https://leetcode.com/problems/count-and-say/) |[JAVA](./src/main/java/Strings/CountAndSay.java)|
+8 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/Strings/EncodeAndDecodeStrings.java)|
+9 | [String Compression](https://leetcode.com/problems/string-compression) |[JAVA](./src/main/java/Strings/TextJustification.java)|
 10 | [Zig Zag conversion](https://leetcode.com/problems/zigzag-conversion/) |[JAVA](./src/main/java/Strings/ZigZagConversion.java)|
-11 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA](./src/main/java/Strings/LengthOfLastWord.java)|
+11| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[JAVA](./src/main/java/Strings/LengthOfLastWord.java)|
 12 | [Reverse words in a string](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/Strings/ReverseWordsInAString.java)|
-13 | [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/) |[JAVA](./src/main/java/Strings/CompareVersionNumbers.java)|
-14 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) |[JAVA](./src/main/java/Strings/ValidateIPAddress.java)|
-15 | [Count and Say](https://leetcode.com/problems/count-and-say/) |[JAVA](./src/main/java/Strings/CountAndSay.java)|
-16 | [Encode & Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[JAVA](./src/main/java/Strings/EncodeAndDecodeStrings.java)|
-17 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA](./src/main/java/Strings/TextJustification.java)|
-18 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/Strings/AtoIKMP.java)|
-19 | [String Compression](https://leetcode.com/problems/string-compression) |[JAVA](./src/main/java/Strings/TextJustification.java)|
-20 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[JAVA](./src/main/java/Strings/TextJustification.java)|
-21 | [Can place flowers](https://leetcode.com/problems/can-place-flowers) |[JAVA](./src/main/java/Strings/TextJustification.java)|
-22 | [GCD of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |[JAVA](./src/main/java/Strings/TextJustification.java)|
-23 | [Reverse words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |[JAVA](./src/main/java/TwoPointers/ReverseWordsInAString.java)|
+
+<Summary>KMP Algorithm - Pattern matching && Text formatting</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Find the index of the first occurence in a string(atoI - kmp)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |[JAVA](./src/main/java/Strings/AtoIKMP.java)|
+2 | [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/) |[JAVA](./src/main/java/Strings/LongestCommonPrefix.java)|
+3 | [Text Justification](https://leetcode.com/problems/text-justification/) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+
+<Summary>Other problems</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [minimum-insertion-steps-to-make-a-string-palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) |[JAVA](./src/main/java/Strings/MinInsertions.java)|
+2 | [longest-palindromic-substring](https://leetcode.com/problems/longest-palindromic-substring) |[JAVA](./src/main/java/Strings/LongestPalindromicSubstring.java)|
+3 | [Compare version numbers](https://leetcode.com/problems/compare-version-numbers/) |[JAVA](./src/main/java/Strings/CompareVersionNumbers.java)|
+4 | [Validate IP Address](https://leetcode.com/problems/validate-ip-address) |[JAVA](./src/main/java/Strings/ValidateIPAddress.java)|
+5 | [Kids with greatest number of candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+6 | [Can place flowers](https://leetcode.com/problems/can-place-flowers) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+7 | [GCD of strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) |[JAVA](./src/main/java/Strings/TextJustification.java)|
+
 </details>
 
 
