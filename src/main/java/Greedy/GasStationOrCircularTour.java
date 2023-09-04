@@ -1,5 +1,7 @@
 package Greedy;
 
+import java.util.Arrays;
+
 public class GasStationOrCircularTour {
   public int canCompleteCircuit(int[] gas, int[] cost) {
         int totalGas = Arrays.stream(gas).sum();

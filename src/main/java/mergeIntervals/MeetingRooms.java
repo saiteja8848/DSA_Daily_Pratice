@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.PriorityQueue;
 
 
 class Interval {
@@ -63,7 +64,5 @@ public class MeetingRooms {
         return minHeap.size();
 	}
 
-	      return res;
-	    }  
 	  
 }
