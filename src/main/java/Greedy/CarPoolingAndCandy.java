@@ -28,4 +28,42 @@ public class CarPoolingAndCandy {
             ans += left[i];
         return ans;
     }
+
+
+    // public boolean carPooling(int[][] trips, int capacity) {
+// 	 Arrays.sort(trips, (a,b) -> a[1]-b[1]);  // sort array from start time in ascending order
+//         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[2]-b[2]);  // sort PriorityQueue from end time in ascending order.
+        
+//         for(int[] trip : trips) {
+//             while(!pq.isEmpty() && pq.peek()[2] <= trip[1]) {
+//                 capacity += pq.poll()[0];
+//             }
+//             pq.offer(trip);
+//             capacity -= trip[0];
+//             if(capacity < 0)
+//                 return false;
+//         }
+        
+//         return true;
+// }
+
+
+public boolean carPooling(int[][] trips, int capacity) {
+        int[] stops = new int[1001];
+        
+        for(int[] trip : trips){
+            stops[trip[1]] += trip[0];
+            stops[trip[2]] -= trip[0];
+        }
+        
+        int passengerCount = 0;
+        for(int val: stops){
+            passengerCount += val;
+            if(passengerCount > capacity){
+                return false;
+            }
+        }
+        
+        return true;
+    }
 }
