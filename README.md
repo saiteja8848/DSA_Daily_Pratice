@@ -230,7 +230,7 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [K Closest Points to Origin](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/Heaps//)|
+1 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/Heaps//)|
 1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/Heaps/)|
 1 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |[JAVA](./src/main/java/Heaps/)|
 2 | [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |[JAVA](./src/main/java/Heaps/)|
