@@ -189,30 +189,49 @@ S.No. | Question Name | Java Solution |
 7 |[Summary Ranges](https://leetcode.com/problems/summary-ranges/) |[JAVA](./src/main/java/mergeIntervals/SummaryRanges.java)|
 </details>
 
+
+
+
 <br>
 <details>
-<Summary>Heap (18)</Summary>
+<Summary>Heap</Summary>
+
+
+<Summary>Top K pattern</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
-2 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-3 | [Kth Largest Element in a Stream](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-4 | [Sliding Window Median](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-5 | [Top k Frequent words](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
-6 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
-7 | [Sort Characters By Frequency](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
-8 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
-9 | [Ugly Number II](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
-10 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-11 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-12 | [Rearrange String k Distance Apart](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
-13 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-14 | [Reoragnize String](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
-15 | [K Closest Points to Origin](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-16 | [Find the Kth Smallest Sum of a Matrix with sorted rows](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
-17 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
-18 | [IPO](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+1 | [Top k Frequent words](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+1 | [Top k Frequent Elements](https://leetcode.com/problems/top-k-frequent-words/) |[JAVA](./src/main/java/TwoPointers/)|
+1 | [Sort Characters By Frequency](https://leetcode.com/problems/find-k-closest-elements/) |[JAVA](./src/main/java/TwoPointers/)|
+
+<Summary>Kth Smallest/Largest</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+2 | [K Closest Points to Origin](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+3 | [Kth Largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) |[JAVA](./src/main/java/heaps/)|
+4 | [Kth Largest Element in a Stream](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+5 | [Find K pairs with smallest sums](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+6 | [Find the Kth Smallest Sum of a Matrix with sorted rows](https://leetcode.com/problems/k-closest-points-to-origin/) |[JAVA](./src/main/java/TwoPointers/)|
+
+
+<Summary>Two Heaps && Merge Patterns</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+2 | [Sliding Window Median](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+3 | [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists) |[JAVA](./src/main/java/TwoPointers/)|
+4 | [Ugly Number II](https://leetcode.com/problems/top-k-frequent-elements/)|[JAVA](./src/main/java/heaps/)|
+5 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+6 | [Minimum Cost to Connect sticks](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+7 | [Rearrange String k Distance Apart](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/TwoPointers/)|
+8 | [Task Scheduler](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+9 | [Reoragnize String](https://leetcode.com/problems/find-median-from-data-stream/) |[JAVA](./src/main/java/TwoPointers/)|
+10 | [IPO](https://leetcode.com/problems/car-pooling) |[JAVA](./src/main/java/TwoPointers/)|
+
+
 </details>
 
 
