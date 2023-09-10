@@ -40,16 +40,6 @@ S.No. | Question Name | Java Solution |
 3 | [Divide two integers without using multiplication, division, and mod operator ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 4 | [square of no without using *, / and pow() ](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 
-<Summary>Conversions</Summary>
-
-S.No. | Question Name | Java Solution |
-------|---------------|---------------|
-1 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-2 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
-3 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-4 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
-5 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
-
 <Summary>XOR problems</Summary>
 
 S.No. | Question Name | Java Solution |
@@ -61,6 +51,17 @@ S.No. | Question Name | Java Solution |
 3 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
 4 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
 5 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+
+<Summary>Conversions</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+1 | [Decimal to Binary ](https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+2 | [Binary to Decimal](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1) |[JAVA](./src/main/java/Bitwise/BinaryToDecimalConversion.java)|
+3 | [Convert a number to hexadecimal ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+4 | [Add Binary](https://leetcode.com/problems/add-binary/) |[JAVA](./src/main/java/Bitwise/AddBinary.java)|
+5 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[JAVA](./src/main/java/Bitwise/SumOfTwoIntegers.java)|
+
 
 </details>
 
