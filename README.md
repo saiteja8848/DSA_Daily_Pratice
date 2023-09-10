@@ -38,7 +38,7 @@ S.No. | Question Name | Java Solution |
 1 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
 2 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
 3 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-4 | [square of no without using ](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+4 | [square of no without using ](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 
 <Summary>Conversions</Summary>
 
@@ -54,13 +54,14 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
+1 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+2 | [Single Number](https://leetcode.com/problems/single-number/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
 2 | [Single Number II](https://leetcode.com/problems/single-number-ii/) |[JAVA](./src/main/java/Bitwise/SingleNumber_I.java)|
-3 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
-4 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
-5 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
-6 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
-7 | [Maximum subset XOR](https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+2 | [Single Number III](https://leetcode.com/problems/single-number-iii) |[JAVA](./src/main/java/Bitwise/TwoUniqueNumbers.java)|
+3 | [Swap 2 nos without using third variable](https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1) |[JAVA](./src/main/java/Bitwise/Swap2Numbers.java)|
+4 | [Missing Numbers](https://leetcode.com/problems/missing-number/) |[JAVA](./src/main/java/Bitwise/MissingNumberXor.java)|
+5 | [Subsets(power set)](https://practice.geeksforgeeks.org/problems/power-set4302/1) |[JAVA](./src/main/java/Bitwise/PowerSet.java)|
+
 </details>
 
 
