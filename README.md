@@ -37,8 +37,8 @@ S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
 1 | [Print Xor of 1 to N and Range](https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1) |[JAVA](./src/main/java/Bitwise/XOR_Range.java)|
 2 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) |[JAVA](./src/main/java/Bitwise/BitwiseANDRange.java)|
-3 | [Divide two integers ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
-4 | [square of no without using ](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+3 | [Divide two integers without using multiplication, division, and mod operator ](https://leetcode.com/problems/divide-two-integers/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
+4 | [square of no without using *, / and pow() ](https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/) |[JAVA](./src/main/java/Bitwise/DecimalToBinaryConversion.java)|
 
 <Summary>Conversions</Summary>
 
