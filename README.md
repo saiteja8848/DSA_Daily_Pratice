@@ -414,31 +414,38 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Stack&& Queues(15)</Summary>
+<Summary>Monotonic Stack problems</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 | [NextGreaterElement(Right)]() |[JAVA](./src/main/java/Stack/)|
-1 | [PreviousGreaterElement(NGE-Left) ]() |[JAVA](./src/main/java/Stack/)|
-1 | [NextSmallerElement(Right)]() |[JAVA](./src/main/java/Stack/)|
+1 | [NextGreaterElement(Right)](https://www.codingninjas.com/studio/problems/next-greater-element_670312) |[JAVA](./src/main/java/Stack/NextGreaterElementToRight.java)|
+1 | [NextGreaterElement(Right) - Leetcode](https://leetcode.com/problems/next-greater-element-i/) |[JAVA](./src/main/java/Stack/NextGreaterElementToRight.java)|
+1 | [Daily Temperatures(next greater element - Right)](https://leetcode.com/problems/daily-temperatures/) |[JAVA](./src/main/java/Stack/NextGreaterElementToRight.java)|
+1 | [Online Stock span](https://leetcode.com/problems/online-stock-span/) |[JAVA](./src/main/java/Stack/)|
+1 | [PreviousGreaterElement(NGE-Left) ](https://www.callicoder.com/nearest-greater-to-left/) |[JAVA](./src/main/java/Stack/NextGreaterElementToLeft.java)|
+1 | [Remove K digits]() |[JAVA](./src/main/java/Stack/)|[JAVA](./src/main/java/Stack/NextGreaterElementToLeft.java)|
+1 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[JAVA](./src/main/java/Stack/)|
+1 | [NextSmallerElement(Right)](https://www.codingninjas.com/studio/problems/next-smaller-element_1112581?leftPanelTab=1) |[JAVA](./src/main/java/Stack/NextSmallerElementToRight.java)|
 1 | [PreviousSmallerElement(NSE-Left)]() |[JAVA](./src/main/java/Stack/)|
-1 | [Next Greater Element I/II/III]() |[JAVA](./src/main/java/Stack/)|
-1 | [Daily Temperatures(next greater element)]() |[JAVA](./src/main/java/Stack/)|
-2 | [Online Stock span](https://leetcode.com/problems/online-stock-span/) |[JAVA](./src/main/java/Stack/)|
-2 | [Stack span ](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |[JAVA](./src/main/java/Stack/)|
-2 | [Largest Rectangle in a histogram(NSE&PSE)](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA](./src/main/java/Stack/)|
-3 | [Remove K digits]() |[JAVA](./src/main/java/Stack/)|
-4 | [132 Pattern]() |[JAVA](./src/main/java/Stack/)|
-5 | [Valid Parentheses]() |[JAVA](./src/main/java/Stack/)|
-6 | [Redudant braces]() |[JAVA](./src/main/java/Stack/)|
-7 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |[JAVA](./src/main/java/Stack/)|
-8 | [Basic calculator I,II,III](https://leetcode.com/problems/basic-calculator/) |[JAVA](./src/main/java/Stack/)|
-9 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |[JAVA](./src/main/java/Stack/)|
-10 | [Sort stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) |[JAVA](./src/main/java/Stack/)|
-11 | [First Non Repeating character in a stream]() |[JAVA](./src/main/java/Stack/)|
-12 | [remove-all-adjacent-duplicates-in-string I,II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) |[JAVA](./src/main/java/Stack/)|
-13 | [Asteroid collison](https://leetcode.com/problems/asteroid-collision/) |[JAVA](./src/main/java/Stack/)|
-14 | [Trapping Rain water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/Stack/)|
+1 | [Stack span ](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |[JAVA](./src/main/java/Stack/)|
+1 | [Largest Rectangle in a histogram(NSE&PSE)](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA](./src/main/java/Stack/)|
+1 | [Trapping Rain water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/Stack/)|
+
+
+<Summary>Stack</Summary>
+
+S.No. | Question Name | Java Solution |
+------|---------------|---------------|
+2 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[JAVA](./src/main/java/Stack/ValidParenthesis.java)|
+2 | [Redudant braces](https://www.interviewbit.com/problems/redundant-braces/) |[JAVA](./src/main/java/Stack/ValidParenthesis.java)|
+3 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |[JAVA](./src/main/java/Stack/SimplifyPath.java)|
+4 | [Basic calculator I,II,III](https://leetcode.com/problems/basic-calculator/) |[JAVA](./src/main/java/Stack/BasicCalculator.java)|
+5 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |[JAVA](./src/main/java/Stack/EvaluateReversePolish.java)|
+6 | [Sort stack](https://practice.geeksforgeeks.org/problems/sort-a-stack/1) |[JAVA](./src/main/java/Stack/SortStack.java)|
+7 | [First Non Repeating character in a stream]() |[JAVA](./src/main/java/Stack/SortStack.java)|
+7 | [remove-all-adjacent-duplicates-in-string I,II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) |[JAVA](./src/main/java/Stack/SortStack.java)|
+8 | [Asteroid collison](https://leetcode.com/problems/asteroid-collision/) |[JAVA](./src/main/java/Stack/AsteriodCollosion.java)|
+
 </details>
 
 
