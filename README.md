@@ -426,7 +426,7 @@ S.No. | Question Name | Java Solution |
 1 | [Remove K digits]() |[JAVA](./src/main/java/Stack/)|[JAVA](./src/main/java/Stack/NextGreaterElementToLeft.java)|
 1 | [132 Pattern](https://leetcode.com/problems/132-pattern/) |[JAVA](./src/main/java/Stack/)|
 1 | [NextSmallerElement(Right)](https://www.codingninjas.com/studio/problems/next-smaller-element_1112581?leftPanelTab=1) |[JAVA](./src/main/java/Stack/NextSmallerElementToRight.java)|
-1 | [PreviousSmallerElement(NSE-Left)]() |[JAVA](./src/main/java/Stack/)|
+1 | [PreviousSmallerElement(NSE-Left)](https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/) |[JAVA](./src/main/java/Stack/NextSmallerElementToLeft.java)|
 1 | [Stack span ](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1) |[JAVA](./src/main/java/Stack/)|
 1 | [Largest Rectangle in a histogram(NSE&PSE)](https://leetcode.com/problems/largest-rectangle-in-histogram/) |[JAVA](./src/main/java/Stack/)|
 1 | [Trapping Rain water](https://leetcode.com/problems/trapping-rain-water/) |[JAVA](./src/main/java/Stack/)|
