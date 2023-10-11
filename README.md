@@ -296,7 +296,7 @@ S.No. | Question Name | Java Solution |
 16 | [Next permutation](https://leetcode.com/problems/next-permutation/) |[JAVA](./src/main/java/TwoPointers/ContainerWithMostWater.java)|
 
 
-<Summary>Slow and Fast Pointers (7)</Summary>
+<Summary>Slow and Fast Pointers</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -322,7 +322,7 @@ S.No. | Question Name | Java Solution |
 <br>
 
 <details>
-<Summary>Sliding Window(Fixed window - 11 && Variable Window Size- 13)</Summary>
+<Summary>Sliding Window(Fixed window&& Variable Window Size)</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -372,7 +372,7 @@ S.No. | Question Name | Java Solution |
 
 
 <details>
-<Summary>BinarySearch(20)</Summary>
+<Summary>BinarySearch</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -453,7 +453,7 @@ S.No. | Question Name | Java Solution |
 </details>
 <br>
 <details>
-<Summary>Linked-List(18)</Summary>
+<Summary>Linked-List</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -487,7 +487,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Design DataStructues (10) </Summary>
+<Summary>Design DataStructues </Summary>
  
  S.No. | Question Name | Java Solution |
  ------|---------------|---------------|
@@ -527,7 +527,7 @@ S.No. | Question Name | Java Solution |
 6 |[Towers of hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) |[JAVA](./src/main/java/recursion/TowersOfHanoi.java)
 
 
-<Summary>Backtracking(4)</Summary>
+<Summary>Backtracking</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
