@@ -329,19 +329,19 @@ S.No. | Question Name | Java Solution |
 1 |[**Sliding Window Maximum**](https://leetcode.com/problems/sliding-window-maximum/) |[JAVA](./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java)|
 2 |[**Minimum Window Substring**](https://leetcode.com/problems/minimum-window-substring/) |[JAVA](./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java)|
 3 |[Longest Substring with almost K **distinct** characters](https://www.lintcode.com/problem/386/) |[JAVA]()|
-4 |[**Fruits into baskets**](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
-5 |[Subarrays with K **different** Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
-6 |[Longest Substring with atleast k **repeating** characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
-7 |[Longest **Repeating** Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
-8 |[substrings of size 3 with distinct characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SubstringsOfSize3WithDistinctCharacters.java)|
-8 |[Contains duplicates II && III](https://leetcode.com/problems/contains-duplicate-ii/)|[JAVA](./src/main/java/SlidingWindow_Fixed/ContainsDuplicate_II.java)|
-8 |[Maximum-average-subarray-I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JAVA](./src/main/java/SlidingWindow_Fixed/Maximum_average_subarray_I.java)|
-8 |[DietPlanPerformance ](http://lixinchengdu.github.io/algorithmbook/leetcode/diet-plan-performance.html)|[JAVA](./src/main/java/SlidingWindow_Fixed/DietPlanPerformance.java)|
-9 |[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindTheKBeautyOFANumber.java)|
-9 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JAVA](./src/main/java/SlidingWindow_Fixed/RepeatedDNASequences.java)|
-10 |[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindAllAnagaramsInAString.java)|
-10 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
-11 |[Permutations In a String](https://leetcode.com/problems/permutation-in-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/PermutationInAString.java)|
+3 |[**Fruits into baskets**](https://leetcode.com/problems/fruit-into-baskets/) |[JAVA](./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java)| |
+3 |[Subarrays with K **different** Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)|[JAVA]()|
+4 |[Longest Substring with atleast k **repeating** characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)|[JAVA]()|
+5 |[Longest **Repeating** Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[JAVA]()|
+6 |[substrings of size 3 with distinct characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[JAVA](./src/main/java/SlidingWindow_Fixed/SubstringsOfSize3WithDistinctCharacters.java)|
+6 |[Contains duplicates II && III](https://leetcode.com/problems/contains-duplicate-ii/)|[JAVA](./src/main/java/SlidingWindow_Fixed/ContainsDuplicate_II.java)|
+6 |[Maximum-average-subarray-I](https://leetcode.com/problems/maximum-average-subarray-i/)|[JAVA](./src/main/java/SlidingWindow_Fixed/Maximum_average_subarray_I.java)|
+6 |[DietPlanPerformance ](http://lixinchengdu.github.io/algorithmbook/leetcode/diet-plan-performance.html)|[JAVA](./src/main/java/SlidingWindow_Fixed/DietPlanPerformance.java)|
+7 |[Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindTheKBeautyOFANumber.java)|
+7 |[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)|[JAVA](./src/main/java/SlidingWindow_Fixed/RepeatedDNASequences.java)|
+8 |[Find all anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/FindAllAnagaramsInAString.java)|
+8 |[Count Occurences of Anagram](https://www.geeksforgeeks.org/count-occurrences-of-anagrams/)|[JAVA]()|
+9 |[Permutations In a String](https://leetcode.com/problems/permutation-in-string/)|[JAVA](./src/main/java/SlidingWindow_Fixed/PermutationInAString.java)|
 
 
 
