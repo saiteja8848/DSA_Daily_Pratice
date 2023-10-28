@@ -619,6 +619,7 @@ S.No. | Question Name | Java Solution |
 6 |[Longest Palindromic subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) |[JAVA](./src/main/java/DynamicProgramming/)|
 6 |[Longest Palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/) |[JAVA](./src/main/java/DynamicProgramming/)|
 6 |[Count of palindromic substrings]() |[JAVA](./src/main/java/DynamicProgramming/)|
+6 |[Count of palindromic substrings](https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/) |[JAVA](./src/main/java/DynamicProgramming/)|
 
 
 <Summary>Dp on MCM or partition</Summary>
