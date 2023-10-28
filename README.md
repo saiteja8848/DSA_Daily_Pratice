@@ -639,6 +639,7 @@ S.No. | Question Name | Java Solution |
 8 |[Maximal square](https://leetcode.com/problems/maximal-square/) |[JAVA](./src/main/java/DynamicProgramming/)|
 8 |[Triangle](https://leetcode.com/problems/triangle/) |[JAVA](./src/main/java/DynamicProgramming/)|
 8 |[minimum path sum](https://leetcode.com/problems/minimum-path-sum/) |[JAVA](./src/main/java/DynamicProgramming/)|
+8 |[Maximal rectangle](https://leetcode.com/problems/maximal-rectangle/) |[JAVA](./src/main/java/DynamicProgramming/)|
 
 </details>
 
