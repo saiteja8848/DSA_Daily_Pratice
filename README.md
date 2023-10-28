@@ -577,8 +577,6 @@ S.No. | Question Name | Java Solution |
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
-1 |[maximum-subarray](https://leetcode.com/problems/maximum-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
-1 |[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray/) |[JAVA](./src/main/java/DynamicProgramming/)|
 1 |[Unique Paths I,II,III](https://leetcode.com/problems/target-sum) |[JAVA](./src/main/java/DynamicProgramming/)|
 2 |[Minimum cost to cut rod](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) |[JAVA](./src/main/java/DynamicProgramming/)|
 2 |[Best Time to Buy and Sell Stock I,II ,III, IV ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) |[JAVA](./src/main/java/DynamicProgramming/)|
