@@ -260,9 +260,8 @@ S.No. | Question Name | Java Solution |
 5 | [Rearrange String k Distance Apart](https://leetcode.com/problems/reorganize-string/) |[JAVA](./src/main/java/Heaps/)|
 6 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) |[JAVA](./src/main/java/Heaps/)|
 7 | [IPO](https://leetcode.com/problems/ipo/) |[JAVA](./src/main/java/Heaps/)|
-8 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)|[JAVA](./src/main/java/Heaps/)|
-9 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) |[JAVA](./src/main/java/Heaps/)|
-10 | [Minimum Cost to Connect sticks](https://www.codingninjas.com/studio/problems/minimum-cost-to-connect-sticks_1402396) |[JAVA](./src/main/java/Heaps/)|
+8 | [Minimum Cost to Hire K workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) |[JAVA](./src/main/java/Heaps/)|
+
 
 
 </details>
