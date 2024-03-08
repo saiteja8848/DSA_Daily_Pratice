@@ -824,7 +824,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Tries (optional)</Summary>
+<Summary>Tries</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
@@ -836,7 +836,7 @@ S.No. | Question Name | Java Solution |
 
 <br>
 <details>
-<Summary>Segment Trees(optional)</Summary>
+<Summary>Segment Trees</Summary>
 
 S.No. | Question Name | Java Solution |
 ------|---------------|---------------|
