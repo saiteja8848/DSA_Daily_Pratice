@@ -6,7 +6,6 @@ DataStructures && Algorthims
 
 <br>
 
-<h1>Month-1</h1>
 
 
 <br>
@@ -268,7 +267,6 @@ S.No. | Question Name | Java Solution |
 
 
 <br>
-<h1>Month-2</h1>
 
 <details>
 <Summary>Two Pointers + Slow&&Fast Pointers</Summary>
@@ -510,7 +508,7 @@ S.No. | Question Name | Java Solution |
 
 
 <br>
-<h1>Month-3</h1>
+
 <details>
 <Summary>Recursion && Backtracking </Summary>
 
